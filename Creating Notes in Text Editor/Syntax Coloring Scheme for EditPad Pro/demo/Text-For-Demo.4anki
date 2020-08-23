@@ -1,0 +1,46 @@
+﻿# This is a comment
+# This too; it contains a semi-colon
+# This one has a url: http://www.ankiweb.com (it can be clicked!)
+  # We don't mind spaces at the beginning of commented lines
+
+# Proper fields: with or without tags
+Field 1;Field 2;
+Field 1;Field 2;Tag1 Tag2
+Fast field selection;via your shortcut for Block/Between Matching Brackets;
+Fast field navigation;via your shortcut for Go/Go to Matching Bracket;hotkey
+
+# Highlight line breaks
+Field 1<br><br>More Stuff;Field 2<br><br>More Stuff;
+
+# Highlight html
+Field <i>one</i>, I believe;Everything is <i>awesome</i>! Everything is awesome!;
+
+# Allow semi-colons between quotes (undocumented but works)
+"you can ; have";"semi colons; between quotes";
+"you can ; have";"semi colons; between quotes";tag
+
+# The Warning highlighting encourages well-formed cards to avoid import errors
+
+# 1. Warn for blank lines containing spaces
+   
+# 2. Warn when not enough fields
+No enough fields
+Still not enough fields;
+Field 1;Need to finish field 2
+
+# 3. Warn for semi-colon after Field 3
+Field 1;Field 2;Tag;
+
+# 4. Warn for two semi-colons after Field 2
+Field 1;Field 2;;
+
+# 5. Warn for too many fields
+Field 1;Field 2;This;Is;Too;Much;
+
+# 6. Warn for spaces in weird places
+ Field 1 ; Field 2 ; Tag Tag 
+
+# 7. Finally:
+"Disallow carriage 
+returns within quotes";"even though Anki 
+allows them" (it's cleaner to use <br>);

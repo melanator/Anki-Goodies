@@ -1,0 +1,39 @@
+┌───────┐
+│ Title │
+└───────┘
+Ultimate Italian Conjugation
+
+┌─────────┐
+│ Support │
+└─────────┘
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+
+┌──────┐
+│ Tags │
+└──────┘
+italian italiano conjugation coniugazione grammar grammatica language
+
+┌─────────────┐
+│ Description │
+└─────────────┘
+To use this deck optimally, YOU ***MUST*** READ THE MANUAL.
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+(Spanish speakers / hispanohablantes: existe una versión española del mazo, el enlace está al fin de la página)
+
+In seven months, learn to conjugate Italian verbs in all tenses, from the present to the subjunctive past — all these tenses are used in Italian, you cannot afford blind spots.
+
+→ Acquiring proper conjugation quickly is a superpower 
+→ You can even use this deck BEFORE you formerly start studying Italian
+→ The deck contains 60 verbs, including all irregular verbs in the Top-50 Italian verbs
+→ Irregular verbs follow patterns: sample verbs in the deck cover all irregular conjugation patterns found in Italian
+
+This is a carefully-designed deck, crafted and debugged over a long period. To get the most benefit, it's essential that you read the manual.
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+
+Fixes, potential improvements: report on GitHub.
+https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
+
+This deck has been translated so you can study Italian conjugation from languages other than English. 
+- Spanish (adaptation and translation by supervalino)
+  https://ankiweb.net/shared/info/464687840
+  

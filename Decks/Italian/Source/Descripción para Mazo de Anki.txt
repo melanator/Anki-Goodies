@@ -1,0 +1,72 @@
+﻿Para filtrar el mazo por tiempo, sujeto o verbo, información al fin del archivo.
+
+01. Haber / tener (Avere): 51 fichas
+02. Ser (Essere): 51 fichas
+03. Amar (Amare): 51 fichas
+04. Creer (Credere): 51 fichas
+05. Partir (Partire): 51 fichas
+06. Ver (Vedere): 51 fichas
+07. Querer (Volere): 51 fichas
+08. Hacer (Fare): 51 fichas
+09. Poder (Potere): 46 fichas
+10. Saber (Sapere): 50 fichas
+11. Deber (Dovere): 45 fichas
+12. Ir (Andare): 51 fichas
+13. Estar located (Stare): 51 fichas
+14. Decir (Dire): 51 fichas
+15. Dar (Dare): 51 fichas
+16. Oir (Udire): 51 fichas
+17. Hablar (Parlare): 51 fichas
+18. Gustar (Piacere): 51 fichas
+19. Venir (Venire): 51 fichas
+20. Tener | Sujetar, mantener (Tenere): 51 fichas
+21. Terminar (Finire): 51 fichas
+22. Salir (Uscire): 51 fichas
+23. Tomar, prender (Prendere): 51 fichas
+24. Elegir (Scegliere): 51 fichas
+25. Atraer (Attrarre): 51 fichas
+26. Poner (Porre): 51 fichas
+27. Conducir (Condurre): 51 fichas
+28. Leer (Leggere): 51 fichas
+29. Parecer like (Parere): 46 fichas
+30. Beber (Bere): 51 fichas
+31. Sentarse (Sedere): 51 fichas
+32. Valer (Valere): 51 fichas
+33. Permanecer (Rimanere): 51 fichas
+34. Aparecer (Apparire): 51 fichas
+35. Morir (Morire): 51 fichas
+36. Subir (Salire): 51 fichas
+37. Cocer (Cuocere): 51 fichas
+38. Apagar (Spegnere): 51 fichas
+39. Poner, meter (Mettere): 51 fichas
+40. Comer (Mangiare): 51 fichas
+41. Entender (Capire): 51 fichas
+42. Abrir (Aprire): 51 fichas
+43. Preguntar (Chiedere): 51 fichas
+44. Conocer (Conoscere): 51 fichas
+45. Perder (Perdere): 51 fichas
+46. Responder (Rispondere): 51 fichas
+47. Escribir (Scrivere): 51 fichas
+48. Gastar (Spendere): 51 fichas
+49. Vivir (Vivere): 51 fichas
+50. Romper (Rompere): 51 fichas
+51. Correr (Correre): 51 fichas
+52. Aprender (Imparare): 51 fichas
+53. Quitar (Togliere): 51 fichas
+54. Assumir (Assumere): 51 fichas
+55. Caer (Cadere): 51 fichas
+56. Doler (Dolere): 51 fichas
+57. Vencer (Vincere): 51 fichas
+58. Reír (Ridere): 51 fichas
+59. Conseguir (Riuscire): 51 fichas
+60. Crecer (Crescere): 51 fichas
+
+Aunque lo siguiente no es como recomiendo que se usa el mazo, se pueden crear mazos filtrados mediante las etiquetas a continuación.  
+
+tag:io tag:tu tag:lui_lei tag:noi tag:voi tag:loro
+
+tag:infinito tag:gerundio tag:participio_passato tag:participio_presente
+
+tag:presente tag:imperfetto tag:passato_remoto tag:futuro tag:condizionale tag:congiuntivo_presente tag:congiuntivo_passato tag:imperativo
+
+tag:essere tag:avere etc.

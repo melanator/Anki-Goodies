@@ -1,0 +1,72 @@
+﻿To filter the deck by tense, subject or verb, skip to the bottom.
+
+01. To have (Avere): 51 cards
+02. To be (Essere): 51 cards
+03. To love (Amare): 51 cards
+04. To believe (Credere): 51 cards
+05. To leave (Partire): 51 cards
+06. To see (Vedere): 51 cards
+07. To want (Volere): 51 cards
+08. To do (Fare): 51 cards
+09. To be able to (Potere): 46 cards
+10. To know (Sapere): 50 cards
+11. To have to (Dovere): 45 cards
+12. To go (Andare): 51 cards
+13. To be located (Stare): 51 cards
+14. To say (Dire): 51 cards
+15. To give (Dare): 51 cards
+16. To hear (Udire): 51 cards
+17. To speak (Parlare): 51 cards
+18. To please (Piacere): 51 cards
+19. To come (Venire): 51 cards
+20. To hold (Tenere): 51 cards
+21. To finish (Finire): 51 cards
+22. To go out (Uscire): 51 cards
+23. To take (Prendere): 51 cards
+24. To choose (Scegliere): 51 cards
+25. To attract (Attrarre): 51 cards
+26. To lay (Porre): 51 cards
+27. To drive (Condurre): 51 cards
+28. To read (Leggere): 51 cards
+29. To seem like (Parere): 46 cards
+30. To drink (Bere): 51 cards
+31. To sit (Sedere): 51 cards
+32. To be worth (Valere): 51 cards
+33. To remain (Rimanere): 51 cards
+34. To appear (Apparire): 51 cards
+35. To die (Morire): 51 cards
+36. To go up (Salire): 51 cards
+37. To cook (Cuocere): 51 cards
+38. To turn off (Spegnere): 51 cards
+39. To place (Mettere): 51 cards
+40. To eat (Mangiare): 51 cards
+41. To understand (Capire): 51 cards
+42. To open (Aprire): 51 cards
+43. To ask (Chiedere): 51 cards
+44. To be familiar with (Conoscere): 51 cards
+45. To lose (Perdere): 51 cards
+46. To answer (Rispondere): 51 cards
+47. To write (Scrivere): 51 cards
+48. To spend (Spendere): 51 cards
+49. To live (Vivere): 51 cards
+50. To break (Rompere): 51 cards
+51. To run (Correre): 51 cards
+52. To learn (Imparare): 51 cards
+53. To remove (Togliere): 51 cards
+54. To take on (Assumere): 51 cards
+55. To fall (Cadere): 51 cards
+56. To hurt (Dolere): 51 cards
+57. To win (Vincere): 51 cards
+58. To laugh (Ridere): 51 cards
+59. To succeed (Riuscire): 51 cards
+60. To grow (Crescere): 51 cards
+
+Altough this is not how I recommend you use the deck, you can create filtered decks using the following tags.  
+
+tag:io tag:tu tag:lui_lei tag:noi tag:voi tag:loro
+
+tag:infinito tag:gerundio tag:participio_passato tag:participio_presente
+
+tag:presente tag:imperfetto tag:passato_remoto tag:futuro tag:condizionale tag:congiuntivo_presente tag:congiuntivo_passato tag:imperativo
+
+tag:essere tag:avere etc.

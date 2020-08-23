@@ -1,0 +1,721 @@
+﻿JGCSCS
+5
+Anki Flashcards for MishMash color palette
+*.4anki
+Rex (from RexEgg)
+Please contact via http://www.RexEgg.com
+http://www.RexEgg.com
+
+TRUE
+#
+
+32
+Hello there,
+
+Welcome to my Anki Flashcards scheme for the MishMash color palette. 
+
+This scheme is specifically intented for the MishMash color palette. You can download MishMash here: https://github.com/boolbag/EditPad-Goodies/tree/master/Making%20Text%20Pretty%20-%20Syntax%20Coloring%20and%20Color%20Palettes/Color%20Palettes/MishMash 
+
+The scheme itself lives on GitHub: 
+https://github.com/boolbag/Anki-Goodies/tree/master/Creating%20Notes%20in%20Text%20Editor/Syntax%20Coloring%20Scheme%20for%20EditPad%20Pro
+
+This scheme is for Anki flashcards to be manually imported.
+* with three fields (e.g. front, back, tags)
+* delimited with semi-colons
+* I have adopted the convention that these files have a "4anki" extension, but you call them whatever you like. Don't use "anki" though, that's already taken.
+
+Improvements
+-------------------
+The scheme lives on GitHub. 
+Maybe you'd like 4 fields instead of 3?
+Don't hesitate to fork or get in touch.
+
+History
+---------
+Last year I adapted Jan's CSV scheme for semi-colon separated files and used that for Anki decks. While that worked great and I got a lot of Anki mileage out of that simple scheme, it wasn't terribly eye-pleasing.
+This year, after creating the MishMash color palette, I got into SubSchemes, which decided me to do something a bit more sophisticated for Anki. So this is a new scheme from scratch.
+
+Design Notes
+========
+- Each field is processed via two SubSchemes: a field validation (or iniitial checks) so we don't have to perform these checks at every token, then token processing.
+- The "Coloring Scheme" corresponds to field validation / iniitial operations for Field 1
+- At the end of each field's validation, there is a catch-all token () to pass control to the field's proper subscheme
+- The initial color is always set to "warning" — it's easier that way: everything is assumed wrong unless we can match something that's right.
+
+51
+# This is a comment
+# This too; it contains a semi-colon
+  # We don't mind spaces at the beginning of commented lines
+
+# Proper fields: with or without tags
+Field 1;Field 2;
+Field 1;Field 2;Tag1 Tag2
+
+# Highlight line breaks
+Field 1<br><br>More Stuff;Field 2<br><br>More Stuff;
+
+# Highlight html
+Field <i>one</i>, I believe;Everything is <i>awesome</i>! Everything is awesome!;
+
+# Highlight TODO, REVIEW or FIXME
+Field <i>one</i>, I believe;Everything TODO check translation;
+
+# Allow semi-colons between quotes (undocumented in Anki but works)
+"you can ; have";"semi colons; between quotes";
+"you can ; have";"semi colons; between quotes";tag
+
+# The Warning highlighting encourages well-formed cards to avoid import errors
+
+# 1. Allow empty BACK cards but not empty FRONT cards:
+Front;;
+;Back;
+
+# 2. Warn for blank lines containing spaces
+   
+
+# 3. Warn when not enough fields
+No enough fields
+Still not enough fields;
+Field 1;Need to finish field 2
+
+# 4. Warn for semi-colon after Field 3 (Anki sees this as the beginning of Field 4)
+Field 1;Field 2;Tag;
+
+# 5. Warn for two semi-colons after Field 2
+Field 1;Field 2;;
+
+# 6. Warn for too many fields
+Field 1;Field 2;This;Is;Too;Much;
+
+# 7. Warn for spaces in weird places
+ Field 1 ; Field 2 ; Tag Tag 
+
+# 8. Finally:
+"Disallow carriage 
+returns within quotes";"even though Anki 
+allows them" (it's cleaner to use <br>);
+29
+TRUE
+5
+Comment
+# This is a comment line
+^[ \t]*#.*[\r\n]*
+FALSE
+FALSE
+28
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Empty Field
+
+^;.*
+FALSE
+FALSE
+29
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Only One Field
+
+^[^;\r\n]++(?:;[ \t]*)?$
+FALSE
+FALSE
+29
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Warn of initial spaces
+
+^[ \t]+
+FALSE
+FALSE
+29
+0
+
+
+7
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Catch-All
+If we're here, we can start processing Field 1 in pieces
+()
+FALSE
+FALSE
+0
+0
+
+
+7
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+5
+Field 2
+1
+29
+TRUE
+0
+
+
+8
+Line Feed
+
+\r?\n|\r
+FALSE
+FALSE
+0
+0
+
+
+2
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+End Field 2
+
+;
+FALSE
+FALSE
+4
+0
+
+
+6
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Warn about misplaced spaces
+
+(?<=;)[ \t]+|[ \t]+(?=;)
+FALSE
+FALSE
+29
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Line breaks
+
+(?:<br>)+
+FALSE
+FALSE
+38
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+html
+
+<(\w+)\b[^>]*>.*?</\1[^>]*>
+FALSE
+FALSE
+17
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+TODO, REVIEW, FIXME
+TODO: swallow up the rest of the field
+\b(?:TODO|REVIEW|FIXME)\b[^;]*
+FALSE
+FALSE
+21
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Quoted String
+
+"[^"\r\n]*+"
+FALSE
+FALSE
+18
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Proper Field
+
+(?:(?!<[^>]+>|\b(?:TODO|FIXME|REVIEW)\b)[^;\r\n])*(?<![ \t])
+FALSE
+FALSE
+18
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Field 3
+1
+29
+TRUE
+0
+
+
+4
+Line Feed
+
+\r?\n|\r
+FALSE
+FALSE
+0
+0
+
+
+2
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Warn about terminal spaces
+
+[ \t]+(?=$)
+FALSE
+FALSE
+29
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Proper Tag
+
+[^;\s]*+
+FALSE
+FALSE
+19
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Proper space
+
+(?<!\s)[ ](?!\s)
+FALSE
+FALSE
+0
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Field 2 Validation
+1
+29
+FALSE
+0
+
+
+2
+Faulty Field
+Run it only once so we can return control to Field 2
+[^;\r\n]++(?:(?!;)|;{2,})
+FALSE
+FALSE
+29
+0
+
+
+2
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Otherwise
+Empty match then go to Field 2
+()
+FALSE
+FALSE
+0
+0
+
+
+3
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Field 3 Validation
+1
+0
+FALSE
+0
+
+
+3
+Faulty Field
+Run it only once so we can return control to Field 3
+[^;\r\n]*+;.*
+FALSE
+FALSE
+29
+0
+
+
+2
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Warn about initial space
+
+(?<=;)[ \t]+
+FALSE
+FALSE
+29
+0
+
+
+4
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Otherwise
+Empty match then go to Field 2
+()
+FALSE
+FALSE
+0
+0
+
+
+4
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Field 1 Tokens
+1
+29
+FALSE
+0
+
+
+7
+Line Feed
+Back to Default Scheme, which are initial operations / validation on Field 1
+(?:\r?\n|\r)+
+FALSE
+FALSE
+0
+0
+
+
+2
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+End Field 1
+Color the delimiter and switch to Field 2
+;
+FALSE
+FALSE
+4
+0
+
+
+5
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Warn of final spaces
+
+[ \t]+(?=;)
+FALSE
+FALSE
+29
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Line breaks
+
+(?:<br>)+
+FALSE
+FALSE
+38
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+html
+
+<(\w+)\b[^>]*>.*?</\1[^>]*>
+FALSE
+FALSE
+11
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Quoted String
+Allows semi-colon within quoted string: "A;Valid;Field;This;Is";
+"[^"\r\n]*+"
+FALSE
+FALSE
+12
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+Proper field
+
+(?:(?!<[^>]+>)[^;\r\n])*(?<![ \t])
+FALSE
+FALSE
+12
+0
+
+
+0
+FALSE
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+

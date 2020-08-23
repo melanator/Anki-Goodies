@@ -1,0 +1,39 @@
+┌────────┐
+│ Título │
+└────────┘
+Domina la Conjugación Italiana
+
+┌──────┐
+│ Tags │
+└──────┘
+italian italiano conjugación coniugazione gramática grammatica idiomas
+
+┌─────────────┐
+│ Support URL │
+└─────────────┘
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+
+┌─────────────┐
+│ Descripción │
+└─────────────┘
+Para usar este mazo de manera óptima, ***DEBES*** LEER EL MANUAL. (En inglés de momento, traducción en curso.)
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+
+La versión original del mazo se ha escrito en inglés (ver el enlace más arriba).
+La versión en español ha sido adaptada y traducida por supervalino.
+
+En siete meses, aprende a conjugar los verbos italianos en todos los tiempos, desde el presente hasta el pretérito imperfecto de subjuntivo.
+
+→ Adquirir la conjugación correcta velozmente es un superpoder
+→ Puedes incluso usar este mazo ANTES de empezar formalmente el estudio del italiano
+→ El mazo contiene 60 verbos, incluidos todos los verbos irregulares que figuran entre los 50 verbos italianos mas comunes
+→ Los verbos irregulares siguen ciertos patrones: los verbos en el mazo abarcan todos los patrones de conjugación irregular que se encuentran en italiano
+
+Este es un mazo esmeradamente diseñado, elaborado y corregido en el transcurso de un largo período. Para sacarle beneficio al máximo, es esencial leer el manual.
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+
+Correcciones, mejoras potenciales: avisar en GitHub.
+https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
+
+Versión original del mazo (en inglés):
+https://ankiweb.net/shared/info/1891639832

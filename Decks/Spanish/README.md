@@ -2,12 +2,11 @@
 
 ## TL;DR: this is an AWESOME deck, but ONLY if you [READ THE MANUAL](http://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html)
 
-
-# ADD SCREENSHOTS HERE
+![Produje](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Spanish/screenshots/w_sp-produje-300-2.jpg)
 
 - [The Manual](http://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html) (**_read it!!!_**)
 - The [Deck on AnkiWeb](https://ankiweb.net/shared/info/638411848)
-- Deck [text source]() and [CSS]()
+- Deck [text source](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Spanish/source/Ultimate%20Spanish%20Conjugation%20%7B%7BCloze%7D%7D.4anki) and [CSS](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Spanish/source/styling.css)
 - [Discuss on Reddit](https://www.reddit.com/r/Anki/)
 
 ### Editing the Text File? Use a comfortable environment

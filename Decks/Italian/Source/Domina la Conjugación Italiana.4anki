@@ -105,7 +105,7 @@ Fue bueno que ellos hubieran / hubiesen;Era bello che loro av<i><b>e</b></i>sser
 ¡Habe (desusado) | Ten!;Abbi!;avere imperativo tu
 ¡Haya | Tenga!;<i><b>A</b></i>bbia!;avere imperativo lui_lei
 ¡Hayamos (desusado) | Tengamos!;Abbiamo!;avere imperativo noi
-!Habed (desusado) | Tened!;Abbiate!;avere imperativo voi
+¡Habed (desusado) | Tened!;Abbiate!;avere imperativo voi
 ¡Hayan (desusado) | Tengan!;<i><b>A</b></i>bbiano!;avere imperativo loro
 #
 # Essere
@@ -159,7 +159,7 @@ Fue bueno que ellos fueran / fuesen (ser);Era bello che loro f<i><b>o</b></i>sse
 ¡Sé!;Sii!;essere imperativo tu
 ¡Sea!;Sia!;essere imperativo lui_lei
 ¡Seamos!;Siamo!;essere imperativo noi
-¡Seáis!;Siate!;essere imperativo voi
+¡Sed!;Siate!;essere imperativo voi
 ¡Sean!;S<i><b>i</b></i>ano!;essere imperativo loro
 #
 # Amare
@@ -608,8 +608,8 @@ Ahora ellos deben;Ora loro d<i><b>e</b></i>vono / d<i><b>e</b></i>bbono;dovere p
 ↧En aquel momento↧ yo debí;In quel momento io dovetti / dovei;dovere passato_remoto io
 ↧En aquel momento↧ tú debiste;In quel momento tu dovesti;dovere passato_remoto tu
 ↧En aquel momento↧ él/ella debió;In quel momento lui/lei dovette / dové;dovere passato_remoto lui_lei
-↧En aquel momento↧ nosotros debimos to;In quel momento noi dovemmo;dovere passato_remoto noi
-↧En aquel momento↧ vosotros debisteis to;In quel momento voi doveste;dovere passato_remoto voi
+↧En aquel momento↧ nosotros debimos;In quel momento noi dovemmo;dovere passato_remoto noi
+↧En aquel momento↧ vosotros debisteis;In quel momento voi doveste;dovere passato_remoto voi
 ↧En aquel momento↧ ellos debieron;In quel momento loro dov<i><b>e</b></i>ttero / dov<i><b>e</b></i>rono;dovere passato_remoto loro
 ⇢Yo deberé;Io dovrò;dovere futuro io
 ⇢Tú deberás;Tu dovrai;dovere futuro tu
@@ -1591,7 +1591,7 @@ Ahora ellos parecen;Ora loro p<i><b>a</b></i>iono;parere presente loro
 …Vosotros pareceríais…;Voi parreste;parere condizionale voi
 …Ellos parecerían…;Loro parr<i><b>e</b></i>bbero;parere condizionale loro
 Parece divertido que yo parezca;Sembra divertente che io p<i><b>a</b></i>ia;parere congiuntivo_presente io
-Parece divertido que tú parerezcas;Sembra divertente che tu p<i><b>a</b></i>ia;parere congiuntivo_presente tu
+Parece divertido que tú parezcas;Sembra divertente che tu p<i><b>a</b></i>ia;parere congiuntivo_presente tu
 Parece divertido que él/ella parezca;Sembra divertente che lui/lei p<i><b>a</b></i>ia;parere congiuntivo_presente lui_lei
 Parece divertido que nosotros parezcamos;Sembra divertente che noi paiamo / pariamo;parere congiuntivo_presente noi
 Parece divertido que vosotros parezcáis;Sembra divertente che voi paiate / pariate;parere congiuntivo_presente voi
@@ -1912,8 +1912,8 @@ Ahora ellos mueren;Ora loro mu<i><b>o</b></i>iono;morire presente loro
 Parece divertido que yo muera;Sembra divertente che io mu<i><b>o</b></i>ia;morire congiuntivo_presente io
 Parece divertido que tú mueras;Sembra divertente che tu mu<i><b>o</b></i>ia;morire congiuntivo_presente tu
 Parece divertido que él/ella muera;Sembra divertente che lui/lei mu<i><b>o</b></i>ia;morire congiuntivo_presente lui_lei
-Parece divertido que nosotros mueramos;Sembra divertente che noi moriamo;morire congiuntivo_presente noi
-Parece divertido que vosotros mueráis;Sembra divertente che voi moriate;morire congiuntivo_presente voi
+Parece divertido que nosotros muramos;Sembra divertente che noi moriamo;morire congiuntivo_presente noi
+Parece divertido que vosotros muráis;Sembra divertente che voi moriate;morire congiuntivo_presente voi
 Parece divertido que ellos mueran;Sembra divertente che loro mu<i><b>o</b></i>iano;morire congiuntivo_presente loro
 Fue bueno que yo muriera / muriese;Era bello che io morissi;morire congiuntivo_passato io
 Fue bueno que tú murieras / murieses;Era bello che tu morissi;morire congiuntivo_passato tu
@@ -1931,7 +1931,7 @@ Fue bueno que ellos murieran / muriesen;Era bello che loro mor<i><b>i</b></i>sse
 #
 Subir;Salire;salire infinito
 Subiendo;Salendo;salire gerundio
-Haber subido;Essere salito;salire participio_passato
+Haber subido;<i><b>E</b></i>ssere salito;salire participio_passato
 Que sube;Saliente<br><br>lexicalizado significa 'saliente, sobresaliente' (adj/sust);salire participio_presente
 Ahora yo subo;Ora io salgo;salire presente io
 Ahora tú subes;Ora tu sali;salire presente tu
@@ -2266,7 +2266,7 @@ Ahora ellos abren;Ora loro <i><b>a</b></i>prono;aprire presente loro
 ⇠Yo abría;Io aprivo;aprire imperfetto io
 ⇠Tú abrías;Tu aprivi;aprire imperfetto tu
 ⇠Él/ella abría;Lui/lei apriva;aprire imperfetto lui_lei
-⇠Nosotros abrimos;Noi aprivamo;aprire imperfetto noi
+⇠Nosotros abríamos;Noi aprivamo;aprire imperfetto noi
 ⇠Vosotros abríais;Voi aprivate;aprire imperfetto voi
 ⇠Ellos abrían;Loro apr<i><b>i</b></i>vano;aprire imperfetto loro
 ↧En aquel momento↧ yo abrí;In quel momento io aprii / apersi;aprire passato_remoto io
@@ -2309,7 +2309,7 @@ Fue bueno que ellos abrieran / abriesen;Era bello che loro apr<i><b>i</b></i>sse
 #
 Preguntar;Chi<i><b>e</b></i>dere;chiedere infinito
 Preguntando;Chiedendo;chiedere gerundio
-Haber presuntado;Avere chiesto;chiedere participio_passato
+Haber preguntado;Avere chiesto;chiedere participio_passato
 Que pregunta;Chiedente;chiedere participio_presente
 Ahora yo pregunto;Ora io chiedo;chiedere presente io
 Ahora tú preguntas;Ora tu chiedi;chiedere presente tu
@@ -3122,7 +3122,7 @@ Riendo;Ridendo;ridere gerundio
 Haber reído;Avere riso;ridere participio_passato
 Que ríe;Ridente<br><br>lexicalizado significa 'risueño, alegre, agradable' (adj);ridere participio_presente
 Ahora yo río;Ora io rido;ridere presente io
-Ahora tú ríés;Ora tu ridi;ridere presente tu
+Ahora tú ríes;Ora tu ridi;ridere presente tu
 Ahora él/ella ríe;Ora lui/lei ride;ridere presente lui_lei
 Ahora nosotros reímos;Ora noi ridiamo;ridere presente noi
 Ahora vosotros reís;Ora voi ridete;ridere presente voi

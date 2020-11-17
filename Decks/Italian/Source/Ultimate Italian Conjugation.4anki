@@ -170,7 +170,7 @@ It seems funny that I should have;Sembra divertente che io <i><b>a</b></i>bbia;a
 It seems funny that you <i><b>(tu)</b></i> should have;Sembra divertente che tu <i><b>a</b></i>bbia;avere congiuntivo_presente tu
 It seems funny that he/she should have;Sembra divertente che lui/lei <i><b>a</b></i>bbia;avere congiuntivo_presente lui_lei
 It seems funny that we should have;Sembra divertente che noi abbiamo;avere congiuntivo_presente noi
-It seems funny that y'all should have;Sembra divertente che voi abbiate;avere congiuntivo_presente voi
+It seems funny that y'all should have;Sembra divertente che voi abbiate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;avere congiuntivo_presente voi
 It seems funny that they should have;Sembra divertente che loro <i><b>a</b></i>bbiano;avere congiuntivo_presente loro
 
 It <i><b>was</b></i> good that I should have;Era bello che io avessi;avere congiuntivo_passato io
@@ -237,7 +237,7 @@ It seems funny that I should be;Sembra divertente che io sia;congiuntivo_present
 It seems funny that you <i><b>(tu)</b></i> should be;Sembra divertente che tu sia;congiuntivo_presente essere tu
 It seems funny that he/she should be;Sembra divertente che lui/lei sia;congiuntivo_presente essere lui_lei
 It seems funny that we should be;Sembra divertente che noi siamo;congiuntivo_presente essere noi
-It seems funny that y'all should be;Sembra divertente che voi siate;congiuntivo_presente essere voi
+It seems funny that y'all should be;Sembra divertente che voi siate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente essere voi
 It seems funny that they should be;Sembra divertente che loro s<i><b>i</b></i>ano;congiuntivo_presente essere loro
 
 It <i><b>was</b></i> good that I should be;Era bello che io fossi;congiuntivo_passato essere io
@@ -572,7 +572,7 @@ It seems funny that I should want;Sembra divertente che io v<i><b>o</b></i>glia;
 It seems funny that you <i><b>(tu)</b></i> should want;Sembra divertente che tu v<i><b>o</b></i>glia;congiuntivo_presente tu volere
 It seems funny that he/she should want;Sembra divertente che lui/lei v<i><b>o</b></i>glia;congiuntivo_presente lui_lei volere
 It seems funny that we should want;Sembra divertente che noi vogliamo;congiuntivo_presente noi volere
-It seems funny that y'all should want;Sembra divertente che voi vogliate;congiuntivo_presente voi volere
+It seems funny that y'all should want;Sembra divertente che voi vogliate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente voi volere
 It seems funny that they should want;Sembra divertente che loro v<i><b>o</b></i>gliano;congiuntivo_presente loro volere
 
 It <i><b>was</b></i> good that I should want;Era bello che io volessi;congiuntivo_passato io volere
@@ -769,7 +769,7 @@ It seems funny that I should know;Sembra divertente che io s<i><b>a</b></i>ppia;
 It seems funny that you <i><b>(tu)</b></i> should know;Sembra divertente che tu s<i><b>a</b></i>ppia;congiuntivo_presente sapere tu
 It seems funny that he/she should know;Sembra divertente che lui/lei s<i><b>a</b></i>ppia;congiuntivo_presente lui_lei sapere
 It seems funny that we should know;Sembra divertente che noi sappiamo;congiuntivo_presente noi sapere
-It seems funny that y'all should know;Sembra divertente che voi sappiate;congiuntivo_presente sapere voi
+It seems funny that y'all should know;Sembra divertente che voi sappiate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente sapere voi
 It seems funny that they should know;Sembra divertente che loro s<i><b>a</b></i>ppiano;congiuntivo_presente loro sapere
 
 It <i><b>was</b></i> good that I should know;Era bello che io sapessi;congiuntivo_passato io sapere

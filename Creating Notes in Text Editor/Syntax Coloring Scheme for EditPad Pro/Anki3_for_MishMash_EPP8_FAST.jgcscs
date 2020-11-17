@@ -1,0 +1,1589 @@
+﻿JGCSCS
+7
+Download the Just Great Software Custom Syntax Coloring Scheme Editor from https://www.editpadpro.com/cscs.html to create and edit Just Great Software Custom Syntax Coloring Schemes
+TRUE
+Anki3 Flashcards (FAST) [optimal with MishMash color palette]
+*.4anki3
+Rex (from RexEgg)
+Please contact via http://www.RexEgg.com
+http://www.RexEgg.com
+
+FALSE
+# 
+
+36
+Hello there,
+
+Welcome to my Anki Flashcards scheme for the MishMash color palette. 
+
+This scheme is specifically intented for the MishMash color palette. You can download MishMash here: https://github.com/boolbag/EditPad-Goodies/tree/master/Making%20Text%20Pretty%20-%20Syntax%20Coloring%20and%20Color%20Palettes/Color%20Palettes/MishMash 
+
+The scheme itself lives on GitHub: 
+https://github.com/boolbag/Anki-Goodies/tree/master/Creating%20Notes%20in%20Text%20Editor/Syntax%20Coloring%20Scheme%20for%20EditPad%20Pro
+
+This scheme is for Anki flashcards to be manually imported.
+* with four fields (e.g. uuid, front, back, tags)
+* delimited with semi-colons
+* easy navigation to front and back of field using Go / Matching bracket shortcut
+* I have adopted the convention that these files have a "4anki" extension, but you call them whatever you like. Don't use "anki" though, that's already taken.
+
+Improvements
+-------------------
+The scheme lives on GitHub. 
+Maybe you'd like 4 fields instead of 3?
+Don't hesitate to fork or get in touch.
+
+History
+---------
+In 2018 I adapted Jan's CSV scheme for semi-colon separated files and used that for Anki decks. While that worked great and I got a lot of Anki mileage out of that simple scheme, it wasn't terribly eye-pleasing.
+In 2019, after creating the MishMash color palette, I got into SubSchemes, which decided me to do something a bit more sophisticated for Anki. So this is a new scheme from scratch.
+2020: added field markers for easy navigation using Go / Matching bracket
+2020: added clickable urls inside comments
+2020: made it a Fast scheme (can be used for huge files)
+
+Design Notes
+========
+- Each field is processed via two SubSchemes: a field validation (or iniitial checks) so we don't have to perform these checks at every token, then token processing.
+- The "Coloring Scheme" corresponds to field validation / iniitial operations for Field 1
+- At the end of each field's validation, there is a catch-all token () to pass control to the field's proper subscheme
+- The initial color is always set to "warning" — it's easier that way: everything is assumed wrong unless we can match something that's right.
+
+52
+# This is a comment
+# This too; the semi-colon poses no problem
+  # We don't mind spaces at the beginning of commented lines
+# links like http://www.ankiweb.com inside comments are now clickable
+
+# Proper fields: with or without tags
+UUID;Field 1;Field 2;
+UUID;Field 1;Field 2;Tag1 Tag2
+
+# Highlight line breaks
+UUID;Field 1<br><br>More Stuff;Field 2<br><br>More Stuff;
+
+# Highlight html
+UUID;Field <i>one</i>, I believe;Everything is <i>awesome</i>! Everything is awesome!;
+
+# Highlight TODO, REVIEW or FIXME
+UUID;Field <i>one</i>, I believe;Everything TODO check translation;
+
+# Allow semi-colons between quotes (undocumented in Anki but works)
+UUID;"you can ; have";"semi colons; between quotes";
+UUID;"you can ; have";"semi colons; between quotes";tag
+
+# The Warning highlighting encourages well-formed cards to avoid import errors
+
+# 1. Allow empty BACK cards but not empty FRONT cards:
+UUID;Front;;
+;Back;
+
+# 2. Warn for blank lines containing spaces
+   
+
+# 3. Warn when not enough fields
+No enough fields
+Still not enough fields;
+UUID;Field 1;Need to finish field 2
+
+# 4. Warn for semi-colon after Field 4 (Anki sees this as the beginning of Field 5)
+UUID;Field 1;Field 2;Tag;
+
+# 5. Warn for two semi-colons after Field 2
+UUID;Field 1;Field 2;;
+
+# 6. Warn for too many fields
+Field 1;Field 2;This;Is;Too;Much;
+
+# 7. Warn for spaces in weird places
+UUID ; Field 1 ; Field 2 ; Tag Tag 
+
+# 8. Finally:
+"Disallow carriage 
+returns within quotes";"even though Anki 
+allows them" (it's cleaner to use <br>);
+warn
+0
+0
+0
+
+17
+Initial operations / validation on Field 1
+
+=== FAST SCHEME ===
+Each negative character class should contain \v or \s
+This explains unusual syntax of the form
+[^X\v]
+or
+(?:[ \t]|[^\sX])
+
+[^X\r\n] 
+is not enough because it can match SOME kinds of line feeds.
+
+To search for remaining offending tokens, use this: 
+\[\^|\\[srnvRDW]
+
+= Snippets for Pasting =
+(?:[ \t]|[^\s])
+5
+Comment start
+# This is the start of a comment line
+^[ \t]*#
+FALSE
+FALSE
+f9
+0
+
+
+-1
+8
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Empty Field
+
+^;.*
+FALSE
+FALSE
+warn
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Only One Field
+
+^[^;\v]++(?:;[ \t]*)?$
+FALSE
+FALSE
+warn
+0
+
+
+-1
+-1
+3
+TRUE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Warn of initial spaces
+Spaces before field 1
+^[ \t]+
+FALSE
+FALSE
+warn
+0
+
+
+-1
+1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Catch-All
+If we're here, we can start processing Field 1 in pieces
+()
+FALSE
+FALSE
+
+0
+
+
+-1
+1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+0
+8
+UUID Field
+2
+warn
+3
+
+
+
+0
+0
+
+0
+7
+End UUID Field
+Color the delimiter and switch to Field 2
+;
+FALSE
+FALSE
+s
+0
+
+
+-1
+5
+3
+TRUE
+FALSE
+FALSE
+
+0
+Bracket1
+
+TRUE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Warn of final spaces
+Spaces before the semii-colon
+[ \t]+(?=;)
+FALSE
+FALSE
+warn
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+html line breaks
+
+(?:<br>)+
+FALSE
+FALSE
+f6
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+html
+color html tags
+<(\w+)\b[^>\v]*>[^<\v]*</\1[^>\v]*>
+FALSE
+FALSE
+str
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Quoted String
+Allows semi-colon within quoted string: "A;Valid;Field;This;Is";
+"[^"\v]*+"
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Start Bracket1
+
+^\w
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+0
+
+Bracket1
+
+TRUE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+Proper field minus first letter
+The first letter is the Bracket1 marker
+(?:(?!<[^>\v]+>)[^;\v])*(?<![ \t])
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Field 2
+2
+warn
+2
+
+
+
+0
+0
+
+0
+9
+Start Bracket2
+The first character of the field is the Bracket2 marker
+(?<=;).
+FALSE
+FALSE
+keyword
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+0
+
+Bracket2
+
+TRUE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+End Field 2
+
+;
+FALSE
+FALSE
+s
+0
+
+
+-1
+6
+3
+FALSE
+FALSE
+FALSE
+
+0
+Bracket2
+
+TRUE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+EOL
+Return to Main scheme
+3
+#$
+# Not needed because this is a "Toggle until end of line" subscheme
+# Such schemes are useful because a plain "Toggle" scheme disqualifies a squeme from being a "Fast" scheme.
+FALSE
+FALSE
+
+0
+
+
+-1
+0
+3
+TRUE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Warn about misplaced spaces
+
+(?<=;)[ \t]+|[ \t]+(?=;)
+FALSE
+FALSE
+warn
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+html line breaks
+
+(?:<br>)+
+FALSE
+FALSE
+f6
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+html
+
+<(\w+)\b[^>\v]*>[^<\v]*</\1[^>\v]*>
+FALSE
+FALSE
+preproc
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+TODO, REVIEW, FIXME
+TODO: swallow up the rest of the field
+\b(?:TODO|REVIEW|FIXME)\b[^;\v]*
+FALSE
+FALSE
+date
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Quoted String
+
+"[^"\v]*+"
+FALSE
+FALSE
+keyword
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Proper Field
+
+(?:(?!<[^>\v]+>|\b(?:TODO|FIXME|REVIEW)\b)[^;\v])*(?<![ \t])
+FALSE
+FALSE
+keyword
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Field 3
+2
+warn
+3
+
+
+
+0
+0
+
+0
+7
+End Field 3
+Color the delimiter and switch to Field 4
+;
+FALSE
+FALSE
+s
+0
+
+
+-1
+7
+3
+TRUE
+FALSE
+FALSE
+
+0
+Bracket1
+
+TRUE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Warn of final spaces
+Spaces before the semii-colon
+[ \t]+(?=;)
+FALSE
+FALSE
+warn
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+html line breaks
+
+(?:<br>)+
+FALSE
+FALSE
+f6
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+html
+color html tags
+<(\w+)\b[^>\v]*>[^<\v]*</\1[^>\v]*>
+FALSE
+FALSE
+str
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Quoted String
+Allows semi-colon within quoted string: "A;Valid;Field;This;Is";
+"[^"\v]*+"
+FALSE
+FALSE
+patt
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Start Bracket1
+
+^\w
+FALSE
+FALSE
+patt
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+0
+
+Bracket1
+
+TRUE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+Proper field minus first letter
+The first letter is the Bracket1 marker
+(?:(?!<[^>\v]+>)[^;\v])*(?<![ \t])
+FALSE
+FALSE
+patt
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Field 4
+2
+warn
+2
+
+
+
+0
+0
+
+0
+7
+Start Bracket3
+The first character of the field is the Bracket3 marker
+(?<=;).
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+0
+
+Bracket3
+
+TRUE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+End Bracket3
+The last character of the last tag
+(?m).$
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+0
+Bracket3
+
+TRUE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+EOL
+Return to Main scheme
+3
+#$
+# Not needed because this is a "Toggle until end of line" subscheme
+# Such schemes are useful because a plain "Toggle" scheme disqualifies a squeme from being a "Fast" scheme.
+FALSE
+FALSE
+
+0
+
+
+-1
+0
+3
+TRUE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Warn about terminal spaces
+
+[ \t]+(?=$)
+FALSE
+FALSE
+warn
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Proper Tag followed by space
+
+[^;\s]*+(?=[ ])
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+Proper Closing Tag minus final letter
+
+[^;\s]*(?=.$)
+FALSE
+FALSE
+int
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Proper space
+
+2
+# (?<!\s)[ ](?!\s) Prevents a FAST scheme: no \s even within lookarounds
+(?m)(?<![ \t])[ ](?!$|[ \t])
+FALSE
+FALSE
+patt
+0
+
+
+-1
+-1
+3
+TRUE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Field 2 Pre-Validation
+2
+warn
+3
+
+
+
+0
+0
+
+1
+Run it only once so we can move on to Field 2
+2
+Faulty Field
+No semi-colon, or two in a row: eat up the line then move back to Main scheme
+[^;\v]++(?:(?!;)|;{2,}.*)
+FALSE
+FALSE
+warn
+0
+
+
+-1
+0
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Otherwise
+Empty match then go to Field 2
+()
+FALSE
+FALSE
+
+0
+
+
+-1
+2
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Field 3 Pre-Validation
+2
+warn
+3
+
+
+
+0
+0
+
+1
+Run it only once so we can move on to Field 3
+2
+Faulty Field
+No semi-colon, or two in a row: eat up the line then move back to Main scheme
+[^;\v]++(?:(?!;)|;{2,}.*)
+FALSE
+FALSE
+warn
+0
+
+
+-1
+0
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Otherwise
+Empty match then go to Field 2
+()
+FALSE
+FALSE
+
+0
+
+
+-1
+3
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Field 4 Pre-Validation
+2
+
+3
+
+
+
+0
+0
+
+1
+Run it only once so we can move on to Field 4
+3
+Faulty Field
+There should not be another semi-colon. Finish the line, then go back to Main scheme.
+[^;\v]*+;.* # THIS IS THE LINE WITH THE PROBLEM
+FALSE
+FALSE
+warn
+0
+
+
+-1
+0
+3
+TRUE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Warn about initial space
+
+(?<=;)[ \t]+
+FALSE
+FALSE
+warn
+0
+
+
+-1
+4
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Otherwise
+Empty match, move on to Field 3
+()
+FALSE
+FALSE
+
+0
+
+
+-1
+4
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+TRUE
+0
+0
+0
+0
+0
+0
+Comment details
+2
+
+2
+
+
+
+0
+0
+
+0
+3
+EOL
+
+3
+#$
+# Not needed because this is a "Toggle until end of line" subscheme
+# Such schemes are useful because a plain "Toggle" scheme disqualifies a squeme from being a "Fast" scheme.
+FALSE
+FALSE
+
+0
+
+
+-1
+0
+3
+TRUE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+url
+
+(?i)(?:https?://)?www\.\S+
+FALSE
+FALSE
+lbl
+4
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0
+Not url
+
+(?:(?!(?:https?://)?www\.).)*
+FALSE
+FALSE
+f9
+0
+
+
+-1
+-1
+3
+FALSE
+FALSE
+FALSE
+
+
+
+
+FALSE
+
+0
+0
+FALSE
+0
+0
+0
+0
+0
+0

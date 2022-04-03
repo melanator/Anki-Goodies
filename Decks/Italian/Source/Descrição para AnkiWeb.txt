@@ -41,3 +41,4 @@ Recomenda-se mudar o número de novas cartas por dia para 0 e escolher manualmen
 
 
 Visite o GitHub para quaisquer pedidos ou correcções que queira recomendar: https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
+

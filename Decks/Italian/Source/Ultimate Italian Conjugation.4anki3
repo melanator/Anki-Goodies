@@ -97,19 +97,19 @@
 #Y'all would ;Voi ;condizionale voi
 #They would ;Loro ;condizionale loro
 #
-#It <i><b>is</b></i> good that I should ;È bello che io ;congiuntivo_passato io
-#It <i><b>is</b></i> good that you <i><b>(tu)</b></i> should ;È bello che tu ;congiuntivo_passato tu
-#It <i><b>is</b></i> good that he/she should ;È bello che lui/lei ;congiuntivo_passato lui_lei
-#It <i><b>is</b></i> good that we should ;È bello che noi ;congiuntivo_passato noi
-#It <i><b>is</b></i> good that y'all should ;È bello che voi ;congiuntivo_passato voi
-#It <i><b>is</b></i> good that they should ;È bello che loro ;congiuntivo_passato loro
+#It <i><b>is</b></i> good that I should ;È bello che io ;congiuntivo_imperfetto io
+#It <i><b>is</b></i> good that you <i><b>(tu)</b></i> should ;È bello che tu ;congiuntivo_imperfetto tu
+#It <i><b>is</b></i> good that he/she should ;È bello che lui/lei ;congiuntivo_imperfetto lui_lei
+#It <i><b>is</b></i> good that we should ;È bello che noi ;congiuntivo_imperfetto noi
+#It <i><b>is</b></i> good that y'all should ;È bello che voi ;congiuntivo_imperfetto voi
+#It <i><b>is</b></i> good that they should ;È bello che loro ;congiuntivo_imperfetto loro
 #
-#It <i><b>was</b></i> good that I should ;Era bello che io ;congiuntivo_passato io
-#It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should ;Era bello che tu ;congiuntivo_passato tu
-#It <i><b>was</b></i> good that he/she should ;Era bello che lui/lei ;congiuntivo_passato lui_lei
-#It <i><b>was</b></i> good that we should ;Era bello che noi ;congiuntivo_passato noi
-#It <i><b>was</b></i> good that y'all should ;Era bello che voi ;congiuntivo_passato voi
-#It <i><b>was</b></i> good that they should ;Era bello che loro ;congiuntivo_passato loro
+#It <i><b>was</b></i> good that I should ;Era bello che io ;congiuntivo_imperfetto io
+#It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should ;Era bello che tu ;congiuntivo_imperfetto tu
+#It <i><b>was</b></i> good that he/she should ;Era bello che lui/lei ;congiuntivo_imperfetto lui_lei
+#It <i><b>was</b></i> good that we should ;Era bello che noi ;congiuntivo_imperfetto noi
+#It <i><b>was</b></i> good that y'all should ;Era bello che voi ;congiuntivo_imperfetto voi
+#It <i><b>was</b></i> good that they should ;Era bello che loro ;congiuntivo_imperfetto loro
 #
 #! <i><b>(tu)</b></i>;!;imperativo tu
 #May he/she !;!;imperativo lui_lei
@@ -173,12 +173,12 @@
 00039;It seems funny that y'all should have;Sembra divertente che voi abbiate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;avere congiuntivo_presente voi
 00040;It seems funny that they should have;Sembra divertente che loro <i><b>a</b></i>bbiano;avere congiuntivo_presente loro
 
-00041;It <i><b>was</b></i> good that I should have;Era bello che io avessi;avere congiuntivo_passato io
-00042;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should have;Era bello che tu avessi;avere congiuntivo_passato tu
-00043;It <i><b>was</b></i> good that he/she should have;Era bello che lui/lei avesse;avere congiuntivo_passato lui_lei
-00044;It <i><b>was</b></i> good that we should have;Era bello che noi av<i><b>e</b></i>ssimo;avere congiuntivo_passato noi
-00045;It <i><b>was</b></i> good that y'all should have;Era bello che voi aveste;avere congiuntivo_passato voi
-00046;It <i><b>was</b></i> good that they should have;Era bello che loro av<i><b>e</b></i>ssero;avere congiuntivo_passato loro
+00041;It <i><b>was</b></i> good that I should have;Era bello che io avessi;avere congiuntivo_imperfetto io
+00042;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should have;Era bello che tu avessi;avere congiuntivo_imperfetto tu
+00043;It <i><b>was</b></i> good that he/she should have;Era bello che lui/lei avesse;avere congiuntivo_imperfetto lui_lei
+00044;It <i><b>was</b></i> good that we should have;Era bello che noi av<i><b>e</b></i>ssimo;avere congiuntivo_imperfetto noi
+00045;It <i><b>was</b></i> good that y'all should have;Era bello che voi aveste;avere congiuntivo_imperfetto voi
+00046;It <i><b>was</b></i> good that they should have;Era bello che loro av<i><b>e</b></i>ssero;avere congiuntivo_imperfetto loro
 
 00047;Have! <i><b>(tu)</b></i>;Abbi!;avere imperativo tu
 00048;May he/she have!;<i><b>A</b></i>bbia!;avere imperativo lui_lei
@@ -240,12 +240,12 @@
 00090;It seems funny that y'all should be;Sembra divertente che voi siate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente essere voi
 00091;It seems funny that they should be;Sembra divertente che loro s<i><b>i</b></i>ano;congiuntivo_presente essere loro
 
-00092;It <i><b>was</b></i> good that I should be;Era bello che io fossi;congiuntivo_passato essere io
-00093;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be;Era bello che tu fossi;congiuntivo_passato essere tu
-00094;It <i><b>was</b></i> good that he/she should be;Era bello che lui/lei fosse;congiuntivo_passato essere lui_lei
-00095;It <i><b>was</b></i> good that we should be;Era bello che noi f<i><b>o</b></i>ssimo;congiuntivo_passato essere noi
-00096;It <i><b>was</b></i> good that y'all should be;Era bello che voi foste;congiuntivo_passato essere voi
-00097;It <i><b>was</b></i> good that they should be;Era bello che loro f<i><b>o</b></i>ssero;congiuntivo_passato essere loro
+00092;It <i><b>was</b></i> good that I should be;Era bello che io fossi;congiuntivo_imperfetto essere io
+00093;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be;Era bello che tu fossi;congiuntivo_imperfetto essere tu
+00094;It <i><b>was</b></i> good that he/she should be;Era bello che lui/lei fosse;congiuntivo_imperfetto essere lui_lei
+00095;It <i><b>was</b></i> good that we should be;Era bello che noi f<i><b>o</b></i>ssimo;congiuntivo_imperfetto essere noi
+00096;It <i><b>was</b></i> good that y'all should be;Era bello che voi foste;congiuntivo_imperfetto essere voi
+00097;It <i><b>was</b></i> good that they should be;Era bello che loro f<i><b>o</b></i>ssero;congiuntivo_imperfetto essere loro
 
 00098;Be! <i><b>(tu)</b></i>;Sii!;essere imperativo tu
 00099;May he/she be!;Sia!;essere imperativo lui_lei
@@ -307,12 +307,12 @@
 00141;It seems funny that y'all should love;Sembra divertente che voi amiate;amare congiuntivo_presente voi
 00142;It seems funny that they should love;Sembra divertente che loro <i><b>a</b></i>mino;amare congiuntivo_presente loro
 
-00143;It <i><b>was</b></i> good that I should love;Era bello che io amassi;amare congiuntivo_passato io
-00144;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should love;Era bello che tu amassi;amare congiuntivo_passato tu
-00145;It <i><b>was</b></i> good that he/she should love;Era bello che lui/lei amasse;amare congiuntivo_passato lui_lei
-00146;It <i><b>was</b></i> good that we should love;Era bello che noi am<i><b>a</b></i>ssimo;amare congiuntivo_passato noi
-00147;It <i><b>was</b></i> good that y'all should love;Era bello che voi amaste;amare congiuntivo_passato voi
-00148;It <i><b>was</b></i> good that they should love;Era bello che loro am<i><b>a</b></i>ssero;amare congiuntivo_passato loro
+00143;It <i><b>was</b></i> good that I should love;Era bello che io amassi;amare congiuntivo_imperfetto io
+00144;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should love;Era bello che tu amassi;amare congiuntivo_imperfetto tu
+00145;It <i><b>was</b></i> good that he/she should love;Era bello che lui/lei amasse;amare congiuntivo_imperfetto lui_lei
+00146;It <i><b>was</b></i> good that we should love;Era bello che noi am<i><b>a</b></i>ssimo;amare congiuntivo_imperfetto noi
+00147;It <i><b>was</b></i> good that y'all should love;Era bello che voi amaste;amare congiuntivo_imperfetto voi
+00148;It <i><b>was</b></i> good that they should love;Era bello che loro am<i><b>a</b></i>ssero;amare congiuntivo_imperfetto loro
 
 00149;Love! <i><b>(tu)</b></i>;Ama!;amare imperativo tu
 00150;May he/she love!;Ami!;amare imperativo lui_lei
@@ -374,12 +374,12 @@
 00192;It seems funny that y'all should believe;Sembra divertente che voi crediate;congiuntivo_presente credere voi
 00193;It seems funny that they should believe;Sembra divertente che loro cr<i><b>e</b></i>dano;congiuntivo_presente credere loro
 
-00194;It <i><b>was</b></i> good that I should believe;Era bello che io credessi;congiuntivo_passato credere io
-00195;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should believe;Era bello che tu credessi;congiuntivo_passato credere tu
-00196;It <i><b>was</b></i> good that he/she should believe;Era bello che lui/lei credesse;congiuntivo_passato credere lui_lei
-00197;It <i><b>was</b></i> good that we should believe;Era bello che noi cred<i><b>e</b></i>ssimo;congiuntivo_passato credere noi
-00198;It <i><b>was</b></i> good that y'all should believe;Era bello che voi credeste;congiuntivo_passato credere voi
-00199;It <i><b>was</b></i> good that they should believe;Era bello che loro cred<i><b>e</b></i>ssero;congiuntivo_passato credere loro
+00194;It <i><b>was</b></i> good that I should believe;Era bello che io credessi;congiuntivo_imperfetto credere io
+00195;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should believe;Era bello che tu credessi;congiuntivo_imperfetto credere tu
+00196;It <i><b>was</b></i> good that he/she should believe;Era bello che lui/lei credesse;congiuntivo_imperfetto credere lui_lei
+00197;It <i><b>was</b></i> good that we should believe;Era bello che noi cred<i><b>e</b></i>ssimo;congiuntivo_imperfetto credere noi
+00198;It <i><b>was</b></i> good that y'all should believe;Era bello che voi credeste;congiuntivo_imperfetto credere voi
+00199;It <i><b>was</b></i> good that they should believe;Era bello che loro cred<i><b>e</b></i>ssero;congiuntivo_imperfetto credere loro
 
 00200;Believe! <i><b>(tu)</b></i>;Credi!;credere imperativo tu
 00201;May he/she believe!;Creda!;credere imperativo lui_lei
@@ -441,12 +441,12 @@
 00243;It seems funny that y'all should leave;Sembra divertente che voi partiate;congiuntivo_presente partire voi
 00244;It seems funny that they should leave;Sembra divertente che loro p<i><b>a</b></i>rtano;congiuntivo_presente loro partire
 
-00245;It <i><b>was</b></i> good that I should leave;Era bello che io partissi;congiuntivo_passato io partire
-00246;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should leave;Era bello che tu partissi;congiuntivo_passato partire tu
-00247;It <i><b>was</b></i> good that he/she should leave;Era bello che lui/lei partisse;congiuntivo_passato lui_lei partire
-00248;It <i><b>was</b></i> good that we should leave;Era bello che noi part<i><b>i</b></i>ssimo;congiuntivo_passato noi partire
-00249;It <i><b>was</b></i> good that y'all should leave;Era bello che voi partiste;congiuntivo_passato partire voi
-00250;It <i><b>was</b></i> good that they should leave;Era bello che loro part<i><b>i</b></i>ssero;congiuntivo_passato loro partire
+00245;It <i><b>was</b></i> good that I should leave;Era bello che io partissi;congiuntivo_imperfetto io partire
+00246;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should leave;Era bello che tu partissi;congiuntivo_imperfetto partire tu
+00247;It <i><b>was</b></i> good that he/she should leave;Era bello che lui/lei partisse;congiuntivo_imperfetto lui_lei partire
+00248;It <i><b>was</b></i> good that we should leave;Era bello che noi part<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi partire
+00249;It <i><b>was</b></i> good that y'all should leave;Era bello che voi partiste;congiuntivo_imperfetto partire voi
+00250;It <i><b>was</b></i> good that they should leave;Era bello che loro part<i><b>i</b></i>ssero;congiuntivo_imperfetto loro partire
 
 00251;Leave! <i><b>(tu)</b></i>;Parti!;imperativo partire tu
 00252;May he/she leave!;Parta!;imperativo lui_lei partire
@@ -508,12 +508,12 @@
 00294;It seems funny that y'all should see;Sembra divertente che voi vediate;congiuntivo_presente vedere voi
 00295;It seems funny that they should see;Sembra divertente che loro v<i><b>e</b></i>dano;congiuntivo_presente loro vedere
 
-00296;It <i><b>was</b></i> good that I should see;Era bello che io vedessi;congiuntivo_passato io vedere
-00297;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should see;Era bello che tu vedessi;congiuntivo_passato tu vedere
-00298;It <i><b>was</b></i> good that he/she should see;Era bello che lui/lei vedesse;congiuntivo_passato lui_lei vedere
-00299;It <i><b>was</b></i> good that we should see;Era bello che noi ved<i><b>e</b></i>ssimo;congiuntivo_passato noi vedere
-00300;It <i><b>was</b></i> good that y'all should see;Era bello che voi vedeste;congiuntivo_passato vedere voi
-00301;It <i><b>was</b></i> good that they should see;Era bello che loro ved<i><b>e</b></i>ssero;congiuntivo_passato loro vedere
+00296;It <i><b>was</b></i> good that I should see;Era bello che io vedessi;congiuntivo_imperfetto io vedere
+00297;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should see;Era bello che tu vedessi;congiuntivo_imperfetto tu vedere
+00298;It <i><b>was</b></i> good that he/she should see;Era bello che lui/lei vedesse;congiuntivo_imperfetto lui_lei vedere
+00299;It <i><b>was</b></i> good that we should see;Era bello che noi ved<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vedere
+00300;It <i><b>was</b></i> good that y'all should see;Era bello che voi vedeste;congiuntivo_imperfetto vedere voi
+00301;It <i><b>was</b></i> good that they should see;Era bello che loro ved<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vedere
 
 00302;See! <i><b>(tu)</b></i>;Vedi!;imperativo tu vedere
 00303;May he/she see!;Veda!;imperativo lui_lei vedere
@@ -575,12 +575,12 @@
 00345;It seems funny that y'all should want;Sembra divertente che voi vogliate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente voi volere
 00346;It seems funny that they should want;Sembra divertente che loro v<i><b>o</b></i>gliano;congiuntivo_presente loro volere
 
-00347;It <i><b>was</b></i> good that I should want;Era bello che io volessi;congiuntivo_passato io volere
-00348;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should want;Era bello che tu volessi;congiuntivo_passato tu volere
-00349;It <i><b>was</b></i> good that he/she should want;Era bello che lui/lei volesse;congiuntivo_passato lui_lei volere
-00350;It <i><b>was</b></i> good that we should want;Era bello che noi vol<i><b>e</b></i>ssimo;congiuntivo_passato noi volere
-00351;It <i><b>was</b></i> good that y'all should want;Era bello che voi voleste;congiuntivo_passato voi volere
-00352;It <i><b>was</b></i> good that they should want;Era bello che loro vol<i><b>e</b></i>ssero;congiuntivo_passato loro volere
+00347;It <i><b>was</b></i> good that I should want;Era bello che io volessi;congiuntivo_imperfetto io volere
+00348;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should want;Era bello che tu volessi;congiuntivo_imperfetto tu volere
+00349;It <i><b>was</b></i> good that he/she should want;Era bello che lui/lei volesse;congiuntivo_imperfetto lui_lei volere
+00350;It <i><b>was</b></i> good that we should want;Era bello che noi vol<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi volere
+00351;It <i><b>was</b></i> good that y'all should want;Era bello che voi voleste;congiuntivo_imperfetto voi volere
+00352;It <i><b>was</b></i> good that they should want;Era bello che loro vol<i><b>e</b></i>ssero;congiuntivo_imperfetto loro volere
 
 00353;Want! <i><b>(tu)</b></i>;Vuoi! / Vogli!;imperativo tu volere
 00354;May he/she want!;V<i><b>o</b></i>glia!;imperativo lui_lei volere
@@ -642,12 +642,12 @@
 00396;It seems funny that y'all should do;Sembra divertente che voi facciate;congiuntivo_presente fare voi
 00397;It seems funny that they should do;Sembra divertente che loro f<i><b>a</b></i>cciano;congiuntivo_presente fare loro
 
-00398;It <i><b>was</b></i> good that I should do;Era bello che io facessi;congiuntivo_passato fare io
-00399;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should do;Era bello che tu facessi;congiuntivo_passato fare tu
-00400;It <i><b>was</b></i> good that he/she should do;Era bello che lui/lei facesse;congiuntivo_passato fare lui_lei
-00401;It <i><b>was</b></i> good that we should do;Era bello che noi fac<i><b>e</b></i>ssimo;congiuntivo_passato fare noi
-00402;It <i><b>was</b></i> good that y'all should do;Era bello che voi faceste;congiuntivo_passato fare voi
-00403;It <i><b>was</b></i> good that they should do;Era bello che loro fac<i><b>e</b></i>ssero;congiuntivo_passato fare loro
+00398;It <i><b>was</b></i> good that I should do;Era bello che io facessi;congiuntivo_imperfetto fare io
+00399;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should do;Era bello che tu facessi;congiuntivo_imperfetto fare tu
+00400;It <i><b>was</b></i> good that he/she should do;Era bello che lui/lei facesse;congiuntivo_imperfetto fare lui_lei
+00401;It <i><b>was</b></i> good that we should do;Era bello che noi fac<i><b>e</b></i>ssimo;congiuntivo_imperfetto fare noi
+00402;It <i><b>was</b></i> good that y'all should do;Era bello che voi faceste;congiuntivo_imperfetto fare voi
+00403;It <i><b>was</b></i> good that they should do;Era bello che loro fac<i><b>e</b></i>ssero;congiuntivo_imperfetto fare loro
 
 00404;Do! <i><b>(tu)</b></i>;Fai / Fa'!;fare imperativo tu
 00405;May he/she do!;F<i><b>a</b></i>ccia!;fare imperativo lui_lei
@@ -709,12 +709,12 @@
 00447;It seems funny that y'all should be able to;Sembra divertente che voi possiate;congiuntivo_presente potere voi
 00448;It seems funny that they should be able to;Sembra divertente che loro p<i><b>o</b></i>ssano;congiuntivo_presente loro potere
 
-00449;It <i><b>was</b></i> good that I should be able to;Era bello che io potessi;congiuntivo_passato io potere
-00450;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be able to;Era bello che tu potessi;congiuntivo_passato potere tu
-00451;It <i><b>was</b></i> good that he/she should be able to;Era bello che lui/lei potesse;congiuntivo_passato lui_lei potere
-00452;It <i><b>was</b></i> good that we should be able to;Era bello che noi pot<i><b>e</b></i>ssimo;congiuntivo_passato noi potere
-00453;It <i><b>was</b></i> good that y'all should be able to;Era bello che voi poteste;congiuntivo_passato potere voi
-00454;It <i><b>was</b></i> good that they should be able to;Era bello che loro pot<i><b>e</b></i>ssero;congiuntivo_passato loro potere
+00449;It <i><b>was</b></i> good that I should be able to;Era bello che io potessi;congiuntivo_imperfetto io potere
+00450;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be able to;Era bello che tu potessi;congiuntivo_imperfetto potere tu
+00451;It <i><b>was</b></i> good that he/she should be able to;Era bello che lui/lei potesse;congiuntivo_imperfetto lui_lei potere
+00452;It <i><b>was</b></i> good that we should be able to;Era bello che noi pot<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi potere
+00453;It <i><b>was</b></i> good that y'all should be able to;Era bello che voi poteste;congiuntivo_imperfetto potere voi
+00454;It <i><b>was</b></i> good that they should be able to;Era bello che loro pot<i><b>e</b></i>ssero;congiuntivo_imperfetto loro potere
 
 # No imperative
 
@@ -772,12 +772,12 @@
 00492;It seems funny that y'all should know;Sembra divertente che voi sappiate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente sapere voi
 00493;It seems funny that they should know;Sembra divertente che loro s<i><b>a</b></i>ppiano;congiuntivo_presente loro sapere
 
-00494;It <i><b>was</b></i> good that I should know;Era bello che io sapessi;congiuntivo_passato io sapere
-00495;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should know;Era bello che tu sapessi;congiuntivo_passato sapere tu
-00496;It <i><b>was</b></i> good that he/she should know;Era bello che lui/lei sapesse;congiuntivo_passato lui_lei sapere
-00497;It <i><b>was</b></i> good that we should know;Era bello che noi sap<i><b>e</b></i>ssimo;congiuntivo_passato noi sapere
-00498;It <i><b>was</b></i> good that y'all should know;Era bello che voi sapeste;congiuntivo_passato sapere voi
-00499;It <i><b>was</b></i> good that they should know;Era bello che loro sap<i><b>e</b></i>ssero;congiuntivo_passato loro sapere
+00494;It <i><b>was</b></i> good that I should know;Era bello che io sapessi;congiuntivo_imperfetto io sapere
+00495;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should know;Era bello che tu sapessi;congiuntivo_imperfetto sapere tu
+00496;It <i><b>was</b></i> good that he/she should know;Era bello che lui/lei sapesse;congiuntivo_imperfetto lui_lei sapere
+00497;It <i><b>was</b></i> good that we should know;Era bello che noi sap<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi sapere
+00498;It <i><b>was</b></i> good that y'all should know;Era bello che voi sapeste;congiuntivo_imperfetto sapere voi
+00499;It <i><b>was</b></i> good that they should know;Era bello che loro sap<i><b>e</b></i>ssero;congiuntivo_imperfetto loro sapere
 
 00500;Know! <i><b>(tu)</b></i>;Sappi!;imperativo sapere tu
 00501;May he/she know!;S<i><b>a</b></i>ppia!;imperativo lui_lei sapere
@@ -839,12 +839,12 @@
 00542;It seems funny that y'all should have to;Sembra divertente che voi dobbiate;congiuntivo_presente dovere voi
 00543;It seems funny that they should have to;Sembra divertente che loro d<i><b>e</b></i>bbano / d<i><b>e</b></i>vano;congiuntivo_presente dovere loro
 
-00544;It <i><b>was</b></i> good that I should have to;Era bello che io dovessi;congiuntivo_passato dovere io
-00545;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should have to;Era bello che tu dovessi;congiuntivo_passato dovere tu
-00546;It <i><b>was</b></i> good that he/she should have to;Era bello che lui/lei dovesse;congiuntivo_passato dovere lui_lei
-00547;It <i><b>was</b></i> good that we should have to;Era bello che noi dov<i><b>e</b></i>ssimo;congiuntivo_passato dovere noi
-00548;It <i><b>was</b></i> good that y'all should have to;Era bello che voi doveste;congiuntivo_passato dovere voi
-00549;It <i><b>was</b></i> good that they should have to;Era bello che loro dov<i><b>e</b></i>ssero;congiuntivo_passato dovere loro
+00544;It <i><b>was</b></i> good that I should have to;Era bello che io dovessi;congiuntivo_imperfetto dovere io
+00545;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should have to;Era bello che tu dovessi;congiuntivo_imperfetto dovere tu
+00546;It <i><b>was</b></i> good that he/she should have to;Era bello che lui/lei dovesse;congiuntivo_imperfetto dovere lui_lei
+00547;It <i><b>was</b></i> good that we should have to;Era bello che noi dov<i><b>e</b></i>ssimo;congiuntivo_imperfetto dovere noi
+00548;It <i><b>was</b></i> good that y'all should have to;Era bello che voi doveste;congiuntivo_imperfetto dovere voi
+00549;It <i><b>was</b></i> good that they should have to;Era bello che loro dov<i><b>e</b></i>ssero;congiuntivo_imperfetto dovere loro
 
 # No imperative
 
@@ -902,12 +902,12 @@
 00588;It seems funny that y'all should go;Sembra divertente che voi andiate;andare congiuntivo_presente voi
 00589;It seems funny that they should go;Sembra divertente che loro v<i><b>a</b></i>dano;andare congiuntivo_presente loro
 
-00590;It <i><b>was</b></i> good that I should go;Era bello che io andassi;andare congiuntivo_passato io
-00591;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should go;Era bello che tu andassi;andare congiuntivo_passato tu
-00592;It <i><b>was</b></i> good that he/she should go;Era bello che lui/lei andasse;andare congiuntivo_passato lui_lei
-00593;It <i><b>was</b></i> good that we should go;Era bello che noi and<i><b>a</b></i>ssimo;andare congiuntivo_passato noi
-00594;It <i><b>was</b></i> good that y'all should go;Era bello che voi andaste;andare congiuntivo_passato voi
-00595;It <i><b>was</b></i> good that they should go;Era bello che loro and<i><b>a</b></i>ssero;andare congiuntivo_passato loro
+00590;It <i><b>was</b></i> good that I should go;Era bello che io andassi;andare congiuntivo_imperfetto io
+00591;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should go;Era bello che tu andassi;andare congiuntivo_imperfetto tu
+00592;It <i><b>was</b></i> good that he/she should go;Era bello che lui/lei andasse;andare congiuntivo_imperfetto lui_lei
+00593;It <i><b>was</b></i> good that we should go;Era bello che noi and<i><b>a</b></i>ssimo;andare congiuntivo_imperfetto noi
+00594;It <i><b>was</b></i> good that y'all should go;Era bello che voi andaste;andare congiuntivo_imperfetto voi
+00595;It <i><b>was</b></i> good that they should go;Era bello che loro and<i><b>a</b></i>ssero;andare congiuntivo_imperfetto loro
 
 00596;Go! <i><b>(tu)</b></i>;Vai / Va'!;andare imperativo tu
 00597;May he/she go!;Vada!;andare imperativo lui_lei
@@ -969,12 +969,12 @@
 00639;It seems funny that y'all should be located;Sembra divertente che voi stiate;congiuntivo_presente stare voi
 00640;It seems funny that they should be located;Sembra divertente che loro st<i><b>i</b></i>ano;congiuntivo_presente loro stare
 
-00641;It <i><b>was</b></i> good that I should be located;Era bello che io stessi;congiuntivo_passato io stare
-00642;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be located;Era bello che tu stessi;congiuntivo_passato stare tu
-00643;It <i><b>was</b></i> good that he/she should be located;Era bello che lui/lei stesse;congiuntivo_passato lui_lei stare
-00644;It <i><b>was</b></i> good that we should be located;Era bello che noi st<i><b>e</b></i>ssimo;congiuntivo_passato noi stare
-00645;It <i><b>was</b></i> good that y'all should be located;Era bello che voi steste;congiuntivo_passato stare voi
-00646;It <i><b>was</b></i> good that they should be located;Era bello che loro st<i><b>e</b></i>ssero;congiuntivo_passato loro stare
+00641;It <i><b>was</b></i> good that I should be located;Era bello che io stessi;congiuntivo_imperfetto io stare
+00642;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be located;Era bello che tu stessi;congiuntivo_imperfetto stare tu
+00643;It <i><b>was</b></i> good that he/she should be located;Era bello che lui/lei stesse;congiuntivo_imperfetto lui_lei stare
+00644;It <i><b>was</b></i> good that we should be located;Era bello che noi st<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi stare
+00645;It <i><b>was</b></i> good that y'all should be located;Era bello che voi steste;congiuntivo_imperfetto stare voi
+00646;It <i><b>was</b></i> good that they should be located;Era bello che loro st<i><b>e</b></i>ssero;congiuntivo_imperfetto loro stare
 
 00647;Be located! <i><b>(tu)</b></i>;Stai / Sta'!;imperativo stare tu
 00648;May he/she be located!;Stia!;imperativo lui_lei stare
@@ -1036,12 +1036,12 @@
 00690;It seems funny that y'all should say;Sembra divertente che voi diciate;congiuntivo_presente dire voi
 00691;It seems funny that they should say;Sembra divertente che loro d<i><b>i</b></i>cano;congiuntivo_presente dire loro
 
-00692;It <i><b>was</b></i> good that I should say;Era bello che io dicessi;congiuntivo_passato dire io
-00693;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should say;Era bello che tu dicessi;congiuntivo_passato dire tu
-00694;It <i><b>was</b></i> good that he/she should say;Era bello che lui/lei dicesse;congiuntivo_passato dire lui_lei
-00695;It <i><b>was</b></i> good that we should say;Era bello che noi dic<i><b>e</b></i>ssimo;congiuntivo_passato dire noi
-00696;It <i><b>was</b></i> good that y'all should say;Era bello che voi diceste;congiuntivo_passato dire voi
-00697;It <i><b>was</b></i> good that they should say;Era bello che loro dic<i><b>e</b></i>ssero;congiuntivo_passato dire loro
+00692;It <i><b>was</b></i> good that I should say;Era bello che io dicessi;congiuntivo_imperfetto dire io
+00693;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should say;Era bello che tu dicessi;congiuntivo_imperfetto dire tu
+00694;It <i><b>was</b></i> good that he/she should say;Era bello che lui/lei dicesse;congiuntivo_imperfetto dire lui_lei
+00695;It <i><b>was</b></i> good that we should say;Era bello che noi dic<i><b>e</b></i>ssimo;congiuntivo_imperfetto dire noi
+00696;It <i><b>was</b></i> good that y'all should say;Era bello che voi diceste;congiuntivo_imperfetto dire voi
+00697;It <i><b>was</b></i> good that they should say;Era bello che loro dic<i><b>e</b></i>ssero;congiuntivo_imperfetto dire loro
 
 00698;Say! <i><b>(tu)</b></i>;Di'!;dire imperativo tu
 00699;May he/she say!;Dica!;dire imperativo lui_lei
@@ -1103,12 +1103,12 @@
 00741;It seems funny that y'all should give;Sembra divertente che voi diate;congiuntivo_presente dare voi
 00742;It seems funny that they should give;Sembra divertente che loro d<i><b>i</b></i>ano;congiuntivo_presente dare loro
 
-00743;It <i><b>was</b></i> good that I should give;Era bello che io dessi;congiuntivo_passato dare io
-00744;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should give;Era bello che tu dessi;congiuntivo_passato dare tu
-00745;It <i><b>was</b></i> good that he/she should give;Era bello che lui/lei desse;congiuntivo_passato dare lui_lei
-00746;It <i><b>was</b></i> good that we should give;Era bello che noi d<i><b>e</b></i>ssimo;congiuntivo_passato dare noi
-00747;It <i><b>was</b></i> good that y'all should give;Era bello che voi deste;congiuntivo_passato dare voi
-00748;It <i><b>was</b></i> good that they should give;Era bello che loro d<i><b>e</b></i>ssero;congiuntivo_passato dare loro
+00743;It <i><b>was</b></i> good that I should give;Era bello che io dessi;congiuntivo_imperfetto dare io
+00744;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should give;Era bello che tu dessi;congiuntivo_imperfetto dare tu
+00745;It <i><b>was</b></i> good that he/she should give;Era bello che lui/lei desse;congiuntivo_imperfetto dare lui_lei
+00746;It <i><b>was</b></i> good that we should give;Era bello che noi d<i><b>e</b></i>ssimo;congiuntivo_imperfetto dare noi
+00747;It <i><b>was</b></i> good that y'all should give;Era bello che voi deste;congiuntivo_imperfetto dare voi
+00748;It <i><b>was</b></i> good that they should give;Era bello che loro d<i><b>e</b></i>ssero;congiuntivo_imperfetto dare loro
 
 00749;Give! <i><b>(tu)</b></i>;Dai / Da'!;dare imperativo tu
 00750;May he/she give!;Dia!;dare imperativo lui_lei
@@ -1170,12 +1170,12 @@
 00792;It seems funny that y'all should hear;Sembra divertente che voi udiate;congiuntivo_presente udire voi
 00793;It seems funny that they should hear;Sembra divertente che loro <i><b>o</b></i>dano;congiuntivo_presente loro udire
 
-00794;It <i><b>was</b></i> good that I should hear;Era bello che io udissi;congiuntivo_passato io udire
-00795;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should hear;Era bello che tu udissi;congiuntivo_passato tu udire
-00796;It <i><b>was</b></i> good that he/she should hear;Era bello che lui/lei udisse;congiuntivo_passato lui_lei udire
-00797;It <i><b>was</b></i> good that we should hear;Era bello che noi ud<i><b>i</b></i>ssimo;congiuntivo_passato noi udire
-00798;It <i><b>was</b></i> good that y'all should hear;Era bello che voi udiste;congiuntivo_passato udire voi
-00799;It <i><b>was</b></i> good that they should hear;Era bello che loro ud<i><b>i</b></i>ssero;congiuntivo_passato loro udire
+00794;It <i><b>was</b></i> good that I should hear;Era bello che io udissi;congiuntivo_imperfetto io udire
+00795;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should hear;Era bello che tu udissi;congiuntivo_imperfetto tu udire
+00796;It <i><b>was</b></i> good that he/she should hear;Era bello che lui/lei udisse;congiuntivo_imperfetto lui_lei udire
+00797;It <i><b>was</b></i> good that we should hear;Era bello che noi ud<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi udire
+00798;It <i><b>was</b></i> good that y'all should hear;Era bello che voi udiste;congiuntivo_imperfetto udire voi
+00799;It <i><b>was</b></i> good that they should hear;Era bello che loro ud<i><b>i</b></i>ssero;congiuntivo_imperfetto loro udire
 
 00800;Hear! <i><b>(tu)</b></i>;Odi!;imperativo tu udire
 00801;May he/she hear!;Oda!;imperativo lui_lei udire
@@ -1235,12 +1235,12 @@
 00843;It seems funny that y'all should speak;Sembra divertente che voi parliate;congiuntivo_presente parlare voi
 00844;It seems funny that they should speak;Sembra divertente che loro p<i><b>a</b></i>rlino;congiuntivo_presente loro parlare
 
-00845;It <i><b>was</b></i> good that I should speak;Era bello che io parlassi;congiuntivo_passato io parlare
-00846;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should speak;Era bello che tu parlassi;congiuntivo_passato parlare tu
-00847;It <i><b>was</b></i> good that he/she should speak;Era bello che lui/lei parlasse;congiuntivo_passato lui_lei parlare
-00848;It <i><b>was</b></i> good that we should speak;Era bello che noi parl<i><b>a</b></i>ssimo;congiuntivo_passato noi parlare
-00849;It <i><b>was</b></i> good that y'all should speak;Era bello che voi parlaste;congiuntivo_passato parlare voi
-00850;It <i><b>was</b></i> good that they should speak;Era bello che loro parl<i><b>a</b></i>ssero;congiuntivo_passato loro parlare
+00845;It <i><b>was</b></i> good that I should speak;Era bello che io parlassi;congiuntivo_imperfetto io parlare
+00846;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should speak;Era bello che tu parlassi;congiuntivo_imperfetto parlare tu
+00847;It <i><b>was</b></i> good that he/she should speak;Era bello che lui/lei parlasse;congiuntivo_imperfetto lui_lei parlare
+00848;It <i><b>was</b></i> good that we should speak;Era bello che noi parl<i><b>a</b></i>ssimo;congiuntivo_imperfetto noi parlare
+00849;It <i><b>was</b></i> good that y'all should speak;Era bello che voi parlaste;congiuntivo_imperfetto parlare voi
+00850;It <i><b>was</b></i> good that they should speak;Era bello che loro parl<i><b>a</b></i>ssero;congiuntivo_imperfetto loro parlare
 
 00851;Speak! <i><b>(tu)</b></i>;Parla!;imperativo parlare tu
 00852;May he/she speak!;Parli!;imperativo lui_lei parlare
@@ -1302,12 +1302,12 @@
 00894;It seems funny that y'all should please;Sembra divertente che voi piacciate;congiuntivo_presente piacere voi
 00895;It seems funny that they should please;Sembra divertente che loro pi<i><b>a</b></i>cciano;congiuntivo_presente loro piacere
 
-00896;It <i><b>was</b></i> good that I should please;Era bello che io piacessi;congiuntivo_passato io piacere
-00897;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should please;Era bello che tu piacessi;congiuntivo_passato piacere tu
-00898;It <i><b>was</b></i> good that he/she should please;Era bello che lui/lei piacesse;congiuntivo_passato lui_lei piacere
-00899;It <i><b>was</b></i> good that we should please;Era bello che noi piac<i><b>e</b></i>ssimo;congiuntivo_passato noi piacere
-00900;It <i><b>was</b></i> good that y'all should please;Era bello che voi piaceste;congiuntivo_passato piacere voi
-00901;It <i><b>was</b></i> good that they should please;Era bello che loro piac<i><b>e</b></i>ssero;congiuntivo_passato loro piacere
+00896;It <i><b>was</b></i> good that I should please;Era bello che io piacessi;congiuntivo_imperfetto io piacere
+00897;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should please;Era bello che tu piacessi;congiuntivo_imperfetto piacere tu
+00898;It <i><b>was</b></i> good that he/she should please;Era bello che lui/lei piacesse;congiuntivo_imperfetto lui_lei piacere
+00899;It <i><b>was</b></i> good that we should please;Era bello che noi piac<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi piacere
+00900;It <i><b>was</b></i> good that y'all should please;Era bello che voi piaceste;congiuntivo_imperfetto piacere voi
+00901;It <i><b>was</b></i> good that they should please;Era bello che loro piac<i><b>e</b></i>ssero;congiuntivo_imperfetto loro piacere
 
 00902;Please! <i><b>(tu)</b></i>;Piaci!;imperativo piacere tu
 00903;May he/she please!;Pi<i><b>a</b></i>ccia!;imperativo lui_lei piacere
@@ -1369,12 +1369,12 @@
 00945;It seems funny that y'all should come;Sembra divertente che voi veniate;congiuntivo_presente venire voi
 00946;It seems funny that they should come;Sembra divertente che loro v<i><b>e</b></i>ngano;congiuntivo_presente loro venire
 
-00947;It <i><b>was</b></i> good that I should come;Era bello che io venissi;congiuntivo_passato io venire
-00948;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should come;Era bello che tu venissi;congiuntivo_passato tu venire
-00949;It <i><b>was</b></i> good that he/she should come;Era bello che lui/lei venisse;congiuntivo_passato lui_lei venire
-00950;It <i><b>was</b></i> good that we should come;Era bello che noi ven<i><b>i</b></i>ssimo;congiuntivo_passato noi venire
-00951;It <i><b>was</b></i> good that y'all should come;Era bello che voi veniste;congiuntivo_passato venire voi
-00952;It <i><b>was</b></i> good that they should come;Era bello che loro ven<i><b>i</b></i>ssero;congiuntivo_passato loro venire
+00947;It <i><b>was</b></i> good that I should come;Era bello che io venissi;congiuntivo_imperfetto io venire
+00948;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should come;Era bello che tu venissi;congiuntivo_imperfetto tu venire
+00949;It <i><b>was</b></i> good that he/she should come;Era bello che lui/lei venisse;congiuntivo_imperfetto lui_lei venire
+00950;It <i><b>was</b></i> good that we should come;Era bello che noi ven<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi venire
+00951;It <i><b>was</b></i> good that y'all should come;Era bello che voi veniste;congiuntivo_imperfetto venire voi
+00952;It <i><b>was</b></i> good that they should come;Era bello che loro ven<i><b>i</b></i>ssero;congiuntivo_imperfetto loro venire
 
 00953;Come! <i><b>(tu)</b></i>;Vieni!;imperativo tu venire
 00954;May he/she come!;Venga!;imperativo lui_lei venire
@@ -1436,12 +1436,12 @@
 00996;It seems funny that y'all should hold;Sembra divertente che voi teniate;congiuntivo_presente tenere voi
 00997;It seems funny that they should hold;Sembra divertente che loro t<i><b>e</b></i>ngano;congiuntivo_presente loro tenere
 
-00998;It <i><b>was</b></i> good that I should hold;Era bello che io tenessi;congiuntivo_passato io tenere
-00999;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should hold;Era bello che tu tenessi;congiuntivo_passato tenere tu
-01000;It <i><b>was</b></i> good that he/she should hold;Era bello che lui/lei tenesse;congiuntivo_passato lui_lei tenere
-01001;It <i><b>was</b></i> good that we should hold;Era bello che noi ten<i><b>e</b></i>ssimo;congiuntivo_passato noi tenere
-01002;It <i><b>was</b></i> good that y'all should hold;Era bello che voi teneste;congiuntivo_passato tenere voi
-01003;It <i><b>was</b></i> good that they should hold;Era bello che loro ten<i><b>e</b></i>ssero;congiuntivo_passato loro tenere
+00998;It <i><b>was</b></i> good that I should hold;Era bello che io tenessi;congiuntivo_imperfetto io tenere
+00999;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should hold;Era bello che tu tenessi;congiuntivo_imperfetto tenere tu
+01000;It <i><b>was</b></i> good that he/she should hold;Era bello che lui/lei tenesse;congiuntivo_imperfetto lui_lei tenere
+01001;It <i><b>was</b></i> good that we should hold;Era bello che noi ten<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi tenere
+01002;It <i><b>was</b></i> good that y'all should hold;Era bello che voi teneste;congiuntivo_imperfetto tenere voi
+01003;It <i><b>was</b></i> good that they should hold;Era bello che loro ten<i><b>e</b></i>ssero;congiuntivo_imperfetto loro tenere
 
 01004;Hold! <i><b>(tu)</b></i>;Tieni!;imperativo tenere tu
 01005;May he/she hold!;Tenga!;imperativo lui_lei tenere
@@ -1504,12 +1504,12 @@
 01047;It seems funny that y'all should finish;Sembra divertente che voi finiate;congiuntivo_presente finire voi
 01048;It seems funny that they should finish;Sembra divertente che loro fin<i><b>i</b></i>scano;congiuntivo_presente finire loro
 
-01049;It <i><b>was</b></i> good that I should finish;Era bello che io finissi;congiuntivo_passato finire io
-01050;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should finish;Era bello che tu finissi;congiuntivo_passato finire tu
-01051;It <i><b>was</b></i> good that he/she should finish;Era bello che lui/lei finisse;congiuntivo_passato finire lui_lei
-01052;It <i><b>was</b></i> good that we should finish;Era bello che noi fin<i><b>i</b></i>ssimo;congiuntivo_passato finire noi
-01053;It <i><b>was</b></i> good that y'all should finish;Era bello che voi finiste;congiuntivo_passato finire voi
-01054;It <i><b>was</b></i> good that they should finish;Era bello che loro fin<i><b>i</b></i>ssero;congiuntivo_passato finire loro
+01049;It <i><b>was</b></i> good that I should finish;Era bello che io finissi;congiuntivo_imperfetto finire io
+01050;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should finish;Era bello che tu finissi;congiuntivo_imperfetto finire tu
+01051;It <i><b>was</b></i> good that he/she should finish;Era bello che lui/lei finisse;congiuntivo_imperfetto finire lui_lei
+01052;It <i><b>was</b></i> good that we should finish;Era bello che noi fin<i><b>i</b></i>ssimo;congiuntivo_imperfetto finire noi
+01053;It <i><b>was</b></i> good that y'all should finish;Era bello che voi finiste;congiuntivo_imperfetto finire voi
+01054;It <i><b>was</b></i> good that they should finish;Era bello che loro fin<i><b>i</b></i>ssero;congiuntivo_imperfetto finire loro
 
 01055;Finish! <i><b>(tu)</b></i>;Finisci!;finire imperativo tu
 01056;May he/she finish!;Finisca!;finire imperativo lui_lei
@@ -1571,12 +1571,12 @@
 01098;It seems funny that y'all should go out;Sembra divertente che voi usciate;congiuntivo_presente uscire voi
 01099;It seems funny that they should go out;Sembra divertente che loro <i><b>e</b></i>scano;congiuntivo_presente loro uscire
 
-01100;It <i><b>was</b></i> good that I should go out;Era bello che io uscissi;congiuntivo_passato io uscire
-01101;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should go out;Era bello che tu uscissi;congiuntivo_passato tu uscire
-01102;It <i><b>was</b></i> good that he/she should go out;Era bello che lui/lei uscisse;congiuntivo_passato lui_lei uscire
-01103;It <i><b>was</b></i> good that we should go out;Era bello che noi usc<i><b>i</b></i>ssimo;congiuntivo_passato noi uscire
-01104;It <i><b>was</b></i> good that y'all should go out;Era bello che voi usciste;congiuntivo_passato uscire voi
-01105;It <i><b>was</b></i> good that they should go out;Era bello che loro usc<i><b>i</b></i>ssero;congiuntivo_passato loro uscire
+01100;It <i><b>was</b></i> good that I should go out;Era bello che io uscissi;congiuntivo_imperfetto io uscire
+01101;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should go out;Era bello che tu uscissi;congiuntivo_imperfetto tu uscire
+01102;It <i><b>was</b></i> good that he/she should go out;Era bello che lui/lei uscisse;congiuntivo_imperfetto lui_lei uscire
+01103;It <i><b>was</b></i> good that we should go out;Era bello che noi usc<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi uscire
+01104;It <i><b>was</b></i> good that y'all should go out;Era bello che voi usciste;congiuntivo_imperfetto uscire voi
+01105;It <i><b>was</b></i> good that they should go out;Era bello che loro usc<i><b>i</b></i>ssero;congiuntivo_imperfetto loro uscire
 
 01106;Go out! <i><b>(tu)</b></i>;Esci!;imperativo tu uscire
 01107;May he/she go out!;Esca!;imperativo lui_lei uscire
@@ -1636,12 +1636,12 @@
 01149;It seems funny that y'all should take;Sembra divertente che voi prendiate;congiuntivo_presente prendere voi
 01150;It seems funny that they should take;Sembra divertente che loro pr<i><b>e</b></i>ndano;congiuntivo_presente loro prendere
 
-01151;It <i><b>was</b></i> good that I should take;Era bello che io prendessi;congiuntivo_passato io prendere
-01152;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should take;Era bello che tu prendessi;congiuntivo_passato prendere tu
-01153;It <i><b>was</b></i> good that he/she should take;Era bello che lui/lei prendesse;congiuntivo_passato lui_lei prendere
-01154;It <i><b>was</b></i> good that we should take;Era bello che noi prend<i><b>e</b></i>ssimo;congiuntivo_passato noi prendere
-01155;It <i><b>was</b></i> good that y'all should take;Era bello che voi prendeste;congiuntivo_passato prendere voi
-01156;It <i><b>was</b></i> good that they should take;Era bello che loro prend<i><b>e</b></i>ssero;congiuntivo_passato loro prendere
+01151;It <i><b>was</b></i> good that I should take;Era bello che io prendessi;congiuntivo_imperfetto io prendere
+01152;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should take;Era bello che tu prendessi;congiuntivo_imperfetto prendere tu
+01153;It <i><b>was</b></i> good that he/she should take;Era bello che lui/lei prendesse;congiuntivo_imperfetto lui_lei prendere
+01154;It <i><b>was</b></i> good that we should take;Era bello che noi prend<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi prendere
+01155;It <i><b>was</b></i> good that y'all should take;Era bello che voi prendeste;congiuntivo_imperfetto prendere voi
+01156;It <i><b>was</b></i> good that they should take;Era bello che loro prend<i><b>e</b></i>ssero;congiuntivo_imperfetto loro prendere
 
 01157;Take! <i><b>(tu)</b></i>;Prendi!;imperativo prendere tu
 01158;May he/she take!;Prenda!;imperativo lui_lei prendere
@@ -1703,12 +1703,12 @@
 01200;It seems funny that y'all should choose;Sembra divertente che voi scegliate;congiuntivo_presente scegliere voi
 01201;It seems funny that they should choose;Sembra divertente che loro sc<i><b>e</b></i>lgano;congiuntivo_presente loro scegliere
 
-01202;It <i><b>was</b></i> good that I should choose;Era bello che io scegliessi;congiuntivo_passato io scegliere
-01203;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should choose;Era bello che tu scegliessi;congiuntivo_passato scegliere tu
-01204;It <i><b>was</b></i> good that he/she should choose;Era bello che lui/lei scegliesse;congiuntivo_passato lui_lei scegliere
-01205;It <i><b>was</b></i> good that we should choose;Era bello che noi scegli<i><b>e</b></i>ssimo;congiuntivo_passato noi scegliere
-01206;It <i><b>was</b></i> good that y'all should choose;Era bello che voi sceglieste;congiuntivo_passato scegliere voi
-01207;It <i><b>was</b></i> good that they should choose;Era bello che loro scegli<i><b>e</b></i>ssero;congiuntivo_passato loro scegliere
+01202;It <i><b>was</b></i> good that I should choose;Era bello che io scegliessi;congiuntivo_imperfetto io scegliere
+01203;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should choose;Era bello che tu scegliessi;congiuntivo_imperfetto scegliere tu
+01204;It <i><b>was</b></i> good that he/she should choose;Era bello che lui/lei scegliesse;congiuntivo_imperfetto lui_lei scegliere
+01205;It <i><b>was</b></i> good that we should choose;Era bello che noi scegli<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi scegliere
+01206;It <i><b>was</b></i> good that y'all should choose;Era bello che voi sceglieste;congiuntivo_imperfetto scegliere voi
+01207;It <i><b>was</b></i> good that they should choose;Era bello che loro scegli<i><b>e</b></i>ssero;congiuntivo_imperfetto loro scegliere
 
 01208;Choose! <i><b>(tu)</b></i>;Scegli!;imperativo scegliere tu
 01209;May he/she choose!;Scelga!;imperativo lui_lei scegliere
@@ -1771,12 +1771,12 @@
 01251;It seems funny that y'all should attract;Sembra divertente che voi attraiate;attrarre congiuntivo_presente voi
 01252;It seems funny that they should attract;Sembra divertente che loro attr<i><b>a</b></i>ggano;attrarre congiuntivo_presente loro
 
-01253;It <i><b>was</b></i> good that I should attract;Era bello che io attraessi;attrarre congiuntivo_passato io
-01254;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should attract;Era bello che tu attraessi;attrarre congiuntivo_passato tu
-01255;It <i><b>was</b></i> good that he/she should attract;Era bello che lui/lei attraesse;attrarre congiuntivo_passato lui_lei
-01256;It <i><b>was</b></i> good that we should attract;Era bello che noi attra<i><b>e</b></i>ssimo;attrarre congiuntivo_passato noi
-01257;It <i><b>was</b></i> good that y'all should attract;Era bello che voi attraeste;attrarre congiuntivo_passato voi
-01258;It <i><b>was</b></i> good that they should attract;Era bello che loro attra<i><b>e</b></i>ssero;attrarre congiuntivo_passato loro
+01253;It <i><b>was</b></i> good that I should attract;Era bello che io attraessi;attrarre congiuntivo_imperfetto io
+01254;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should attract;Era bello che tu attraessi;attrarre congiuntivo_imperfetto tu
+01255;It <i><b>was</b></i> good that he/she should attract;Era bello che lui/lei attraesse;attrarre congiuntivo_imperfetto lui_lei
+01256;It <i><b>was</b></i> good that we should attract;Era bello che noi attra<i><b>e</b></i>ssimo;attrarre congiuntivo_imperfetto noi
+01257;It <i><b>was</b></i> good that y'all should attract;Era bello che voi attraeste;attrarre congiuntivo_imperfetto voi
+01258;It <i><b>was</b></i> good that they should attract;Era bello che loro attra<i><b>e</b></i>ssero;attrarre congiuntivo_imperfetto loro
 
 01259;Attract! <i><b>(tu)</b></i>;Attrai!;attrarre imperativo tu
 01260;May he/she attract!;Attragga!;attrarre imperativo lui_lei
@@ -1839,12 +1839,12 @@
 01302;It seems funny that y'all should lay;Sembra divertente che voi poniate;congiuntivo_presente porre voi
 01303;It seems funny that they should lay;Sembra divertente che loro p<i><b>o</b></i>ngano;congiuntivo_presente loro porre
 
-01304;It <i><b>was</b></i> good that I should lay;Era bello che io ponessi;congiuntivo_passato io porre
-01305;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should lay;Era bello che tu ponessi;congiuntivo_passato porre tu
-01306;It <i><b>was</b></i> good that he/she should lay;Era bello che lui/lei ponesse;congiuntivo_passato lui_lei porre
-01307;It <i><b>was</b></i> good that we should lay;Era bello che noi pon<i><b>e</b></i>ssimo;congiuntivo_passato noi porre
-01308;It <i><b>was</b></i> good that y'all should lay;Era bello che voi poneste;congiuntivo_passato porre voi
-01309;It <i><b>was</b></i> good that they should lay;Era bello che loro pon<i><b>e</b></i>ssero;congiuntivo_passato loro porre
+01304;It <i><b>was</b></i> good that I should lay;Era bello che io ponessi;congiuntivo_imperfetto io porre
+01305;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should lay;Era bello che tu ponessi;congiuntivo_imperfetto porre tu
+01306;It <i><b>was</b></i> good that he/she should lay;Era bello che lui/lei ponesse;congiuntivo_imperfetto lui_lei porre
+01307;It <i><b>was</b></i> good that we should lay;Era bello che noi pon<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi porre
+01308;It <i><b>was</b></i> good that y'all should lay;Era bello che voi poneste;congiuntivo_imperfetto porre voi
+01309;It <i><b>was</b></i> good that they should lay;Era bello che loro pon<i><b>e</b></i>ssero;congiuntivo_imperfetto loro porre
 
 01310;Lay! <i><b>(tu)</b></i>;Poni!;imperativo porre tu
 01311;May he/she lay!;Ponga!;imperativo lui_lei porre
@@ -1907,12 +1907,12 @@
 01353;It seems funny that y'all should drive;Sembra divertente che voi conduciate;condurre congiuntivo_presente voi
 01354;It seems funny that they should drive;Sembra divertente che loro cond<i><b>u</b></i>cano;condurre congiuntivo_presente loro
 
-01355;It <i><b>was</b></i> good that I should drive;Era bello che io conducessi;condurre congiuntivo_passato io
-01356;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should drive;Era bello che tu conducessi;condurre congiuntivo_passato tu
-01357;It <i><b>was</b></i> good that he/she should drive;Era bello che lui/lei conducesse;condurre congiuntivo_passato lui_lei
-01358;It <i><b>was</b></i> good that we should drive;Era bello che noi conduc<i><b>e</b></i>ssimo;condurre congiuntivo_passato noi
-01359;It <i><b>was</b></i> good that y'all should drive;Era bello che voi conduceste;condurre congiuntivo_passato voi
-01360;It <i><b>was</b></i> good that they should drive;Era bello che loro conduc<i><b>e</b></i>ssero;condurre congiuntivo_passato loro
+01355;It <i><b>was</b></i> good that I should drive;Era bello che io conducessi;condurre congiuntivo_imperfetto io
+01356;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should drive;Era bello che tu conducessi;condurre congiuntivo_imperfetto tu
+01357;It <i><b>was</b></i> good that he/she should drive;Era bello che lui/lei conducesse;condurre congiuntivo_imperfetto lui_lei
+01358;It <i><b>was</b></i> good that we should drive;Era bello che noi conduc<i><b>e</b></i>ssimo;condurre congiuntivo_imperfetto noi
+01359;It <i><b>was</b></i> good that y'all should drive;Era bello che voi conduceste;condurre congiuntivo_imperfetto voi
+01360;It <i><b>was</b></i> good that they should drive;Era bello che loro conduc<i><b>e</b></i>ssero;condurre congiuntivo_imperfetto loro
 
 01361;Drive! <i><b>(tu)</b></i>;Conduci!;condurre imperativo tu
 01362;May he/she drive!;Conduca!;condurre imperativo lui_lei
@@ -1974,12 +1974,12 @@
 01404;It seems funny that y'all should read;Sembra divertente che voi leggiate;congiuntivo_presente leggere voi
 01405;It seems funny that they should read;Sembra divertente che loro l<i><b>e</b></i>ggano;congiuntivo_presente leggere loro
 
-01406;It <i><b>was</b></i> good that I should read;Era bello che io leggessi;congiuntivo_passato io leggere
-01407;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should read;Era bello che tu leggessi;congiuntivo_passato leggere tu
-01408;It <i><b>was</b></i> good that he/she should read;Era bello che lui/lei leggesse;congiuntivo_passato leggere lui_lei
-01409;It <i><b>was</b></i> good that we should read;Era bello che noi legg<i><b>e</b></i>ssimo;congiuntivo_passato leggere noi
-01410;It <i><b>was</b></i> good that y'all should read;Era bello che voi leggeste;congiuntivo_passato leggere voi
-01411;It <i><b>was</b></i> good that they should read;Era bello che loro legg<i><b>e</b></i>ssero;congiuntivo_passato leggere loro
+01406;It <i><b>was</b></i> good that I should read;Era bello che io leggessi;congiuntivo_imperfetto io leggere
+01407;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should read;Era bello che tu leggessi;congiuntivo_imperfetto leggere tu
+01408;It <i><b>was</b></i> good that he/she should read;Era bello che lui/lei leggesse;congiuntivo_imperfetto leggere lui_lei
+01409;It <i><b>was</b></i> good that we should read;Era bello che noi legg<i><b>e</b></i>ssimo;congiuntivo_imperfetto leggere noi
+01410;It <i><b>was</b></i> good that y'all should read;Era bello che voi leggeste;congiuntivo_imperfetto leggere voi
+01411;It <i><b>was</b></i> good that they should read;Era bello che loro legg<i><b>e</b></i>ssero;congiuntivo_imperfetto leggere loro
 
 01412;Read! <i><b>(tu)</b></i>;Leggi!;imperativo leggere tu
 01413;May he/she read!;Legga!;imperativo leggere lui_lei
@@ -2041,12 +2041,12 @@
 01455;It seems funny that y'all should seem like;Sembra divertente che voi paiate / pariate;congiuntivo_presente parere voi
 01456;It seems funny that they should seem like;Sembra divertente che loro p<i><b>a</b></i>iano;congiuntivo_presente loro parere
 
-01457;It <i><b>was</b></i> good that I should seem like;Era bello che io paressi;congiuntivo_passato io parere
-01458;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should seem like;Era bello che tu paressi;congiuntivo_passato parere tu
-01459;It <i><b>was</b></i> good that he/she should seem like;Era bello che lui/lei paresse;congiuntivo_passato lui_lei parere
-01460;It <i><b>was</b></i> good that we should seem like;Era bello che noi par<i><b>e</b></i>ssimo;congiuntivo_passato noi parere
-01461;It <i><b>was</b></i> good that y'all should seem like;Era bello che voi pareste;congiuntivo_passato parere voi
-01462;It <i><b>was</b></i> good that they should seem like;Era bello che loro par<i><b>e</b></i>ssero;congiuntivo_passato loro parere
+01457;It <i><b>was</b></i> good that I should seem like;Era bello che io paressi;congiuntivo_imperfetto io parere
+01458;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should seem like;Era bello che tu paressi;congiuntivo_imperfetto parere tu
+01459;It <i><b>was</b></i> good that he/she should seem like;Era bello che lui/lei paresse;congiuntivo_imperfetto lui_lei parere
+01460;It <i><b>was</b></i> good that we should seem like;Era bello che noi par<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi parere
+01461;It <i><b>was</b></i> good that y'all should seem like;Era bello che voi pareste;congiuntivo_imperfetto parere voi
+01462;It <i><b>was</b></i> good that they should seem like;Era bello che loro par<i><b>e</b></i>ssero;congiuntivo_imperfetto loro parere
 
 # No imperative
 
@@ -2105,12 +2105,12 @@
 01501;It seems funny that y'all should drink;Sembra divertente che voi beviate;bere congiuntivo_presente voi
 01502;It seems funny that they should drink;Sembra divertente che loro b<i><b>e</b></i>vano;bere congiuntivo_presente loro
 
-01503;It <i><b>was</b></i> good that I should drink;Era bello che io bevessi;bere congiuntivo_passato io
-01504;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should drink;Era bello che tu bevessi;bere congiuntivo_passato tu
-01505;It <i><b>was</b></i> good that he/she should drink;Era bello che lui/lei bevesse;bere congiuntivo_passato lui_lei
-01506;It <i><b>was</b></i> good that we should drink;Era bello che noi bev<i><b>e</b></i>ssimo;bere congiuntivo_passato noi
-01507;It <i><b>was</b></i> good that y'all should drink;Era bello che voi beveste;bere congiuntivo_passato voi
-01508;It <i><b>was</b></i> good that they should drink;Era bello che loro bev<i><b>e</b></i>ssero;bere congiuntivo_passato loro
+01503;It <i><b>was</b></i> good that I should drink;Era bello che io bevessi;bere congiuntivo_imperfetto io
+01504;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should drink;Era bello che tu bevessi;bere congiuntivo_imperfetto tu
+01505;It <i><b>was</b></i> good that he/she should drink;Era bello che lui/lei bevesse;bere congiuntivo_imperfetto lui_lei
+01506;It <i><b>was</b></i> good that we should drink;Era bello che noi bev<i><b>e</b></i>ssimo;bere congiuntivo_imperfetto noi
+01507;It <i><b>was</b></i> good that y'all should drink;Era bello che voi beveste;bere congiuntivo_imperfetto voi
+01508;It <i><b>was</b></i> good that they should drink;Era bello che loro bev<i><b>e</b></i>ssero;bere congiuntivo_imperfetto loro
 
 01509;Drink! <i><b>(tu)</b></i>;Bevi!;bere imperativo tu
 01510;May he/she drink!;Beva!;bere imperativo lui_lei
@@ -2172,12 +2172,12 @@
 01552;It seems funny that y'all should sit;Sembra divertente che voi sediate;congiuntivo_presente sedere voi
 01553;It seems funny that they should sit;Sembra divertente che loro si<i><b>e</b></i>dano / s<i><b>e</b></i>ggano [lit];congiuntivo_presente loro sedere
 
-01554;It <i><b>was</b></i> good that I should sit;Era bello che io sedessi;congiuntivo_passato io sedere
-01555;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should sit;Era bello che tu sedessi;congiuntivo_passato sedere tu
-01556;It <i><b>was</b></i> good that he/she should sit;Era bello che lui/lei sedesse;congiuntivo_passato lui_lei sedere
-01557;It <i><b>was</b></i> good that we should sit;Era bello che noi sed<i><b>e</b></i>ssimo;congiuntivo_passato noi sedere
-01558;It <i><b>was</b></i> good that y'all should sit;Era bello che voi sedeste;congiuntivo_passato sedere voi
-01559;It <i><b>was</b></i> good that they should sit;Era bello che loro sed<i><b>e</b></i>ssero;congiuntivo_passato loro sedere
+01554;It <i><b>was</b></i> good that I should sit;Era bello che io sedessi;congiuntivo_imperfetto io sedere
+01555;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should sit;Era bello che tu sedessi;congiuntivo_imperfetto sedere tu
+01556;It <i><b>was</b></i> good that he/she should sit;Era bello che lui/lei sedesse;congiuntivo_imperfetto lui_lei sedere
+01557;It <i><b>was</b></i> good that we should sit;Era bello che noi sed<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi sedere
+01558;It <i><b>was</b></i> good that y'all should sit;Era bello che voi sedeste;congiuntivo_imperfetto sedere voi
+01559;It <i><b>was</b></i> good that they should sit;Era bello che loro sed<i><b>e</b></i>ssero;congiuntivo_imperfetto loro sedere
 
 01560;Sit! <i><b>(tu)</b></i>;Siedi!;imperativo sedere tu
 01561;May he/she sit!;Sieda! / Segga! [lit];imperativo lui_lei sedere
@@ -2239,12 +2239,12 @@
 01603;It seems funny that y'all should be worth;Sembra divertente che voi valiate;congiuntivo_presente valere voi
 01604;It seems funny that they should be worth;Sembra divertente che loro v<i><b>a</b></i>lgano;congiuntivo_presente loro valere
 
-01605;It <i><b>was</b></i> good that I should be worth;Era bello che io valessi;congiuntivo_passato io valere
-01606;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be worth;Era bello che tu valessi;congiuntivo_passato tu valere
-01607;It <i><b>was</b></i> good that he/she should be worth;Era bello che lui/lei valesse;congiuntivo_passato lui_lei valere
-01608;It <i><b>was</b></i> good that we should be worth;Era bello che noi val<i><b>e</b></i>ssimo;congiuntivo_passato noi valere
-01609;It <i><b>was</b></i> good that y'all should be worth;Era bello che voi valeste;congiuntivo_passato valere voi
-01610;It <i><b>was</b></i> good that they should be worth;Era bello che loro val<i><b>e</b></i>ssero;congiuntivo_passato loro valere
+01605;It <i><b>was</b></i> good that I should be worth;Era bello che io valessi;congiuntivo_imperfetto io valere
+01606;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be worth;Era bello che tu valessi;congiuntivo_imperfetto tu valere
+01607;It <i><b>was</b></i> good that he/she should be worth;Era bello che lui/lei valesse;congiuntivo_imperfetto lui_lei valere
+01608;It <i><b>was</b></i> good that we should be worth;Era bello che noi val<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi valere
+01609;It <i><b>was</b></i> good that y'all should be worth;Era bello che voi valeste;congiuntivo_imperfetto valere voi
+01610;It <i><b>was</b></i> good that they should be worth;Era bello che loro val<i><b>e</b></i>ssero;congiuntivo_imperfetto loro valere
 
 01611;Be worth! <i><b>(tu)</b></i>;Vali!;imperativo tu valere
 01612;May he/she be worth!;Valga!;imperativo lui_lei valere
@@ -2306,12 +2306,12 @@
 01654;It seems funny that y'all should remain;Sembra divertente che voi rimaniate;congiuntivo_presente rimanere voi
 01655;It seems funny that they should remain;Sembra divertente che loro rim<i><b>a</b></i>ngano;congiuntivo_presente loro rimanere
 
-01656;It <i><b>was</b></i> good that I should remain;Era bello che io rimanessi;congiuntivo_passato io rimanere
-01657;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should remain;Era bello che tu rimanessi;congiuntivo_passato rimanere tu
-01658;It <i><b>was</b></i> good that he/she should remain;Era bello che lui/lei rimanesse;congiuntivo_passato lui_lei rimanere
-01659;It <i><b>was</b></i> good that we should remain;Era bello che noi riman<i><b>e</b></i>ssimo;congiuntivo_passato noi rimanere
-01660;It <i><b>was</b></i> good that y'all should remain;Era bello che voi rimaneste;congiuntivo_passato rimanere voi
-01661;It <i><b>was</b></i> good that they should remain;Era bello che loro riman<i><b>e</b></i>ssero;congiuntivo_passato loro rimanere
+01656;It <i><b>was</b></i> good that I should remain;Era bello che io rimanessi;congiuntivo_imperfetto io rimanere
+01657;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should remain;Era bello che tu rimanessi;congiuntivo_imperfetto rimanere tu
+01658;It <i><b>was</b></i> good that he/she should remain;Era bello che lui/lei rimanesse;congiuntivo_imperfetto lui_lei rimanere
+01659;It <i><b>was</b></i> good that we should remain;Era bello che noi riman<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rimanere
+01660;It <i><b>was</b></i> good that y'all should remain;Era bello che voi rimaneste;congiuntivo_imperfetto rimanere voi
+01661;It <i><b>was</b></i> good that they should remain;Era bello che loro riman<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rimanere
 
 01662;Remain! <i><b>(tu)</b></i>;Rimani!;imperativo rimanere tu
 01663;May he/she remain!;Rimanga!;imperativo lui_lei rimanere
@@ -2373,12 +2373,12 @@
 01705;It seems funny that y'all should appear;Sembra divertente che voi appariate;apparire congiuntivo_presente voi
 01706;It seems funny that they should appear;Sembra divertente che loro app<i><b>a</b></i>iano / appar<i><b>i</b></i>scano;apparire congiuntivo_presente loro
 
-01707;It <i><b>was</b></i> good that I should appear;Era bello che io apparissi;apparire congiuntivo_passato io
-01708;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should appear;Era bello che tu apparissi;apparire congiuntivo_passato tu
-01709;It <i><b>was</b></i> good that he/she should appear;Era bello che lui/lei apparisse;apparire congiuntivo_passato lui_lei
-01710;It <i><b>was</b></i> good that we should appear;Era bello che noi appar<i><b>i</b></i>ssimo;apparire congiuntivo_passato noi
-01711;It <i><b>was</b></i> good that y'all should appear;Era bello che voi appariste;apparire congiuntivo_passato voi
-01712;It <i><b>was</b></i> good that they should appear;Era bello che loro appar<i><b>i</b></i>ssero;apparire congiuntivo_passato loro
+01707;It <i><b>was</b></i> good that I should appear;Era bello che io apparissi;apparire congiuntivo_imperfetto io
+01708;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should appear;Era bello che tu apparissi;apparire congiuntivo_imperfetto tu
+01709;It <i><b>was</b></i> good that he/she should appear;Era bello che lui/lei apparisse;apparire congiuntivo_imperfetto lui_lei
+01710;It <i><b>was</b></i> good that we should appear;Era bello che noi appar<i><b>i</b></i>ssimo;apparire congiuntivo_imperfetto noi
+01711;It <i><b>was</b></i> good that y'all should appear;Era bello che voi appariste;apparire congiuntivo_imperfetto voi
+01712;It <i><b>was</b></i> good that they should appear;Era bello che loro appar<i><b>i</b></i>ssero;apparire congiuntivo_imperfetto loro
 
 01713;Appear! <i><b>(tu)</b></i>;Appari! / Apparisci!;apparire imperativo tu
 01714;May he/she appear!;App<i><b>a</b></i>ia! / Apparisca!;apparire imperativo lui_lei
@@ -2440,12 +2440,12 @@
 01756;It seems funny that y'all should die;Sembra divertente che voi moriate;congiuntivo_presente morire voi
 01757;It seems funny that they should die;Sembra divertente che loro mu<i><b>o</b></i>iano;congiuntivo_presente loro morire
 
-01758;It <i><b>was</b></i> good that I should die;Era bello che io morissi;congiuntivo_passato io morire
-01759;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should die;Era bello che tu morissi;congiuntivo_passato morire tu
-01760;It <i><b>was</b></i> good that he/she should die;Era bello che lui/lei morisse;congiuntivo_passato lui_lei morire
-01761;It <i><b>was</b></i> good that we should die;Era bello che noi mor<i><b>i</b></i>ssimo;congiuntivo_passato morire noi
-01762;It <i><b>was</b></i> good that y'all should die;Era bello che voi moriste;congiuntivo_passato morire voi
-01763;It <i><b>was</b></i> good that they should die;Era bello che loro mor<i><b>i</b></i>ssero;congiuntivo_passato loro morire
+01758;It <i><b>was</b></i> good that I should die;Era bello che io morissi;congiuntivo_imperfetto io morire
+01759;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should die;Era bello che tu morissi;congiuntivo_imperfetto morire tu
+01760;It <i><b>was</b></i> good that he/she should die;Era bello che lui/lei morisse;congiuntivo_imperfetto lui_lei morire
+01761;It <i><b>was</b></i> good that we should die;Era bello che noi mor<i><b>i</b></i>ssimo;congiuntivo_imperfetto morire noi
+01762;It <i><b>was</b></i> good that y'all should die;Era bello che voi moriste;congiuntivo_imperfetto morire voi
+01763;It <i><b>was</b></i> good that they should die;Era bello che loro mor<i><b>i</b></i>ssero;congiuntivo_imperfetto loro morire
 
 01764;Die! <i><b>(tu)</b></i>;Muori!;imperativo morire tu
 01765;May he/she die!;Mu<i><b>o</b></i>ia!;imperativo lui_lei morire
@@ -2507,12 +2507,12 @@
 01807;It seems funny that y'all should go up;Sembra divertente che voi saliate;congiuntivo_presente salire voi
 01808;It seems funny that they should go up;Sembra divertente che loro s<i><b>a</b></i>lgano;congiuntivo_presente loro salire
 
-01809;It <i><b>was</b></i> good that I should go up;Era bello che io salissi;congiuntivo_passato io salire
-01810;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should go up;Era bello che tu salissi;congiuntivo_passato salire tu
-01811;It <i><b>was</b></i> good that he/she should go up;Era bello che lui/lei salisse;congiuntivo_passato lui_lei salire
-01812;It <i><b>was</b></i> good that we should go up;Era bello che noi sal<i><b>i</b></i>ssimo;congiuntivo_passato noi salire
-01813;It <i><b>was</b></i> good that y'all should go up;Era bello che voi saliste;congiuntivo_passato salire voi
-01814;It <i><b>was</b></i> good that they should go up;Era bello che loro sal<i><b>i</b></i>ssero;congiuntivo_passato loro salire
+01809;It <i><b>was</b></i> good that I should go up;Era bello che io salissi;congiuntivo_imperfetto io salire
+01810;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should go up;Era bello che tu salissi;congiuntivo_imperfetto salire tu
+01811;It <i><b>was</b></i> good that he/she should go up;Era bello che lui/lei salisse;congiuntivo_imperfetto lui_lei salire
+01812;It <i><b>was</b></i> good that we should go up;Era bello che noi sal<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi salire
+01813;It <i><b>was</b></i> good that y'all should go up;Era bello che voi saliste;congiuntivo_imperfetto salire voi
+01814;It <i><b>was</b></i> good that they should go up;Era bello che loro sal<i><b>i</b></i>ssero;congiuntivo_imperfetto loro salire
 
 01815;Go up! <i><b>(tu)</b></i>;Sali!;imperativo salire tu
 01816;May he/she go up!;Salga!;imperativo lui_lei salire
@@ -2574,12 +2574,12 @@
 01858;It seems funny that y'all should cook;Sembra divertente che voi cuociate / cociate;congiuntivo_presente cuocere voi
 01859;It seems funny that they should cook;Sembra divertente che loro cu<i><b>o</b></i>ciano / c<i><b>o</b></i>ciano;congiuntivo_presente cuocere loro
 
-01860;It <i><b>was</b></i> good that I should cook;Era bello che io cuocessi / cocessi;congiuntivo_passato cuocere io
-01861;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should cook;Era bello che tu cuocessi / cocessi;congiuntivo_passato cuocere tu
-01862;It <i><b>was</b></i> good that he/she should cook;Era bello che lui/lei cuocesse / cocesse;congiuntivo_passato cuocere lui_lei
-01863;It <i><b>was</b></i> good that we should cook;Era bello che noi cuoc<i><b>e</b></i>ssimo / coc<i><b>e</b></i>ssimo;congiuntivo_passato cuocere noi
-01864;It <i><b>was</b></i> good that y'all should cook;Era bello che voi cuoceste / coceste;congiuntivo_passato cuocere voi
-01865;It <i><b>was</b></i> good that they should cook;Era bello che loro cuoc<i><b>e</b></i>ssero / coc<i><b>e</b></i>ssero;congiuntivo_passato cuocere loro
+01860;It <i><b>was</b></i> good that I should cook;Era bello che io cuocessi / cocessi;congiuntivo_imperfetto cuocere io
+01861;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should cook;Era bello che tu cuocessi / cocessi;congiuntivo_imperfetto cuocere tu
+01862;It <i><b>was</b></i> good that he/she should cook;Era bello che lui/lei cuocesse / cocesse;congiuntivo_imperfetto cuocere lui_lei
+01863;It <i><b>was</b></i> good that we should cook;Era bello che noi cuoc<i><b>e</b></i>ssimo / coc<i><b>e</b></i>ssimo;congiuntivo_imperfetto cuocere noi
+01864;It <i><b>was</b></i> good that y'all should cook;Era bello che voi cuoceste / coceste;congiuntivo_imperfetto cuocere voi
+01865;It <i><b>was</b></i> good that they should cook;Era bello che loro cuoc<i><b>e</b></i>ssero / coc<i><b>e</b></i>ssero;congiuntivo_imperfetto cuocere loro
 
 01866;Cook! <i><b>(tu)</b></i>;Cuoci!;cuocere imperativo tu
 01867;May he/she cook!;Cu<i><b>o</b></i>cia!;cuocere imperativo lui_lei
@@ -2641,12 +2641,12 @@
 01909;It seems funny that y'all should turn off;Sembra divertente che voi spegniate;congiuntivo_presente spegnere voi
 01910;It seems funny that they should turn off;Sembra divertente che loro sp<i><b>e</b></i>ngano;congiuntivo_presente loro spegnere
 
-01911;It <i><b>was</b></i> good that I should turn off;Era bello che io spegnessi;congiuntivo_passato io spegnere
-01912;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should turn off;Era bello che tu spegnessi;congiuntivo_passato spegnere tu
-01913;It <i><b>was</b></i> good that he/she should turn off;Era bello che lui/lei spegnesse;congiuntivo_passato lui_lei spegnere
-01914;It <i><b>was</b></i> good that we should turn off;Era bello che noi spegn<i><b>e</b></i>ssimo;congiuntivo_passato noi spegnere
-01915;It <i><b>was</b></i> good that y'all should turn off;Era bello che voi spegneste;congiuntivo_passato spegnere voi
-01916;It <i><b>was</b></i> good that they should turn off;Era bello che loro spegn<i><b>e</b></i>ssero;congiuntivo_passato loro spegnere
+01911;It <i><b>was</b></i> good that I should turn off;Era bello che io spegnessi;congiuntivo_imperfetto io spegnere
+01912;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should turn off;Era bello che tu spegnessi;congiuntivo_imperfetto spegnere tu
+01913;It <i><b>was</b></i> good that he/she should turn off;Era bello che lui/lei spegnesse;congiuntivo_imperfetto lui_lei spegnere
+01914;It <i><b>was</b></i> good that we should turn off;Era bello che noi spegn<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi spegnere
+01915;It <i><b>was</b></i> good that y'all should turn off;Era bello che voi spegneste;congiuntivo_imperfetto spegnere voi
+01916;It <i><b>was</b></i> good that they should turn off;Era bello che loro spegn<i><b>e</b></i>ssero;congiuntivo_imperfetto loro spegnere
 
 01917;Turn off! <i><b>(tu)</b></i>;Spegni!;imperativo spegnere tu
 01918;May he/she turn off!;Spenga!;imperativo lui_lei spegnere
@@ -2706,12 +2706,12 @@
 01960;It seems funny that y'all should place;Sembra divertente che voi mettiate;congiuntivo_presente mettere voi
 01961;It seems funny that they should place;Sembra divertente che loro m<i><b>e</b></i>ttano;congiuntivo_presente loro mettere
 
-01962;It <i><b>was</b></i> good that I should place;Era bello che io mettessi;congiuntivo_passato io mettere
-01963;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should place;Era bello che tu mettessi;congiuntivo_passato mettere tu
-01964;It <i><b>was</b></i> good that he/she should place;Era bello che lui/lei mettesse;congiuntivo_passato lui_lei mettere
-01965;It <i><b>was</b></i> good that we should place;Era bello che noi mett<i><b>e</b></i>ssimo;congiuntivo_passato mettere noi
-01966;It <i><b>was</b></i> good that y'all should place;Era bello che voi metteste;congiuntivo_passato mettere voi
-01967;It <i><b>was</b></i> good that they should place;Era bello che loro mett<i><b>e</b></i>ssero;congiuntivo_passato loro mettere
+01962;It <i><b>was</b></i> good that I should place;Era bello che io mettessi;congiuntivo_imperfetto io mettere
+01963;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should place;Era bello che tu mettessi;congiuntivo_imperfetto mettere tu
+01964;It <i><b>was</b></i> good that he/she should place;Era bello che lui/lei mettesse;congiuntivo_imperfetto lui_lei mettere
+01965;It <i><b>was</b></i> good that we should place;Era bello che noi mett<i><b>e</b></i>ssimo;congiuntivo_imperfetto mettere noi
+01966;It <i><b>was</b></i> good that y'all should place;Era bello che voi metteste;congiuntivo_imperfetto mettere voi
+01967;It <i><b>was</b></i> good that they should place;Era bello che loro mett<i><b>e</b></i>ssero;congiuntivo_imperfetto loro mettere
 
 01968;Place! <i><b>(tu)</b></i>;Metti!;imperativo mettere tu
 01969;May he/she place!;Metta!;imperativo lui_lei mettere
@@ -2771,12 +2771,12 @@
 02011;It seems funny that y'all should eat;Sembra divertente che voi mangiate;congiuntivo_presente mangiare voi
 02012;It seems funny that they should eat;Sembra divertente che loro m<i><b>a</b></i>ngino;congiuntivo_presente loro mangiare
 
-02013;It <i><b>was</b></i> good that I should eat;Era bello che io mangiassi;congiuntivo_passato io mangiare
-02014;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should eat;Era bello che tu mangiassi;congiuntivo_passato mangiare tu
-02015;It <i><b>was</b></i> good that he/she should eat;Era bello che lui/lei mangiasse;congiuntivo_passato lui_lei mangiare
-02016;It <i><b>was</b></i> good that we should eat;Era bello che noi mangi<i><b>a</b></i>ssimo;congiuntivo_passato mangiare noi
-02017;It <i><b>was</b></i> good that y'all should eat;Era bello che voi mangiaste;congiuntivo_passato mangiare voi
-02018;It <i><b>was</b></i> good that they should eat;Era bello che loro mangi<i><b>a</b></i>ssero;congiuntivo_passato loro mangiare
+02013;It <i><b>was</b></i> good that I should eat;Era bello che io mangiassi;congiuntivo_imperfetto io mangiare
+02014;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should eat;Era bello che tu mangiassi;congiuntivo_imperfetto mangiare tu
+02015;It <i><b>was</b></i> good that he/she should eat;Era bello che lui/lei mangiasse;congiuntivo_imperfetto lui_lei mangiare
+02016;It <i><b>was</b></i> good that we should eat;Era bello che noi mangi<i><b>a</b></i>ssimo;congiuntivo_imperfetto mangiare noi
+02017;It <i><b>was</b></i> good that y'all should eat;Era bello che voi mangiaste;congiuntivo_imperfetto mangiare voi
+02018;It <i><b>was</b></i> good that they should eat;Era bello che loro mangi<i><b>a</b></i>ssero;congiuntivo_imperfetto loro mangiare
 
 02019;Eat! <i><b>(tu)</b></i>;Mangia!;imperativo mangiare tu
 02020;May he/she eat!;Mangi!;imperativo lui_lei mangiare
@@ -2838,12 +2838,12 @@
 02062;It seems funny that y'all should understand;Sembra divertente che voi capiate;capire congiuntivo_presente voi
 02063;It seems funny that they should understand;Sembra divertente che loro cap<i><b>i</b></i>scano;capire congiuntivo_presente loro
 
-02064;It <i><b>was</b></i> good that I should understand;Era bello che io capissi;capire congiuntivo_passato io
-02065;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should understand;Era bello che tu capissi;capire congiuntivo_passato tu
-02066;It <i><b>was</b></i> good that he/she should understand;Era bello che lui/lei capisse;capire congiuntivo_passato lui_lei
-02067;It <i><b>was</b></i> good that we should understand;Era bello che noi cap<i><b>i</b></i>ssimo;capire congiuntivo_passato noi
-02068;It <i><b>was</b></i> good that y'all should understand;Era bello che voi capiste;capire congiuntivo_passato voi
-02069;It <i><b>was</b></i> good that they should understand;Era bello che loro cap<i><b>i</b></i>ssero;capire congiuntivo_passato loro
+02064;It <i><b>was</b></i> good that I should understand;Era bello che io capissi;capire congiuntivo_imperfetto io
+02065;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should understand;Era bello che tu capissi;capire congiuntivo_imperfetto tu
+02066;It <i><b>was</b></i> good that he/she should understand;Era bello che lui/lei capisse;capire congiuntivo_imperfetto lui_lei
+02067;It <i><b>was</b></i> good that we should understand;Era bello che noi cap<i><b>i</b></i>ssimo;capire congiuntivo_imperfetto noi
+02068;It <i><b>was</b></i> good that y'all should understand;Era bello che voi capiste;capire congiuntivo_imperfetto voi
+02069;It <i><b>was</b></i> good that they should understand;Era bello che loro cap<i><b>i</b></i>ssero;capire congiuntivo_imperfetto loro
 
 02070;Understand! <i><b>(tu)</b></i>;Capisci!;capire imperativo tu
 02071;May he/she understand!;Capisca!;capire imperativo lui_lei
@@ -2910,12 +2910,12 @@
 02113;It seems funny that y'all should open;Sembra divertente che voi apriate;aprire congiuntivo_presente voi
 02114;It seems funny that they should open;Sembra divertente che loro <i><b>a</b></i>prano;aprire congiuntivo_presente loro
 
-02115;It <i><b>was</b></i> good that I should open;Era bello che io aprissi;aprire congiuntivo_passato io
-02116;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should open;Era bello che tu aprissi;aprire congiuntivo_passato tu
-02117;It <i><b>was</b></i> good that he/she should open;Era bello che lui/lei aprisse;aprire congiuntivo_passato lui_lei
-02118;It <i><b>was</b></i> good that we should open;Era bello che noi apr<i><b>i</b></i>ssimo;aprire congiuntivo_passato noi
-02119;It <i><b>was</b></i> good that y'all should open;Era bello che voi apriste;aprire congiuntivo_passato voi
-02120;It <i><b>was</b></i> good that they should open;Era bello che loro apr<i><b>i</b></i>ssero;aprire congiuntivo_passato loro
+02115;It <i><b>was</b></i> good that I should open;Era bello che io aprissi;aprire congiuntivo_imperfetto io
+02116;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should open;Era bello che tu aprissi;aprire congiuntivo_imperfetto tu
+02117;It <i><b>was</b></i> good that he/she should open;Era bello che lui/lei aprisse;aprire congiuntivo_imperfetto lui_lei
+02118;It <i><b>was</b></i> good that we should open;Era bello che noi apr<i><b>i</b></i>ssimo;aprire congiuntivo_imperfetto noi
+02119;It <i><b>was</b></i> good that y'all should open;Era bello che voi apriste;aprire congiuntivo_imperfetto voi
+02120;It <i><b>was</b></i> good that they should open;Era bello che loro apr<i><b>i</b></i>ssero;aprire congiuntivo_imperfetto loro
 
 02121;Open! <i><b>(tu)</b></i>;Apri!;aprire imperativo tu
 02122;May he/she open!;Apra!;aprire imperativo lui_lei
@@ -2975,12 +2975,12 @@
 02164;It seems funny that y'all should ask;Sembra divertente che voi chiediate;chiedere congiuntivo_presente voi
 02165;It seems funny that they should ask;Sembra divertente che loro chi<i><b>e</b></i>dano;chiedere congiuntivo_presente loro
 
-02166;It <i><b>was</b></i> good that I should ask;Era bello che io chiedessi;chiedere congiuntivo_passato io
-02167;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should ask;Era bello che tu chiedessi;chiedere congiuntivo_passato tu
-02168;It <i><b>was</b></i> good that he/she should ask;Era bello che lui/lei chiedesse;chiedere congiuntivo_passato lui_lei
-02169;It <i><b>was</b></i> good that we should ask;Era bello che noi chied<i><b>e</b></i>ssimo;chiedere congiuntivo_passato noi
-02170;It <i><b>was</b></i> good that y'all should ask;Era bello che voi chiedeste;chiedere congiuntivo_passato voi
-02171;It <i><b>was</b></i> good that they should ask;Era bello che loro chied<i><b>e</b></i>ssero;chiedere congiuntivo_passato loro
+02166;It <i><b>was</b></i> good that I should ask;Era bello che io chiedessi;chiedere congiuntivo_imperfetto io
+02167;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should ask;Era bello che tu chiedessi;chiedere congiuntivo_imperfetto tu
+02168;It <i><b>was</b></i> good that he/she should ask;Era bello che lui/lei chiedesse;chiedere congiuntivo_imperfetto lui_lei
+02169;It <i><b>was</b></i> good that we should ask;Era bello che noi chied<i><b>e</b></i>ssimo;chiedere congiuntivo_imperfetto noi
+02170;It <i><b>was</b></i> good that y'all should ask;Era bello che voi chiedeste;chiedere congiuntivo_imperfetto voi
+02171;It <i><b>was</b></i> good that they should ask;Era bello che loro chied<i><b>e</b></i>ssero;chiedere congiuntivo_imperfetto loro
 
 02172;Ask! <i><b>(tu)</b></i>;Chiedi!;chiedere imperativo tu
 02173;May he/she ask!;Chieda!;chiedere imperativo lui_lei
@@ -3040,12 +3040,12 @@
 02215;It seems funny that y'all should be familiar with;Sembra divertente che voi conosciate;congiuntivo_presente conoscere voi
 02216;It seems funny that they should be familiar with;Sembra divertente che loro con<i><b>o</b></i>scano;congiuntivo_presente conoscere loro
 
-02217;It <i><b>was</b></i> good that I should be familiar with;Era bello che io conoscessi;congiuntivo_passato conoscere io
-02218;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be familiar with;Era bello che tu conoscessi;congiuntivo_passato conoscere tu
-02219;It <i><b>was</b></i> good that he/she should be familiar with;Era bello che lui/lei conoscesse;congiuntivo_passato conoscere lui_lei
-02220;It <i><b>was</b></i> good that we should be familiar with;Era bello che noi conosc<i><b>e</b></i>ssimo;congiuntivo_passato conoscere noi
-02221;It <i><b>was</b></i> good that y'all should be familiar with;Era bello che voi conosceste;congiuntivo_passato conoscere voi
-02222;It <i><b>was</b></i> good that they should be familiar with;Era bello che loro conosc<i><b>e</b></i>ssero;congiuntivo_passato conoscere loro
+02217;It <i><b>was</b></i> good that I should be familiar with;Era bello che io conoscessi;congiuntivo_imperfetto conoscere io
+02218;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should be familiar with;Era bello che tu conoscessi;congiuntivo_imperfetto conoscere tu
+02219;It <i><b>was</b></i> good that he/she should be familiar with;Era bello che lui/lei conoscesse;congiuntivo_imperfetto conoscere lui_lei
+02220;It <i><b>was</b></i> good that we should be familiar with;Era bello che noi conosc<i><b>e</b></i>ssimo;congiuntivo_imperfetto conoscere noi
+02221;It <i><b>was</b></i> good that y'all should be familiar with;Era bello che voi conosceste;congiuntivo_imperfetto conoscere voi
+02222;It <i><b>was</b></i> good that they should be familiar with;Era bello che loro conosc<i><b>e</b></i>ssero;congiuntivo_imperfetto conoscere loro
 
 02223;Be familiar with! <i><b>(tu)</b></i>;Conosci!;conoscere imperativo tu
 02224;May he/she be familiar with!;Conosca!;conoscere imperativo lui_lei
@@ -3105,12 +3105,12 @@
 02266;It seems funny that y'all should lose;Sembra divertente che voi perdiate;congiuntivo_presente perdere voi
 02267;It seems funny that they should lose;Sembra divertente che loro p<i><b>e</b></i>rdano;congiuntivo_presente loro perdere
 
-02268;It <i><b>was</b></i> good that I should lose;Era bello che io perdessi;congiuntivo_passato io perdere
-02269;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should lose;Era bello che tu perdessi;congiuntivo_passato perdere tu
-02270;It <i><b>was</b></i> good that he/she should lose;Era bello che lui/lei perdesse;congiuntivo_passato lui_lei perdere
-02271;It <i><b>was</b></i> good that we should lose;Era bello che noi perd<i><b>e</b></i>ssimo;congiuntivo_passato noi perdere
-02272;It <i><b>was</b></i> good that y'all should lose;Era bello che voi perdeste;congiuntivo_passato perdere voi
-02273;It <i><b>was</b></i> good that they should lose;Era bello che loro perd<i><b>e</b></i>ssero;congiuntivo_passato loro perdere
+02268;It <i><b>was</b></i> good that I should lose;Era bello che io perdessi;congiuntivo_imperfetto io perdere
+02269;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should lose;Era bello che tu perdessi;congiuntivo_imperfetto perdere tu
+02270;It <i><b>was</b></i> good that he/she should lose;Era bello che lui/lei perdesse;congiuntivo_imperfetto lui_lei perdere
+02271;It <i><b>was</b></i> good that we should lose;Era bello che noi perd<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi perdere
+02272;It <i><b>was</b></i> good that y'all should lose;Era bello che voi perdeste;congiuntivo_imperfetto perdere voi
+02273;It <i><b>was</b></i> good that they should lose;Era bello che loro perd<i><b>e</b></i>ssero;congiuntivo_imperfetto loro perdere
 
 02274;Lose! <i><b>(tu)</b></i>;Perdi!;imperativo perdere tu
 02275;May he/she lose!;Perda!;imperativo lui_lei perdere
@@ -3170,12 +3170,12 @@
 02317;It seems funny that y'all should answer;Sembra divertente che voi rispondiate;congiuntivo_presente rispondere voi
 02318;It seems funny that they should answer;Sembra divertente che loro risp<i><b>o</b></i>ndano;congiuntivo_presente loro rispondere
 
-02319;It <i><b>was</b></i> good that I should answer;Era bello che io rispondessi;congiuntivo_passato io rispondere
-02320;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should answer;Era bello che tu rispondessi;congiuntivo_passato rispondere tu
-02321;It <i><b>was</b></i> good that he/she should answer;Era bello che lui/lei rispondesse;congiuntivo_passato lui_lei rispondere
-02322;It <i><b>was</b></i> good that we should answer;Era bello che noi rispond<i><b>e</b></i>ssimo;congiuntivo_passato noi rispondere
-02323;It <i><b>was</b></i> good that y'all should answer;Era bello che voi rispondeste;congiuntivo_passato rispondere voi
-02324;It <i><b>was</b></i> good that they should answer;Era bello che loro rispond<i><b>e</b></i>ssero;congiuntivo_passato loro rispondere
+02319;It <i><b>was</b></i> good that I should answer;Era bello che io rispondessi;congiuntivo_imperfetto io rispondere
+02320;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should answer;Era bello che tu rispondessi;congiuntivo_imperfetto rispondere tu
+02321;It <i><b>was</b></i> good that he/she should answer;Era bello che lui/lei rispondesse;congiuntivo_imperfetto lui_lei rispondere
+02322;It <i><b>was</b></i> good that we should answer;Era bello che noi rispond<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rispondere
+02323;It <i><b>was</b></i> good that y'all should answer;Era bello che voi rispondeste;congiuntivo_imperfetto rispondere voi
+02324;It <i><b>was</b></i> good that they should answer;Era bello che loro rispond<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rispondere
 
 02325;Answer! <i><b>(tu)</b></i>;Rispondi!;imperativo rispondere tu
 02326;May he/she answer!;Risponda!;imperativo lui_lei rispondere
@@ -3235,12 +3235,12 @@
 02368;It seems funny that y'all should write;Sembra divertente che voi scriviate;congiuntivo_presente scrivere voi
 02369;It seems funny that they should write;Sembra divertente che loro scr<i><b>i</b></i>vano;congiuntivo_presente loro scrivere
 
-02370;It <i><b>was</b></i> good that I should write;Era bello che io scrivessi;congiuntivo_passato io scrivere
-02371;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should write;Era bello che tu scrivessi;congiuntivo_passato scrivere tu
-02372;It <i><b>was</b></i> good that he/she should write;Era bello che lui/lei scrivesse;congiuntivo_passato lui_lei scrivere
-02373;It <i><b>was</b></i> good that we should write;Era bello che noi scriv<i><b>e</b></i>ssimo;congiuntivo_passato noi scrivere
-02374;It <i><b>was</b></i> good that y'all should write;Era bello che voi scriveste;congiuntivo_passato scrivere voi
-02375;It <i><b>was</b></i> good that they should write;Era bello che loro scriv<i><b>e</b></i>ssero;congiuntivo_passato loro scrivere
+02370;It <i><b>was</b></i> good that I should write;Era bello che io scrivessi;congiuntivo_imperfetto io scrivere
+02371;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should write;Era bello che tu scrivessi;congiuntivo_imperfetto scrivere tu
+02372;It <i><b>was</b></i> good that he/she should write;Era bello che lui/lei scrivesse;congiuntivo_imperfetto lui_lei scrivere
+02373;It <i><b>was</b></i> good that we should write;Era bello che noi scriv<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi scrivere
+02374;It <i><b>was</b></i> good that y'all should write;Era bello che voi scriveste;congiuntivo_imperfetto scrivere voi
+02375;It <i><b>was</b></i> good that they should write;Era bello che loro scriv<i><b>e</b></i>ssero;congiuntivo_imperfetto loro scrivere
 
 02376;Write! <i><b>(tu)</b></i>;Scrivi!;imperativo scrivere tu
 02377;May he/she write!;Scriva!;imperativo lui_lei scrivere
@@ -3300,12 +3300,12 @@
 02419;It seems funny that y'all should spend;Sembra divertente che voi spendiate;congiuntivo_presente spendere voi
 02420;It seems funny that they should spend;Sembra divertente che loro sp<i><b>e</b></i>ndano;congiuntivo_presente loro spendere
 
-02421;It <i><b>was</b></i> good that I should spend;Era bello che io spendessi;congiuntivo_passato io spendere
-02422;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should spend;Era bello che tu spendessi;congiuntivo_passato spendere tu
-02423;It <i><b>was</b></i> good that he/she should spend;Era bello che lui/lei spendesse;congiuntivo_passato lui_lei spendere
-02424;It <i><b>was</b></i> good that we should spend;Era bello che noi spend<i><b>e</b></i>ssimo;congiuntivo_passato noi spendere
-02425;It <i><b>was</b></i> good that y'all should spend;Era bello che voi spendeste;congiuntivo_passato spendere voi
-02426;It <i><b>was</b></i> good that they should spend;Era bello che loro spend<i><b>e</b></i>ssero;congiuntivo_passato loro spendere
+02421;It <i><b>was</b></i> good that I should spend;Era bello che io spendessi;congiuntivo_imperfetto io spendere
+02422;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should spend;Era bello che tu spendessi;congiuntivo_imperfetto spendere tu
+02423;It <i><b>was</b></i> good that he/she should spend;Era bello che lui/lei spendesse;congiuntivo_imperfetto lui_lei spendere
+02424;It <i><b>was</b></i> good that we should spend;Era bello che noi spend<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi spendere
+02425;It <i><b>was</b></i> good that y'all should spend;Era bello che voi spendeste;congiuntivo_imperfetto spendere voi
+02426;It <i><b>was</b></i> good that they should spend;Era bello che loro spend<i><b>e</b></i>ssero;congiuntivo_imperfetto loro spendere
 
 02427;Spend! <i><b>(tu)</b></i>;Spendi!;imperativo spendere tu
 02428;May he/she spend!;Spenda!;imperativo lui_lei spendere
@@ -3365,12 +3365,12 @@
 02470;It seems funny that y'all should live;Sembra divertente che voi viviate;congiuntivo_presente vivere voi
 02471;It seems funny that they should live;Sembra divertente che loro v<i><b>i</b></i>vano;congiuntivo_presente loro vivere
 
-02472;It <i><b>was</b></i> good that I should live;Era bello che io vivessi;congiuntivo_passato io vivere
-02473;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should live;Era bello che tu vivessi;congiuntivo_passato tu vivere
-02474;It <i><b>was</b></i> good that he/she should live;Era bello che lui/lei vivesse;congiuntivo_passato lui_lei vivere
-02475;It <i><b>was</b></i> good that we should live;Era bello che noi viv<i><b>e</b></i>ssimo;congiuntivo_passato noi vivere
-02476;It <i><b>was</b></i> good that y'all should live;Era bello che voi viveste;congiuntivo_passato vivere voi
-02477;It <i><b>was</b></i> good that they should live;Era bello che loro viv<i><b>e</b></i>ssero;congiuntivo_passato loro vivere
+02472;It <i><b>was</b></i> good that I should live;Era bello che io vivessi;congiuntivo_imperfetto io vivere
+02473;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should live;Era bello che tu vivessi;congiuntivo_imperfetto tu vivere
+02474;It <i><b>was</b></i> good that he/she should live;Era bello che lui/lei vivesse;congiuntivo_imperfetto lui_lei vivere
+02475;It <i><b>was</b></i> good that we should live;Era bello che noi viv<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vivere
+02476;It <i><b>was</b></i> good that y'all should live;Era bello che voi viveste;congiuntivo_imperfetto vivere voi
+02477;It <i><b>was</b></i> good that they should live;Era bello che loro viv<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vivere
 
 02478;Live! <i><b>(tu)</b></i>;Vivi!;imperativo tu vivere
 02479;May he/she live!;Viva!;imperativo lui_lei vivere
@@ -3430,12 +3430,12 @@
 02521;It seems funny that y'all should break;Sembra divertente che voi rompiate;congiuntivo_presente rompere voi
 02522;It seems funny that they should break;Sembra divertente che loro r<i><b>o</b></i>mpano;congiuntivo_presente loro rompere
 
-02523;It <i><b>was</b></i> good that I should break;Era bello che io rompessi;congiuntivo_passato io rompere
-02524;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should break;Era bello che tu rompessi;congiuntivo_passato rompere tu
-02525;It <i><b>was</b></i> good that he/she should break;Era bello che lui/lei rompesse;congiuntivo_passato lui_lei rompere
-02526;It <i><b>was</b></i> good that we should break;Era bello che noi romp<i><b>e</b></i>ssimo;congiuntivo_passato noi rompere
-02527;It <i><b>was</b></i> good that y'all should break;Era bello che voi rompeste;congiuntivo_passato rompere voi
-02528;It <i><b>was</b></i> good that they should break;Era bello che loro romp<i><b>e</b></i>ssero;congiuntivo_passato loro rompere
+02523;It <i><b>was</b></i> good that I should break;Era bello che io rompessi;congiuntivo_imperfetto io rompere
+02524;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should break;Era bello che tu rompessi;congiuntivo_imperfetto rompere tu
+02525;It <i><b>was</b></i> good that he/she should break;Era bello che lui/lei rompesse;congiuntivo_imperfetto lui_lei rompere
+02526;It <i><b>was</b></i> good that we should break;Era bello che noi romp<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rompere
+02527;It <i><b>was</b></i> good that y'all should break;Era bello che voi rompeste;congiuntivo_imperfetto rompere voi
+02528;It <i><b>was</b></i> good that they should break;Era bello che loro romp<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rompere
 
 02529;Break! <i><b>(tu)</b></i>;Rompi!;imperativo rompere tu
 02530;May he/she break!;Rompa!;imperativo lui_lei rompere
@@ -3495,12 +3495,12 @@
 02572;It seems funny that y'all should run;Sembra divertente che voi corriate;congiuntivo_presente correre voi
 02573;It seems funny that they should run;Sembra divertente che loro c<i><b>o</b></i>rrano;congiuntivo_presente correre loro
 
-02574;It <i><b>was</b></i> good that I should run;Era bello che io corressi;congiuntivo_passato correre io
-02575;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should run;Era bello che tu corressi;congiuntivo_passato correre tu
-02576;It <i><b>was</b></i> good that he/she should run;Era bello che lui/lei corresse;congiuntivo_passato correre lui_lei
-02577;It <i><b>was</b></i> good that we should run;Era bello che noi corr<i><b>e</b></i>ssimo;congiuntivo_passato correre noi
-02578;It <i><b>was</b></i> good that y'all should run;Era bello che voi correste;congiuntivo_passato correre voi
-02579;It <i><b>was</b></i> good that they should run;Era bello che loro corr<i><b>e</b></i>ssero;congiuntivo_passato correre loro
+02574;It <i><b>was</b></i> good that I should run;Era bello che io corressi;congiuntivo_imperfetto correre io
+02575;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should run;Era bello che tu corressi;congiuntivo_imperfetto correre tu
+02576;It <i><b>was</b></i> good that he/she should run;Era bello che lui/lei corresse;congiuntivo_imperfetto correre lui_lei
+02577;It <i><b>was</b></i> good that we should run;Era bello che noi corr<i><b>e</b></i>ssimo;congiuntivo_imperfetto correre noi
+02578;It <i><b>was</b></i> good that y'all should run;Era bello che voi correste;congiuntivo_imperfetto correre voi
+02579;It <i><b>was</b></i> good that they should run;Era bello che loro corr<i><b>e</b></i>ssero;congiuntivo_imperfetto correre loro
 
 02580;Run! <i><b>(tu)</b></i>;Corri!;correre imperativo tu
 02581;May he/she run!;Corra!;correre imperativo lui_lei
@@ -3560,12 +3560,12 @@
 02623;It seems funny that y'all should learn;Sembra divertente che voi impariate;congiuntivo_presente imparare voi
 02624;It seems funny that they should learn;Sembra divertente che loro imp<i><b>a</b></i>rino;congiuntivo_presente imparare loro
 
-02625;It <i><b>was</b></i> good that I should learn;Era bello che io imparassi;congiuntivo_passato imparare io
-02626;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should learn;Era bello che tu imparassi;congiuntivo_passato imparare tu
-02627;It <i><b>was</b></i> good that he/she should learn;Era bello che lui/lei imparasse;congiuntivo_passato imparare lui_lei
-02628;It <i><b>was</b></i> good that we should learn;Era bello che noi impar<i><b>a</b></i>ssimo;congiuntivo_passato imparare noi
-02629;It <i><b>was</b></i> good that y'all should learn;Era bello che voi imparaste;congiuntivo_passato imparare voi
-02630;It <i><b>was</b></i> good that they should learn;Era bello che loro impar<i><b>a</b></i>ssero;congiuntivo_passato imparare loro
+02625;It <i><b>was</b></i> good that I should learn;Era bello che io imparassi;congiuntivo_imperfetto imparare io
+02626;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should learn;Era bello che tu imparassi;congiuntivo_imperfetto imparare tu
+02627;It <i><b>was</b></i> good that he/she should learn;Era bello che lui/lei imparasse;congiuntivo_imperfetto imparare lui_lei
+02628;It <i><b>was</b></i> good that we should learn;Era bello che noi impar<i><b>a</b></i>ssimo;congiuntivo_imperfetto imparare noi
+02629;It <i><b>was</b></i> good that y'all should learn;Era bello che voi imparaste;congiuntivo_imperfetto imparare voi
+02630;It <i><b>was</b></i> good that they should learn;Era bello che loro impar<i><b>a</b></i>ssero;congiuntivo_imperfetto imparare loro
 
 02631;Learn! <i><b>(tu)</b></i>;Impara!;imparare imperativo tu
 02632;May he/she learn!;Impari!;imparare imperativo lui_lei
@@ -3628,12 +3628,12 @@
 02674;It seems funny that y'all should remove;Sembra divertente che voi togliate;congiuntivo_presente togliere voi
 02675;It seems funny that they should remove;Sembra divertente che loro t<i><b>o</b></i>lgano;congiuntivo_presente loro togliere
 
-02676;It <i><b>was</b></i> good that I should remove;Era bello che io togliessi;congiuntivo_passato io togliere
-02677;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should remove;Era bello che tu togliessi;congiuntivo_passato togliere tu
-02678;It <i><b>was</b></i> good that he/she should remove;Era bello che lui/lei togliesse;congiuntivo_passato lui_lei togliere
-02679;It <i><b>was</b></i> good that we should remove;Era bello che noi togli<i><b>e</b></i>ssimo;congiuntivo_passato noi togliere
-02680;It <i><b>was</b></i> good that y'all should remove;Era bello che voi toglieste;congiuntivo_passato togliere voi
-02681;It <i><b>was</b></i> good that they should remove;Era bello che loro togli<i><b>e</b></i>ssero;congiuntivo_passato loro togliere
+02676;It <i><b>was</b></i> good that I should remove;Era bello che io togliessi;congiuntivo_imperfetto io togliere
+02677;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should remove;Era bello che tu togliessi;congiuntivo_imperfetto togliere tu
+02678;It <i><b>was</b></i> good that he/she should remove;Era bello che lui/lei togliesse;congiuntivo_imperfetto lui_lei togliere
+02679;It <i><b>was</b></i> good that we should remove;Era bello che noi togli<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi togliere
+02680;It <i><b>was</b></i> good that y'all should remove;Era bello che voi toglieste;congiuntivo_imperfetto togliere voi
+02681;It <i><b>was</b></i> good that they should remove;Era bello che loro togli<i><b>e</b></i>ssero;congiuntivo_imperfetto loro togliere
 
 02682;Remove! <i><b>(tu)</b></i>;Togli!;imperativo togliere tu
 02683;May he/she remove!;Tolga!;imperativo lui_lei togliere
@@ -3693,12 +3693,12 @@
 02725;It seems funny that y'all should take on;Sembra divertente che voi assumiate;assumere congiuntivo_presente voi
 02726;It seems funny that they should take on;Sembra divertente che loro ass<i><b>u</b></i>mano;assumere congiuntivo_presente loro
 
-02727;It <i><b>was</b></i> good that I should take on;Era bello che io assumessi;assumere congiuntivo_passato io
-02728;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should take on;Era bello che tu assumessi;assumere congiuntivo_passato tu
-02729;It <i><b>was</b></i> good that he/she should take on;Era bello che lui/lei assumesse;assumere congiuntivo_passato lui_lei
-02730;It <i><b>was</b></i> good that we should take on;Era bello che noi assum<i><b>e</b></i>ssimo;assumere congiuntivo_passato noi
-02731;It <i><b>was</b></i> good that y'all should take on;Era bello che voi assumeste;assumere congiuntivo_passato voi
-02732;It <i><b>was</b></i> good that they should take on;Era bello che loro assum<i><b>e</b></i>ssero;assumere congiuntivo_passato loro
+02727;It <i><b>was</b></i> good that I should take on;Era bello che io assumessi;assumere congiuntivo_imperfetto io
+02728;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should take on;Era bello che tu assumessi;assumere congiuntivo_imperfetto tu
+02729;It <i><b>was</b></i> good that he/she should take on;Era bello che lui/lei assumesse;assumere congiuntivo_imperfetto lui_lei
+02730;It <i><b>was</b></i> good that we should take on;Era bello che noi assum<i><b>e</b></i>ssimo;assumere congiuntivo_imperfetto noi
+02731;It <i><b>was</b></i> good that y'all should take on;Era bello che voi assumeste;assumere congiuntivo_imperfetto voi
+02732;It <i><b>was</b></i> good that they should take on;Era bello che loro assum<i><b>e</b></i>ssero;assumere congiuntivo_imperfetto loro
 
 02733;Take on! <i><b>(tu)</b></i>;Assumi!;assumere imperativo tu
 02734;May he/she take on!;Assuma!;assumere imperativo lui_lei
@@ -3758,12 +3758,12 @@
 02776;It seems funny that y'all should fall;Sembra divertente che voi cadiate;cadere congiuntivo_presente voi
 02777;It seems funny that they should fall;Sembra divertente che loro c<i><b>a</b></i>dano;cadere congiuntivo_presente loro
 
-02778;It <i><b>was</b></i> good that I should fall;Era bello che io cadessi;cadere congiuntivo_passato io
-02779;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should fall;Era bello che tu cadessi;cadere congiuntivo_passato tu
-02780;It <i><b>was</b></i> good that he/she should fall;Era bello che lui/lei cadesse;cadere congiuntivo_passato lui_lei
-02781;It <i><b>was</b></i> good that we should fall;Era bello che noi cad<i><b>e</b></i>ssimo;cadere congiuntivo_passato noi
-02782;It <i><b>was</b></i> good that y'all should fall;Era bello che voi cadeste;cadere congiuntivo_passato voi
-02783;It <i><b>was</b></i> good that they should fall;Era bello che loro cad<i><b>e</b></i>ssero;cadere congiuntivo_passato loro
+02778;It <i><b>was</b></i> good that I should fall;Era bello che io cadessi;cadere congiuntivo_imperfetto io
+02779;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should fall;Era bello che tu cadessi;cadere congiuntivo_imperfetto tu
+02780;It <i><b>was</b></i> good that he/she should fall;Era bello che lui/lei cadesse;cadere congiuntivo_imperfetto lui_lei
+02781;It <i><b>was</b></i> good that we should fall;Era bello che noi cad<i><b>e</b></i>ssimo;cadere congiuntivo_imperfetto noi
+02782;It <i><b>was</b></i> good that y'all should fall;Era bello che voi cadeste;cadere congiuntivo_imperfetto voi
+02783;It <i><b>was</b></i> good that they should fall;Era bello che loro cad<i><b>e</b></i>ssero;cadere congiuntivo_imperfetto loro
 
 02784;Fall! <i><b>(tu)</b></i>;Cadi!;cadere imperativo tu
 02785;May he/she fall!;Cada!;cadere imperativo lui_lei
@@ -3823,12 +3823,12 @@
 02827;It seems funny that y'all should hurt;Sembra divertente che voi doliate / dogliate;congiuntivo_presente dolere voi
 02828;It seems funny that they should hurt;Sembra divertente che loro d<i><b>o</b></i>lgano;congiuntivo_presente dolere loro
 
-02829;It <i><b>was</b></i> good that I should hurt;Era bello che io dolessi;congiuntivo_passato dolere io
-02830;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should hurt;Era bello che tu dolessi;congiuntivo_passato dolere tu
-02831;It <i><b>was</b></i> good that he/she should hurt;Era bello che lui/lei dolesse;congiuntivo_passato dolere lui_lei
-02832;It <i><b>was</b></i> good that we should hurt;Era bello che noi dol<i><b>e</b></i>ssimo;congiuntivo_passato dolere noi
-02833;It <i><b>was</b></i> good that y'all should hurt;Era bello che voi doleste;congiuntivo_passato dolere voi
-02834;It <i><b>was</b></i> good that they should hurt;Era bello che loro dol<i><b>e</b></i>ssero;congiuntivo_passato dolere loro
+02829;It <i><b>was</b></i> good that I should hurt;Era bello che io dolessi;congiuntivo_imperfetto dolere io
+02830;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should hurt;Era bello che tu dolessi;congiuntivo_imperfetto dolere tu
+02831;It <i><b>was</b></i> good that he/she should hurt;Era bello che lui/lei dolesse;congiuntivo_imperfetto dolere lui_lei
+02832;It <i><b>was</b></i> good that we should hurt;Era bello che noi dol<i><b>e</b></i>ssimo;congiuntivo_imperfetto dolere noi
+02833;It <i><b>was</b></i> good that y'all should hurt;Era bello che voi doleste;congiuntivo_imperfetto dolere voi
+02834;It <i><b>was</b></i> good that they should hurt;Era bello che loro dol<i><b>e</b></i>ssero;congiuntivo_imperfetto dolere loro
 
 02835;Hurt! <i><b>(tu)</b></i>;Duoli!;dolere imperativo tu
 02836;May he/she hurt!;Dolga!;dolere imperativo lui_lei
@@ -3888,12 +3888,12 @@
 02878;It seems funny that y'all should win;Sembra divertente che voi vinciate;congiuntivo_presente vincere voi
 02879;It seems funny that they should win;Sembra divertente che loro v<i><b>i</b></i>ncano;congiuntivo_presente loro vincere
 
-02880;It <i><b>was</b></i> good that I should win;Era bello che io vincessi;congiuntivo_passato io vincere
-02881;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should win;Era bello che tu vincessi;congiuntivo_passato tu vincere
-02882;It <i><b>was</b></i> good that he/she should win;Era bello che lui/lei vincesse;congiuntivo_passato lui_lei vincere
-02883;It <i><b>was</b></i> good that we should win;Era bello che noi vinc<i><b>e</b></i>ssimo;congiuntivo_passato noi vincere
-02884;It <i><b>was</b></i> good that y'all should win;Era bello che voi vinceste;congiuntivo_passato vincere voi
-02885;It <i><b>was</b></i> good that they should win;Era bello che loro vinc<i><b>e</b></i>ssero;congiuntivo_passato loro vincere
+02880;It <i><b>was</b></i> good that I should win;Era bello che io vincessi;congiuntivo_imperfetto io vincere
+02881;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should win;Era bello che tu vincessi;congiuntivo_imperfetto tu vincere
+02882;It <i><b>was</b></i> good that he/she should win;Era bello che lui/lei vincesse;congiuntivo_imperfetto lui_lei vincere
+02883;It <i><b>was</b></i> good that we should win;Era bello che noi vinc<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vincere
+02884;It <i><b>was</b></i> good that y'all should win;Era bello che voi vinceste;congiuntivo_imperfetto vincere voi
+02885;It <i><b>was</b></i> good that they should win;Era bello che loro vinc<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vincere
 
 02886;Win! <i><b>(tu)</b></i>;Vinci!;imperativo tu vincere
 02887;May he/she win!;Vinca!;imperativo lui_lei vincere
@@ -3953,12 +3953,12 @@
 02929;It seems funny that y'all should laugh;Sembra divertente che voi ridiate;congiuntivo_presente ridere voi
 02930;It seems funny that they should laugh;Sembra divertente che loro r<i><b>i</b></i>dano;congiuntivo_presente loro ridere
 
-02931;It <i><b>was</b></i> good that I should laugh;Era bello che io ridessi;congiuntivo_passato io ridere
-02932;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should laugh;Era bello che tu ridessi;congiuntivo_passato ridere tu
-02933;It <i><b>was</b></i> good that he/she should laugh;Era bello che lui/lei ridesse;congiuntivo_passato lui_lei ridere
-02934;It <i><b>was</b></i> good that we should laugh;Era bello che noi rid<i><b>e</b></i>ssimo;congiuntivo_passato noi ridere
-02935;It <i><b>was</b></i> good that y'all should laugh;Era bello che voi rideste;congiuntivo_passato ridere voi
-02936;It <i><b>was</b></i> good that they should laugh;Era bello che loro rid<i><b>e</b></i>ssero;congiuntivo_passato loro ridere
+02931;It <i><b>was</b></i> good that I should laugh;Era bello che io ridessi;congiuntivo_imperfetto io ridere
+02932;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should laugh;Era bello che tu ridessi;congiuntivo_imperfetto ridere tu
+02933;It <i><b>was</b></i> good that he/she should laugh;Era bello che lui/lei ridesse;congiuntivo_imperfetto lui_lei ridere
+02934;It <i><b>was</b></i> good that we should laugh;Era bello che noi rid<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi ridere
+02935;It <i><b>was</b></i> good that y'all should laugh;Era bello che voi rideste;congiuntivo_imperfetto ridere voi
+02936;It <i><b>was</b></i> good that they should laugh;Era bello che loro rid<i><b>e</b></i>ssero;congiuntivo_imperfetto loro ridere
 
 02937;Laugh! <i><b>(tu)</b></i>;Ridi!;imperativo ridere tu
 02938;May he/she laugh!;Rida!;imperativo lui_lei ridere
@@ -4018,12 +4018,12 @@
 02980;It seems funny that y'all should succeed;Sembra divertente che voi riusciate;congiuntivo_presente riuscire voi
 02981;It seems funny that they should succeed;Sembra divertente che loro ri<i><b>e</b></i>scano;congiuntivo_presente loro riuscire
 
-02982;It <i><b>was</b></i> good that I should succeed;Era bello che io riuscissi;congiuntivo_passato io riuscire
-02983;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should succeed;Era bello che tu riuscissi;congiuntivo_passato riuscire tu
-02984;It <i><b>was</b></i> good that he/she should succeed;Era bello che lui/lei riuscisse;congiuntivo_passato lui_lei riuscire
-02985;It <i><b>was</b></i> good that we should succeed;Era bello che noi riusc<i><b>i</b></i>ssimo;congiuntivo_passato noi riuscire
-02986;It <i><b>was</b></i> good that y'all should succeed;Era bello che voi riusciste;congiuntivo_passato riuscire voi
-02987;It <i><b>was</b></i> good that they should succeed;Era bello che loro riusc<i><b>i</b></i>ssero;congiuntivo_passato loro riuscire
+02982;It <i><b>was</b></i> good that I should succeed;Era bello che io riuscissi;congiuntivo_imperfetto io riuscire
+02983;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should succeed;Era bello che tu riuscissi;congiuntivo_imperfetto riuscire tu
+02984;It <i><b>was</b></i> good that he/she should succeed;Era bello che lui/lei riuscisse;congiuntivo_imperfetto lui_lei riuscire
+02985;It <i><b>was</b></i> good that we should succeed;Era bello che noi riusc<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi riuscire
+02986;It <i><b>was</b></i> good that y'all should succeed;Era bello che voi riusciste;congiuntivo_imperfetto riuscire voi
+02987;It <i><b>was</b></i> good that they should succeed;Era bello che loro riusc<i><b>i</b></i>ssero;congiuntivo_imperfetto loro riuscire
 
 02988;Succeed! <i><b>(tu)</b></i>;Riesci!;imperativo riuscire tu
 02989;May he/she succeed!;Riesca!;imperativo lui_lei riuscire
@@ -4083,12 +4083,12 @@
 03031;It seems funny that y'all should grow;Sembra divertente che voi cresciate;congiuntivo_presente crescere voi
 03032;It seems funny that they should grow;Sembra divertente che loro cr<i><b>e</b></i>scano;congiuntivo_presente crescere loro
 
-03033;It <i><b>was</b></i> good that I should grow;Era bello che io crescessi;congiuntivo_passato crescere io
-03034;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should grow;Era bello che tu crescessi;congiuntivo_passato crescere tu
-03035;It <i><b>was</b></i> good that he/she should grow;Era bello che lui/lei crescesse;congiuntivo_passato crescere lui_lei
-03036;It <i><b>was</b></i> good that we should grow;Era bello che noi cresc<i><b>e</b></i>ssimo;congiuntivo_passato crescere noi
-03037;It <i><b>was</b></i> good that y'all should grow;Era bello che voi cresceste;congiuntivo_passato crescere voi
-03038;It <i><b>was</b></i> good that they should grow;Era bello che loro cresc<i><b>e</b></i>ssero;congiuntivo_passato crescere loro
+03033;It <i><b>was</b></i> good that I should grow;Era bello che io crescessi;congiuntivo_imperfetto crescere io
+03034;It <i><b>was</b></i> good that you <i><b>(tu)</b></i> should grow;Era bello che tu crescessi;congiuntivo_imperfetto crescere tu
+03035;It <i><b>was</b></i> good that he/she should grow;Era bello che lui/lei crescesse;congiuntivo_imperfetto crescere lui_lei
+03036;It <i><b>was</b></i> good that we should grow;Era bello che noi cresc<i><b>e</b></i>ssimo;congiuntivo_imperfetto crescere noi
+03037;It <i><b>was</b></i> good that y'all should grow;Era bello che voi cresceste;congiuntivo_imperfetto crescere voi
+03038;It <i><b>was</b></i> good that they should grow;Era bello che loro cresc<i><b>e</b></i>ssero;congiuntivo_imperfetto crescere loro
 
 03039;Grow! <i><b>(tu)</b></i>;Cresci!;crescere imperativo tu
 03040;May he/she grow!;Cresca!;crescere imperativo lui_lei

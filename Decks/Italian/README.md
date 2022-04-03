@@ -2,11 +2,11 @@
 
 ## TL;DR: this is an AWESOME deck, but ONLY if you [READ THE MANUAL](http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html)
 
-At the moment this deck exists in two versions: **English** and **Spanish**.
+At the moment this deck exists in four versions: **English**, **Spanish**, **German**, and **Portuguese**.
 
 - [The Manual](http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html) (**_read it!!!_**)
-- The Deck on AnkiWeb: [English version](https://ankiweb.net/shared/info/1891639832), [Spanish version](https://ankiweb.net/shared/info/464687840), [German version](https://ankiweb.net/shared/info/1637895544)
-- Source of Deck: [English](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Ultimate%20Italian%20Conjugation.4anki), [Spanish](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Domina%20la%20Conjugaci%C3%B3n%20Italiana.4anki) (adaptation and translation by supervalino), [German](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Italienische%20Konjugation%20Meistern.4anki3) (adaptation and translation by Jonathan Creed)
+- The Deck on AnkiWeb: [English version](https://ankiweb.net/shared/info/1891639832), [Spanish version](https://ankiweb.net/shared/info/464687840), [German version](https://ankiweb.net/shared/info/1637895544), [Portuguese version](https://ankiweb.net/shared/info/968510385)
+- Source of Deck: [English](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Ultimate%20Italian%20Conjugation.4anki), [Spanish](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Domina%20la%20Conjugaci%C3%B3n%20Italiana.4anki) (adaptation and translation by supervalino), [German](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Italienische%20Konjugation%20Meistern.4anki3), [Portuguese]()(adaptation and translation by Eva Medeiros)
 - List of Verbs in the Deck [English](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Description%20for%20Anki%20Deck.txt), [Spanish](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Source/Descripci%C3%B3n%20para%20Mazo%20de%20Anki.txt)
 - Verb tables (documents, contributed by Hanneke): [word](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Verb%20Tables/Coniugazione%20verbi%20italiani.docx), [pdf](https://github.com/boolbag/Anki-Goodies/blob/master/Decks/Italian/Verb%20Tables/Coniugazione%20verbi%20italiani.pdf)
 - [Discuss on Reddit](https://www.reddit.com/r/Anki/comments/e53qj9/deck_ultimate_italian_conjugation/)

@@ -118,12 +118,12 @@
 #Es scheint lustig, dass ihr ;Sembra divertente che voi ; congiuntivo_presente voi
 #Es scheint lustig, dass sie ;Sembra divertente che loro ; congiuntivo_presente loro
 #
-#Es <i><b>war</b></i> schön, dass ich ;Era bello che io ; congiuntivo_passato io
-#Es <i><b>war</b></i> schön, dass du ;Era bello che tu ; congiuntivo_passato tu
-#Es <i><b>war</b></i> schön, dass er/sie/es ;Era bello che lui/lei ; congiuntivo_passato lui_lei
-#Es <i><b>war</b></i> schön, dass wir ;Era bello che noi ; congiuntivo_passato noi
-#Es <i><b>war</b></i> schön, dass ihr ;Era bello che voi ; congiuntivo_passato voi
-#Es <i><b>war</b></i> schön, dass sie ;Era bello che loro ; congiuntivo_passato loro
+#Es <i><b>war</b></i> schön, dass ich ;Era bello che io ; congiuntivo_imperfetto io
+#Es <i><b>war</b></i> schön, dass du ;Era bello che tu ; congiuntivo_imperfetto tu
+#Es <i><b>war</b></i> schön, dass er/sie/es ;Era bello che lui/lei ; congiuntivo_imperfetto lui_lei
+#Es <i><b>war</b></i> schön, dass wir ;Era bello che noi ; congiuntivo_imperfetto noi
+#Es <i><b>war</b></i> schön, dass ihr ;Era bello che voi ; congiuntivo_imperfetto voi
+#Es <i><b>war</b></i> schön, dass sie ;Era bello che loro ; congiuntivo_imperfetto loro
 #
 #!;!; imperativo tu
 #Er/sie/es soll !;!; imperativo lui_lei
@@ -187,12 +187,12 @@
 00039;Es scheint lustig, dass ihr habt;Sembra divertente che voi abbiate;avere congiuntivo_presente voi
 00040;Es scheint lustig, dass sie haben;Sembra divertente che loro <i><b>a</b></i>bbiano;avere congiuntivo_presente loro
 
-00041;Es <i><b>war</b></i> schön, dass ich hatte;Era bello che io avessi;avere congiuntivo_passato io
-00042;Es <i><b>war</b></i> schön, dass du hattest;Era bello che tu avessi;avere congiuntivo_passato tu
-00043;Es <i><b>war</b></i> schön, dass er/sie/es hatte;Era bello che lui/lei avesse;avere congiuntivo_passato lui_lei
-00044;Es <i><b>war</b></i> schön, dass wir hatten;Era bello che noi av<i><b>e</b></i>ssimo;avere congiuntivo_passato noi
-00045;Es <i><b>war</b></i> schön, dass ihr hattet;Era bello che voi aveste;avere congiuntivo_passato voi
-00046;Es <i><b>war</b></i> schön, dass sie hatten;Era bello che loro av<i><b>e</b></i>ssero;avere congiuntivo_passato loro
+00041;Es <i><b>war</b></i> schön, dass ich hatte;Era bello che io avessi;avere congiuntivo_imperfetto io
+00042;Es <i><b>war</b></i> schön, dass du hattest;Era bello che tu avessi;avere congiuntivo_imperfetto tu
+00043;Es <i><b>war</b></i> schön, dass er/sie/es hatte;Era bello che lui/lei avesse;avere congiuntivo_imperfetto lui_lei
+00044;Es <i><b>war</b></i> schön, dass wir hatten;Era bello che noi av<i><b>e</b></i>ssimo;avere congiuntivo_imperfetto noi
+00045;Es <i><b>war</b></i> schön, dass ihr hattet;Era bello che voi aveste;avere congiuntivo_imperfetto voi
+00046;Es <i><b>war</b></i> schön, dass sie hatten;Era bello che loro av<i><b>e</b></i>ssero;avere congiuntivo_imperfetto loro
 
 00047;Habe!;Abbi!;avere imperativo tu
 00048;Er/sie/es soll haben!;<i><b>A</b></i>bbia!;avere imperativo lui_lei
@@ -254,12 +254,12 @@
 00090;Es scheint lustig, dass ihr seid;Sembra divertente che voi siate;congiuntivo_presente essere voi
 00091;Es scheint lustig, dass sie sind;Sembra divertente che loro s<i><b>i</b></i>ano;congiuntivo_presente essere loro
 
-00092;Es <i><b>war</b></i> schön, dass ich war;Era bello che io fossi;congiuntivo_passato essere io
-00093;Es <i><b>war</b></i> schön, dass du warst;Era bello che tu fossi;congiuntivo_passato essere tu
-00094;Es <i><b>war</b></i> schön, dass er/sie/es war;Era bello che lui/lei fosse;congiuntivo_passato essere lui_lei
-00095;Es <i><b>war</b></i> schön, dass wir waren;Era bello che noi f<i><b>o</b></i>ssimo;congiuntivo_passato essere noi
-00096;Es <i><b>war</b></i> schön, dass ihr wart;Era bello che voi foste;congiuntivo_passato essere voi
-00097;Es <i><b>war</b></i> schön, dass sie waren;Era bello che loro f<i><b>o</b></i>ssero;congiuntivo_passato essere loro
+00092;Es <i><b>war</b></i> schön, dass ich war;Era bello che io fossi;congiuntivo_imperfetto essere io
+00093;Es <i><b>war</b></i> schön, dass du warst;Era bello che tu fossi;congiuntivo_imperfetto essere tu
+00094;Es <i><b>war</b></i> schön, dass er/sie/es war;Era bello che lui/lei fosse;congiuntivo_imperfetto essere lui_lei
+00095;Es <i><b>war</b></i> schön, dass wir waren;Era bello che noi f<i><b>o</b></i>ssimo;congiuntivo_imperfetto essere noi
+00096;Es <i><b>war</b></i> schön, dass ihr wart;Era bello che voi foste;congiuntivo_imperfetto essere voi
+00097;Es <i><b>war</b></i> schön, dass sie waren;Era bello che loro f<i><b>o</b></i>ssero;congiuntivo_imperfetto essere loro
 
 00098;Sei!;Sii!;essere imperativo tu
 00099;Er/sie/es soll sein!;Sia!;essere imperativo lui_lei
@@ -321,12 +321,12 @@
 00141;Es scheint lustig, dass ihr liebt;Sembra divertente che voi amiate;amare congiuntivo_presente voi
 00142;Es scheint lustig, dass sie lieben;Sembra divertente che loro <i><b>a</b></i>mino;amare congiuntivo_presente loro
 
-00143;Es <i><b>war</b></i> schön, dass ich liebte;Era bello che io amassi;amare congiuntivo_passato io
-00144;Es <i><b>war</b></i> schön, dass du liebtest;Era bello che tu amassi;amare congiuntivo_passato tu
-00145;Es <i><b>war</b></i> schön, dass er/sie/es liebte;Era bello che lui/lei amasse;amare congiuntivo_passato lui_lei
-00146;Es <i><b>war</b></i> schön, dass wir liebten;Era bello che noi am<i><b>a</b></i>ssimo;amare congiuntivo_passato noi
-00147;Es <i><b>war</b></i> schön, dass ihr liebtet;Era bello che voi amaste;amare congiuntivo_passato voi
-00148;Es <i><b>war</b></i> schön, dass sie liebten;Era bello che loro am<i><b>a</b></i>ssero;amare congiuntivo_passato loro
+00143;Es <i><b>war</b></i> schön, dass ich liebte;Era bello che io amassi;amare congiuntivo_imperfetto io
+00144;Es <i><b>war</b></i> schön, dass du liebtest;Era bello che tu amassi;amare congiuntivo_imperfetto tu
+00145;Es <i><b>war</b></i> schön, dass er/sie/es liebte;Era bello che lui/lei amasse;amare congiuntivo_imperfetto lui_lei
+00146;Es <i><b>war</b></i> schön, dass wir liebten;Era bello che noi am<i><b>a</b></i>ssimo;amare congiuntivo_imperfetto noi
+00147;Es <i><b>war</b></i> schön, dass ihr liebtet;Era bello che voi amaste;amare congiuntivo_imperfetto voi
+00148;Es <i><b>war</b></i> schön, dass sie liebten;Era bello che loro am<i><b>a</b></i>ssero;amare congiuntivo_imperfetto loro
 
 00149;Lieb!;Ama!;amare imperativo tu
 00150;Er/sie/es soll lieben!;Ami!;amare imperativo lui_lei
@@ -388,12 +388,12 @@
 00192;Es scheint lustig, dass ihr glaubt;Sembra divertente che voi crediate;congiuntivo_presente credere voi
 00193;Es scheint lustig, dass sie glauben;Sembra divertente che loro cr<i><b>e</b></i>dano;congiuntivo_presente credere loro
 
-00194;Es <i><b>war</b></i> schön, dass ich glaubte;Era bello che io credessi;congiuntivo_passato credere io
-00195;Es <i><b>war</b></i> schön, dass du glaubtest;Era bello che tu credessi;congiuntivo_passato credere tu
-00196;Es <i><b>war</b></i> schön, dass er/sie/es glaubte;Era bello che lui/lei credesse;congiuntivo_passato credere lui_lei
-00197;Es <i><b>war</b></i> schön, dass wir glaubten;Era bello che noi cred<i><b>e</b></i>ssimo;congiuntivo_passato credere noi
-00198;Es <i><b>war</b></i> schön, dass ihr glaubtet;Era bello che voi credeste;congiuntivo_passato credere voi
-00199;Es <i><b>war</b></i> schön, dass sie glaubten;Era bello che loro cred<i><b>e</b></i>ssero;congiuntivo_passato credere loro
+00194;Es <i><b>war</b></i> schön, dass ich glaubte;Era bello che io credessi;congiuntivo_imperfetto credere io
+00195;Es <i><b>war</b></i> schön, dass du glaubtest;Era bello che tu credessi;congiuntivo_imperfetto credere tu
+00196;Es <i><b>war</b></i> schön, dass er/sie/es glaubte;Era bello che lui/lei credesse;congiuntivo_imperfetto credere lui_lei
+00197;Es <i><b>war</b></i> schön, dass wir glaubten;Era bello che noi cred<i><b>e</b></i>ssimo;congiuntivo_imperfetto credere noi
+00198;Es <i><b>war</b></i> schön, dass ihr glaubtet;Era bello che voi credeste;congiuntivo_imperfetto credere voi
+00199;Es <i><b>war</b></i> schön, dass sie glaubten;Era bello che loro cred<i><b>e</b></i>ssero;congiuntivo_imperfetto credere loro
 
 00200;Glaub!;Credi!;credere imperativo tu
 00201;Er/sie/es soll glauben!;Creda!;credere imperativo lui_lei
@@ -455,12 +455,12 @@
 00243;Es scheint lustig, dass ihr losgeht;Sembra divertente che voi partiate;congiuntivo_presente partire voi
 00244;Es scheint lustig, dass sie losgehen;Sembra divertente che loro p<i><b>a</b></i>rtano;congiuntivo_presente loro partire
 
-00245;Es <i><b>war</b></i> schön, dass ich losging;Era bello che io partissi;congiuntivo_passato io partire
-00246;Es <i><b>war</b></i> schön, dass du losgingst;Era bello che tu partissi;congiuntivo_passato partire tu
-00247;Es <i><b>war</b></i> schön, dass er/sie/es losging;Era bello che lui/lei partisse;congiuntivo_passato lui_lei partire
-00248;Es <i><b>war</b></i> schön, dass wir losgingen;Era bello che noi part<i><b>i</b></i>ssimo;congiuntivo_passato noi partire
-00249;Es <i><b>war</b></i> schön, dass ihr losgingt;Era bello che voi partiste;congiuntivo_passato partire voi
-00250;Es <i><b>war</b></i> schön, dass sie losgingen;Era bello che loro part<i><b>i</b></i>ssero;congiuntivo_passato loro partire
+00245;Es <i><b>war</b></i> schön, dass ich losging;Era bello che io partissi;congiuntivo_imperfetto io partire
+00246;Es <i><b>war</b></i> schön, dass du losgingst;Era bello che tu partissi;congiuntivo_imperfetto partire tu
+00247;Es <i><b>war</b></i> schön, dass er/sie/es losging;Era bello che lui/lei partisse;congiuntivo_imperfetto lui_lei partire
+00248;Es <i><b>war</b></i> schön, dass wir losgingen;Era bello che noi part<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi partire
+00249;Es <i><b>war</b></i> schön, dass ihr losgingt;Era bello che voi partiste;congiuntivo_imperfetto partire voi
+00250;Es <i><b>war</b></i> schön, dass sie losgingen;Era bello che loro part<i><b>i</b></i>ssero;congiuntivo_imperfetto loro partire
 
 00251;Geh los!;Parti!;imperativo partire tu
 00252;Er/sie/es soll losgehen!;Parta!;imperativo lui_lei partire
@@ -522,12 +522,12 @@
 00294;Es scheint lustig, dass ihr seht;Sembra divertente che voi vediate;congiuntivo_presente vedere voi
 00295;Es scheint lustig, dass sie sehen;Sembra divertente che loro v<i><b>e</b></i>dano;congiuntivo_presente loro vedere
 
-00296;Es <i><b>war</b></i> schön, dass ich sah;Era bello che io vedessi;congiuntivo_passato io vedere
-00297;Es <i><b>war</b></i> schön, dass du sahst;Era bello che tu vedessi;congiuntivo_passato tu vedere
-00298;Es <i><b>war</b></i> schön, dass er/sie/es sah;Era bello che lui/lei vedesse;congiuntivo_passato lui_lei vedere
-00299;Es <i><b>war</b></i> schön, dass wir sahen;Era bello che noi ved<i><b>e</b></i>ssimo;congiuntivo_passato noi vedere
-00300;Es <i><b>war</b></i> schön, dass ihr saht;Era bello che voi vedeste;congiuntivo_passato vedere voi
-00301;Es <i><b>war</b></i> schön, dass sie sahen;Era bello che loro ved<i><b>e</b></i>ssero;congiuntivo_passato loro vedere
+00296;Es <i><b>war</b></i> schön, dass ich sah;Era bello che io vedessi;congiuntivo_imperfetto io vedere
+00297;Es <i><b>war</b></i> schön, dass du sahst;Era bello che tu vedessi;congiuntivo_imperfetto tu vedere
+00298;Es <i><b>war</b></i> schön, dass er/sie/es sah;Era bello che lui/lei vedesse;congiuntivo_imperfetto lui_lei vedere
+00299;Es <i><b>war</b></i> schön, dass wir sahen;Era bello che noi ved<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vedere
+00300;Es <i><b>war</b></i> schön, dass ihr saht;Era bello che voi vedeste;congiuntivo_imperfetto vedere voi
+00301;Es <i><b>war</b></i> schön, dass sie sahen;Era bello che loro ved<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vedere
 
 00302;Sieh!;Vedi!;imperativo tu vedere
 00303;Er/sie/es soll sehen!;Veda!;imperativo lui_lei vedere
@@ -589,12 +589,12 @@
 00345;Es scheint lustig, dass ihr wollt;Sembra divertente che voi vogliate;congiuntivo_presente voi volere
 00346;Es scheint lustig, dass sie wollen;Sembra divertente che loro v<i><b>o</b></i>gliano;congiuntivo_presente loro volere
 
-00347;Es <i><b>war</b></i> schön, dass ich wollte;Era bello che io volessi;congiuntivo_passato io volere
-00348;Es <i><b>war</b></i> schön, dass du wolltest;Era bello che tu volessi;congiuntivo_passato tu volere
-00349;Es <i><b>war</b></i> schön, dass er/sie/es wollte;Era bello che lui/lei volesse;congiuntivo_passato lui_lei volere
-00350;Es <i><b>war</b></i> schön, dass wir wollten;Era bello che noi vol<i><b>e</b></i>ssimo;congiuntivo_passato noi volere
-00351;Es <i><b>war</b></i> schön, dass ihr wolltet;Era bello che voi voleste;congiuntivo_passato voi volere
-00352;Es <i><b>war</b></i> schön, dass sie wollten;Era bello che loro vol<i><b>e</b></i>ssero;congiuntivo_passato loro volere
+00347;Es <i><b>war</b></i> schön, dass ich wollte;Era bello che io volessi;congiuntivo_imperfetto io volere
+00348;Es <i><b>war</b></i> schön, dass du wolltest;Era bello che tu volessi;congiuntivo_imperfetto tu volere
+00349;Es <i><b>war</b></i> schön, dass er/sie/es wollte;Era bello che lui/lei volesse;congiuntivo_imperfetto lui_lei volere
+00350;Es <i><b>war</b></i> schön, dass wir wollten;Era bello che noi vol<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi volere
+00351;Es <i><b>war</b></i> schön, dass ihr wolltet;Era bello che voi voleste;congiuntivo_imperfetto voi volere
+00352;Es <i><b>war</b></i> schön, dass sie wollten;Era bello che loro vol<i><b>e</b></i>ssero;congiuntivo_imperfetto loro volere
 
 00353;Du sollst wollen!;Vuoi! / Vogli!;imperativo tu volere
 00354;Er/sie/es soll wollen!;V<i><b>o</b></i>glia!;imperativo lui_lei volere
@@ -656,12 +656,12 @@
 00396;Es scheint lustig, dass ihr macht;Sembra divertente che voi facciate;congiuntivo_presente fare voi
 00397;Es scheint lustig, dass sie machen;Sembra divertente che loro f<i><b>a</b></i>cciano;congiuntivo_presente fare loro
 
-00398;Es <i><b>war</b></i> schön, dass ich machte;Era bello che io facessi;congiuntivo_passato fare io
-00399;Es <i><b>war</b></i> schön, dass du machtest;Era bello che tu facessi;congiuntivo_passato fare tu
-00400;Es <i><b>war</b></i> schön, dass er/sie/es machte;Era bello che lui/lei facesse;congiuntivo_passato fare lui_lei
-00401;Es <i><b>war</b></i> schön, dass wir machten;Era bello che noi fac<i><b>e</b></i>ssimo;congiuntivo_passato fare noi
-00402;Es <i><b>war</b></i> schön, dass ihr machtet;Era bello che voi faceste;congiuntivo_passato fare voi
-00403;Es <i><b>war</b></i> schön, dass sie machten;Era bello che loro fac<i><b>e</b></i>ssero;congiuntivo_passato fare loro
+00398;Es <i><b>war</b></i> schön, dass ich machte;Era bello che io facessi;congiuntivo_imperfetto fare io
+00399;Es <i><b>war</b></i> schön, dass du machtest;Era bello che tu facessi;congiuntivo_imperfetto fare tu
+00400;Es <i><b>war</b></i> schön, dass er/sie/es machte;Era bello che lui/lei facesse;congiuntivo_imperfetto fare lui_lei
+00401;Es <i><b>war</b></i> schön, dass wir machten;Era bello che noi fac<i><b>e</b></i>ssimo;congiuntivo_imperfetto fare noi
+00402;Es <i><b>war</b></i> schön, dass ihr machtet;Era bello che voi faceste;congiuntivo_imperfetto fare voi
+00403;Es <i><b>war</b></i> schön, dass sie machten;Era bello che loro fac<i><b>e</b></i>ssero;congiuntivo_imperfetto fare loro
 
 00404;Mach!;Fai / Fa'!;fare imperativo tu
 00405;Er/sie/es soll machen!;F<i><b>a</b></i>ccia!;fare imperativo lui_lei
@@ -723,12 +723,12 @@
 00447;Es scheint lustig, dass ihr vermögt;Sembra divertente che voi possiate;congiuntivo_presente potere voi
 00448;Es scheint lustig, dass sie vermögen;Sembra divertente che loro p<i><b>o</b></i>ssano;congiuntivo_presente loro potere
 
-00449;Es <i><b>war</b></i> schön, dass ich vermochte;Era bello che io potessi;congiuntivo_passato io potere
-00450;Es <i><b>war</b></i> schön, dass du vermochtest;Era bello che tu potessi;congiuntivo_passato potere tu
-00451;Es <i><b>war</b></i> schön, dass er/sie/es vermochte;Era bello che lui/lei potesse;congiuntivo_passato lui_lei potere
-00452;Es <i><b>war</b></i> schön, dass wir vermochten;Era bello che noi pot<i><b>e</b></i>ssimo;congiuntivo_passato noi potere
-00453;Es <i><b>war</b></i> schön, dass ihr vermochtet;Era bello che voi poteste;congiuntivo_passato potere voi
-00454;Es <i><b>war</b></i> schön, dass sie vermochten;Era bello che loro pot<i><b>e</b></i>ssero;congiuntivo_passato loro potere
+00449;Es <i><b>war</b></i> schön, dass ich vermochte;Era bello che io potessi;congiuntivo_imperfetto io potere
+00450;Es <i><b>war</b></i> schön, dass du vermochtest;Era bello che tu potessi;congiuntivo_imperfetto potere tu
+00451;Es <i><b>war</b></i> schön, dass er/sie/es vermochte;Era bello che lui/lei potesse;congiuntivo_imperfetto lui_lei potere
+00452;Es <i><b>war</b></i> schön, dass wir vermochten;Era bello che noi pot<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi potere
+00453;Es <i><b>war</b></i> schön, dass ihr vermochtet;Era bello che voi poteste;congiuntivo_imperfetto potere voi
+00454;Es <i><b>war</b></i> schön, dass sie vermochten;Era bello che loro pot<i><b>e</b></i>ssero;congiuntivo_imperfetto loro potere
 
 # Kein Imperativ
 
@@ -786,12 +786,12 @@
 00492;Es scheint lustig, dass ihr wisst;Sembra divertente che voi sappiate;congiuntivo_presente sapere voi
 00493;Es scheint lustig, dass sie wissen;Sembra divertente che loro s<i><b>a</b></i>ppiano;congiuntivo_presente loro sapere
 
-00494;Es <i><b>war</b></i> schön, dass ich wusste;Era bello che io sapessi;congiuntivo_passato io sapere
-00495;Es <i><b>war</b></i> schön, dass du wusstest;Era bello che tu sapessi;congiuntivo_passato sapere tu
-00496;Es <i><b>war</b></i> schön, dass er/sie/es wusste;Era bello che lui/lei sapesse;congiuntivo_passato lui_lei sapere
-00497;Es <i><b>war</b></i> schön, dass wir wussten;Era bello che noi sap<i><b>e</b></i>ssimo;congiuntivo_passato noi sapere
-00498;Es <i><b>war</b></i> schön, dass ihr wusstet;Era bello che voi sapeste;congiuntivo_passato sapere voi
-00499;Es <i><b>war</b></i> schön, dass sie wussten;Era bello che loro sap<i><b>e</b></i>ssero;congiuntivo_passato loro sapere
+00494;Es <i><b>war</b></i> schön, dass ich wusste;Era bello che io sapessi;congiuntivo_imperfetto io sapere
+00495;Es <i><b>war</b></i> schön, dass du wusstest;Era bello che tu sapessi;congiuntivo_imperfetto sapere tu
+00496;Es <i><b>war</b></i> schön, dass er/sie/es wusste;Era bello che lui/lei sapesse;congiuntivo_imperfetto lui_lei sapere
+00497;Es <i><b>war</b></i> schön, dass wir wussten;Era bello che noi sap<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi sapere
+00498;Es <i><b>war</b></i> schön, dass ihr wusstet;Era bello che voi sapeste;congiuntivo_imperfetto sapere voi
+00499;Es <i><b>war</b></i> schön, dass sie wussten;Era bello che loro sap<i><b>e</b></i>ssero;congiuntivo_imperfetto loro sapere
 
 00500;Wisse!;Sappi!;imperativo sapere tu
 00501;Er/sie/es soll wissen!;S<i><b>a</b></i>ppia!;imperativo lui_lei sapere
@@ -853,12 +853,12 @@
 00542;Es scheint lustig, dass ihr müsst;Sembra divertente che voi dobbiate;congiuntivo_presente dovere voi
 00543;Es scheint lustig, dass sie müssen;Sembra divertente che loro d<i><b>e</b></i>bbano / d<i><b>e</b></i>vano;congiuntivo_presente dovere loro
 
-00544;Es <i><b>war</b></i> schön, dass ich musste;Era bello che io dovessi;congiuntivo_passato dovere io
-00545;Es <i><b>war</b></i> schön, dass du musstest;Era bello che tu dovessi;congiuntivo_passato dovere tu
-00546;Es <i><b>war</b></i> schön, dass er/sie/es musste;Era bello che lui/lei dovesse;congiuntivo_passato dovere lui_lei
-00547;Es <i><b>war</b></i> schön, dass wir mussten;Era bello che noi dov<i><b>e</b></i>ssimo;congiuntivo_passato dovere noi
-00548;Es <i><b>war</b></i> schön, dass ihr musstet;Era bello che voi doveste;congiuntivo_passato dovere voi
-00549;Es <i><b>war</b></i> schön, dass sie mussten;Era bello che loro dov<i><b>e</b></i>ssero;congiuntivo_passato dovere loro
+00544;Es <i><b>war</b></i> schön, dass ich musste;Era bello che io dovessi;congiuntivo_imperfetto dovere io
+00545;Es <i><b>war</b></i> schön, dass du musstest;Era bello che tu dovessi;congiuntivo_imperfetto dovere tu
+00546;Es <i><b>war</b></i> schön, dass er/sie/es musste;Era bello che lui/lei dovesse;congiuntivo_imperfetto dovere lui_lei
+00547;Es <i><b>war</b></i> schön, dass wir mussten;Era bello che noi dov<i><b>e</b></i>ssimo;congiuntivo_imperfetto dovere noi
+00548;Es <i><b>war</b></i> schön, dass ihr musstet;Era bello che voi doveste;congiuntivo_imperfetto dovere voi
+00549;Es <i><b>war</b></i> schön, dass sie mussten;Era bello che loro dov<i><b>e</b></i>ssero;congiuntivo_imperfetto dovere loro
 
 # Kein Imperativ
 
@@ -916,12 +916,12 @@
 00588;Es scheint lustig, dass ihr geht;Sembra divertente che voi andiate;andare congiuntivo_presente voi
 00589;Es scheint lustig, dass sie gehen;Sembra divertente che loro v<i><b>a</b></i>dano;andare congiuntivo_presente loro
 
-00590;Es <i><b>war</b></i> schön, dass ich ging;Era bello che io andassi;andare congiuntivo_passato io
-00591;Es <i><b>war</b></i> schön, dass du gingst;Era bello che tu andassi;andare congiuntivo_passato tu
-00592;Es <i><b>war</b></i> schön, dass er/sie/es ging;Era bello che lui/lei andasse;andare congiuntivo_passato lui_lei
-00593;Es <i><b>war</b></i> schön, dass wir gingen;Era bello che noi and<i><b>a</b></i>ssimo;andare congiuntivo_passato noi
-00594;Es <i><b>war</b></i> schön, dass ihr gingt;Era bello che voi andaste;andare congiuntivo_passato voi
-00595;Es <i><b>war</b></i> schön, dass sie gingen;Era bello che loro and<i><b>a</b></i>ssero;andare congiuntivo_passato loro
+00590;Es <i><b>war</b></i> schön, dass ich ging;Era bello che io andassi;andare congiuntivo_imperfetto io
+00591;Es <i><b>war</b></i> schön, dass du gingst;Era bello che tu andassi;andare congiuntivo_imperfetto tu
+00592;Es <i><b>war</b></i> schön, dass er/sie/es ging;Era bello che lui/lei andasse;andare congiuntivo_imperfetto lui_lei
+00593;Es <i><b>war</b></i> schön, dass wir gingen;Era bello che noi and<i><b>a</b></i>ssimo;andare congiuntivo_imperfetto noi
+00594;Es <i><b>war</b></i> schön, dass ihr gingt;Era bello che voi andaste;andare congiuntivo_imperfetto voi
+00595;Es <i><b>war</b></i> schön, dass sie gingen;Era bello che loro and<i><b>a</b></i>ssero;andare congiuntivo_imperfetto loro
 
 00596;Geh!;Vai / Va'!;andare imperativo tu
 00597;Er/sie/es soll gehen!;Vada!;andare imperativo lui_lei
@@ -983,12 +983,12 @@
 00639;Es scheint lustig, dass ihr euch befindet;Sembra divertente che voi stiate;congiuntivo_presente stare voi
 00640;Es scheint lustig, dass sie sich befinden;Sembra divertente che loro st<i><b>i</b></i>ano;congiuntivo_presente loro stare
 
-00641;Es <i><b>war</b></i> schön, dass ich mich befand;Era bello che io stessi;congiuntivo_passato io stare
-00642;Es <i><b>war</b></i> schön, dass du dich befandest;Era bello che tu stessi;congiuntivo_passato stare tu
-00643;Es <i><b>war</b></i> schön, dass er/sie/es sich befand;Era bello che lui/lei stesse;congiuntivo_passato lui_lei stare
-00644;Es <i><b>war</b></i> schön, dass wir uns befanden;Era bello che noi st<i><b>e</b></i>ssimo;congiuntivo_passato noi stare
-00645;Es <i><b>war</b></i> schön, dass ihr euch befandet;Era bello che voi steste;congiuntivo_passato stare voi
-00646;Es <i><b>war</b></i> schön, dass sie sich befanden;Era bello che loro st<i><b>e</b></i>ssero;congiuntivo_passato loro stare
+00641;Es <i><b>war</b></i> schön, dass ich mich befand;Era bello che io stessi;congiuntivo_imperfetto io stare
+00642;Es <i><b>war</b></i> schön, dass du dich befandest;Era bello che tu stessi;congiuntivo_imperfetto stare tu
+00643;Es <i><b>war</b></i> schön, dass er/sie/es sich befand;Era bello che lui/lei stesse;congiuntivo_imperfetto lui_lei stare
+00644;Es <i><b>war</b></i> schön, dass wir uns befanden;Era bello che noi st<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi stare
+00645;Es <i><b>war</b></i> schön, dass ihr euch befandet;Era bello che voi steste;congiuntivo_imperfetto stare voi
+00646;Es <i><b>war</b></i> schön, dass sie sich befanden;Era bello che loro st<i><b>e</b></i>ssero;congiuntivo_imperfetto loro stare
 
 00647;Befinde dich!;Stai / Sta'!;imperativo stare tu
 00648;Er/sie/es soll sich befinden!;Stia!;imperativo lui_lei stare
@@ -1050,12 +1050,12 @@
 00690;Es scheint lustig, dass ihr sagt;Sembra divertente che voi diciate;congiuntivo_presente dire voi
 00691;Es scheint lustig, dass sie sagen;Sembra divertente che loro d<i><b>i</b></i>cano;congiuntivo_presente dire loro
 
-00692;Es <i><b>war</b></i> schön, dass ich sagte;Era bello che io dicessi;congiuntivo_passato dire io
-00693;Es <i><b>war</b></i> schön, dass du sagtest;Era bello che tu dicessi;congiuntivo_passato dire tu
-00694;Es <i><b>war</b></i> schön, dass er/sie/es sagte;Era bello che lui/lei dicesse;congiuntivo_passato dire lui_lei
-00695;Es <i><b>war</b></i> schön, dass wir sagten;Era bello che noi dic<i><b>e</b></i>ssimo;congiuntivo_passato dire noi
-00696;Es <i><b>war</b></i> schön, dass ihr sagtet;Era bello che voi diceste;congiuntivo_passato dire voi
-00697;Es <i><b>war</b></i> schön, dass sie sagten;Era bello che loro dic<i><b>e</b></i>ssero;congiuntivo_passato dire loro
+00692;Es <i><b>war</b></i> schön, dass ich sagte;Era bello che io dicessi;congiuntivo_imperfetto dire io
+00693;Es <i><b>war</b></i> schön, dass du sagtest;Era bello che tu dicessi;congiuntivo_imperfetto dire tu
+00694;Es <i><b>war</b></i> schön, dass er/sie/es sagte;Era bello che lui/lei dicesse;congiuntivo_imperfetto dire lui_lei
+00695;Es <i><b>war</b></i> schön, dass wir sagten;Era bello che noi dic<i><b>e</b></i>ssimo;congiuntivo_imperfetto dire noi
+00696;Es <i><b>war</b></i> schön, dass ihr sagtet;Era bello che voi diceste;congiuntivo_imperfetto dire voi
+00697;Es <i><b>war</b></i> schön, dass sie sagten;Era bello che loro dic<i><b>e</b></i>ssero;congiuntivo_imperfetto dire loro
 
 00698;Sag!;Di'!;dire imperativo tu
 00699;Er/sie/es soll sagen!;Dica!;dire imperativo lui_lei
@@ -1117,12 +1117,12 @@
 00741;Es scheint lustig, dass ihr gebt;Sembra divertente che voi diate;congiuntivo_presente dare voi
 00742;Es scheint lustig, dass sie geben;Sembra divertente che loro d<i><b>i</b></i>ano;congiuntivo_presente dare loro
 
-00743;Es <i><b>war</b></i> schön, dass ich gab;Era bello che io dessi;congiuntivo_passato dare io
-00744;Es <i><b>war</b></i> schön, dass du gabst;Era bello che tu dessi;congiuntivo_passato dare tu
-00745;Es <i><b>war</b></i> schön, dass er/sie/es gab;Era bello che lui/lei desse;congiuntivo_passato dare lui_lei
-00746;Es <i><b>war</b></i> schön, dass wir gaben;Era bello che noi d<i><b>e</b></i>ssimo;congiuntivo_passato dare noi
-00747;Es <i><b>war</b></i> schön, dass ihr gabt;Era bello che voi deste;congiuntivo_passato dare voi
-00748;Es <i><b>war</b></i> schön, dass sie gaben;Era bello che loro d<i><b>e</b></i>ssero;congiuntivo_passato dare loro
+00743;Es <i><b>war</b></i> schön, dass ich gab;Era bello che io dessi;congiuntivo_imperfetto dare io
+00744;Es <i><b>war</b></i> schön, dass du gabst;Era bello che tu dessi;congiuntivo_imperfetto dare tu
+00745;Es <i><b>war</b></i> schön, dass er/sie/es gab;Era bello che lui/lei desse;congiuntivo_imperfetto dare lui_lei
+00746;Es <i><b>war</b></i> schön, dass wir gaben;Era bello che noi d<i><b>e</b></i>ssimo;congiuntivo_imperfetto dare noi
+00747;Es <i><b>war</b></i> schön, dass ihr gabt;Era bello che voi deste;congiuntivo_imperfetto dare voi
+00748;Es <i><b>war</b></i> schön, dass sie gaben;Era bello che loro d<i><b>e</b></i>ssero;congiuntivo_imperfetto dare loro
 
 00749;Gib!;Dai / Da'!;dare imperativo tu
 00750;Er/sie/es soll geben!;Dia!;dare imperativo lui_lei
@@ -1184,12 +1184,12 @@
 00792;Es scheint lustig, dass ihr hört;Sembra divertente che voi udiate;congiuntivo_presente udire voi
 00793;Es scheint lustig, dass sie hören;Sembra divertente che loro <i><b>o</b></i>dano;congiuntivo_presente loro udire
 
-00794;Es <i><b>war</b></i> schön, dass ich hörte;Era bello che io udissi;congiuntivo_passato io udire
-00795;Es <i><b>war</b></i> schön, dass du hörtest;Era bello che tu udissi;congiuntivo_passato tu udire
-00796;Es <i><b>war</b></i> schön, dass er/sie/es hörte;Era bello che lui/lei udisse;congiuntivo_passato lui_lei udire
-00797;Es <i><b>war</b></i> schön, dass wir hörten;Era bello che noi ud<i><b>i</b></i>ssimo;congiuntivo_passato noi udire
-00798;Es <i><b>war</b></i> schön, dass ihr hörtet;Era bello che voi udiste;congiuntivo_passato udire voi
-00799;Es <i><b>war</b></i> schön, dass sie hörten;Era bello che loro ud<i><b>i</b></i>ssero;congiuntivo_passato loro udire
+00794;Es <i><b>war</b></i> schön, dass ich hörte;Era bello che io udissi;congiuntivo_imperfetto io udire
+00795;Es <i><b>war</b></i> schön, dass du hörtest;Era bello che tu udissi;congiuntivo_imperfetto tu udire
+00796;Es <i><b>war</b></i> schön, dass er/sie/es hörte;Era bello che lui/lei udisse;congiuntivo_imperfetto lui_lei udire
+00797;Es <i><b>war</b></i> schön, dass wir hörten;Era bello che noi ud<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi udire
+00798;Es <i><b>war</b></i> schön, dass ihr hörtet;Era bello che voi udiste;congiuntivo_imperfetto udire voi
+00799;Es <i><b>war</b></i> schön, dass sie hörten;Era bello che loro ud<i><b>i</b></i>ssero;congiuntivo_imperfetto loro udire
 
 00800;Hör!;Odi!;imperativo tu udire
 00801;Er/sie/es soll hören!;Oda!;imperativo lui_lei udire
@@ -1249,12 +1249,12 @@
 00843;Es scheint lustig, dass ihr sprecht;Sembra divertente che voi parliate;congiuntivo_presente parlare voi
 00844;Es scheint lustig, dass sie sprechen;Sembra divertente che loro p<i><b>a</b></i>rlino;congiuntivo_presente loro parlare
 
-00845;Es <i><b>war</b></i> schön, dass ich sprach;Era bello che io parlassi;congiuntivo_passato io parlare
-00846;Es <i><b>war</b></i> schön, dass du sprachst;Era bello che tu parlassi;congiuntivo_passato parlare tu
-00847;Es <i><b>war</b></i> schön, dass er/sie/es sprach;Era bello che lui/lei parlasse;congiuntivo_passato lui_lei parlare
-00848;Es <i><b>war</b></i> schön, dass wir sprachen;Era bello che noi parl<i><b>a</b></i>ssimo;congiuntivo_passato noi parlare
-00849;Es <i><b>war</b></i> schön, dass ihr spracht;Era bello che voi parlaste;congiuntivo_passato parlare voi
-00850;Es <i><b>war</b></i> schön, dass sie sprachen;Era bello che loro parl<i><b>a</b></i>ssero;congiuntivo_passato loro parlare
+00845;Es <i><b>war</b></i> schön, dass ich sprach;Era bello che io parlassi;congiuntivo_imperfetto io parlare
+00846;Es <i><b>war</b></i> schön, dass du sprachst;Era bello che tu parlassi;congiuntivo_imperfetto parlare tu
+00847;Es <i><b>war</b></i> schön, dass er/sie/es sprach;Era bello che lui/lei parlasse;congiuntivo_imperfetto lui_lei parlare
+00848;Es <i><b>war</b></i> schön, dass wir sprachen;Era bello che noi parl<i><b>a</b></i>ssimo;congiuntivo_imperfetto noi parlare
+00849;Es <i><b>war</b></i> schön, dass ihr spracht;Era bello che voi parlaste;congiuntivo_imperfetto parlare voi
+00850;Es <i><b>war</b></i> schön, dass sie sprachen;Era bello che loro parl<i><b>a</b></i>ssero;congiuntivo_imperfetto loro parlare
 
 00851;Sprich!;Parla!;imperativo parlare tu
 00852;Er/sie/es soll sprechen!;Parli!;imperativo lui_lei parlare
@@ -1316,12 +1316,12 @@
 00894;Es scheint lustig, dass ihr gefallt;Sembra divertente che voi piacciate;congiuntivo_presente piacere voi
 00895;Es scheint lustig, dass sie gefallen;Sembra divertente che loro pi<i><b>a</b></i>cciano;congiuntivo_presente loro piacere
 
-00896;Es <i><b>war</b></i> schön, dass ich gefiel;Era bello che io piacessi;congiuntivo_passato io piacere
-00897;Es <i><b>war</b></i> schön, dass du gefielst;Era bello che tu piacessi;congiuntivo_passato piacere tu
-00898;Es <i><b>war</b></i> schön, dass er/sie/es gefiel;Era bello che lui/lei piacesse;congiuntivo_passato lui_lei piacere
-00899;Es <i><b>war</b></i> schön, dass wir gefielen;Era bello che noi piac<i><b>e</b></i>ssimo;congiuntivo_passato noi piacere
-00900;Es <i><b>war</b></i> schön, dass ihr gefielt;Era bello che voi piaceste;congiuntivo_passato piacere voi
-00901;Es <i><b>war</b></i> schön, dass sie gefielen;Era bello che loro piac<i><b>e</b></i>ssero;congiuntivo_passato loro piacere
+00896;Es <i><b>war</b></i> schön, dass ich gefiel;Era bello che io piacessi;congiuntivo_imperfetto io piacere
+00897;Es <i><b>war</b></i> schön, dass du gefielst;Era bello che tu piacessi;congiuntivo_imperfetto piacere tu
+00898;Es <i><b>war</b></i> schön, dass er/sie/es gefiel;Era bello che lui/lei piacesse;congiuntivo_imperfetto lui_lei piacere
+00899;Es <i><b>war</b></i> schön, dass wir gefielen;Era bello che noi piac<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi piacere
+00900;Es <i><b>war</b></i> schön, dass ihr gefielt;Era bello che voi piaceste;congiuntivo_imperfetto piacere voi
+00901;Es <i><b>war</b></i> schön, dass sie gefielen;Era bello che loro piac<i><b>e</b></i>ssero;congiuntivo_imperfetto loro piacere
 
 00902;Gefalle!;Piaci!;imperativo piacere tu
 00903;Er/sie/es soll gefallen!;Pi<i><b>a</b></i>ccia!;imperativo lui_lei piacere
@@ -1383,12 +1383,12 @@
 00945;Es scheint lustig, dass ihr kommt;Sembra divertente che voi veniate;congiuntivo_presente venire voi
 00946;Es scheint lustig, dass sie kommen;Sembra divertente che loro v<i><b>e</b></i>ngano;congiuntivo_presente loro venire
 
-00947;Es <i><b>war</b></i> schön, dass ich kam;Era bello che io venissi;congiuntivo_passato io venire
-00948;Es <i><b>war</b></i> schön, dass du kamst;Era bello che tu venissi;congiuntivo_passato tu venire
-00949;Es <i><b>war</b></i> schön, dass er/sie/es kam;Era bello che lui/lei venisse;congiuntivo_passato lui_lei venire
-00950;Es <i><b>war</b></i> schön, dass wir kamen;Era bello che noi ven<i><b>i</b></i>ssimo;congiuntivo_passato noi venire
-00951;Es <i><b>war</b></i> schön, dass ihr kamt;Era bello che voi veniste;congiuntivo_passato venire voi
-00952;Es <i><b>war</b></i> schön, dass sie kamen;Era bello che loro ven<i><b>i</b></i>ssero;congiuntivo_passato loro venire
+00947;Es <i><b>war</b></i> schön, dass ich kam;Era bello che io venissi;congiuntivo_imperfetto io venire
+00948;Es <i><b>war</b></i> schön, dass du kamst;Era bello che tu venissi;congiuntivo_imperfetto tu venire
+00949;Es <i><b>war</b></i> schön, dass er/sie/es kam;Era bello che lui/lei venisse;congiuntivo_imperfetto lui_lei venire
+00950;Es <i><b>war</b></i> schön, dass wir kamen;Era bello che noi ven<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi venire
+00951;Es <i><b>war</b></i> schön, dass ihr kamt;Era bello che voi veniste;congiuntivo_imperfetto venire voi
+00952;Es <i><b>war</b></i> schön, dass sie kamen;Era bello che loro ven<i><b>i</b></i>ssero;congiuntivo_imperfetto loro venire
 
 00953;Komm!;Vieni!;imperativo tu venire
 00954;Er/sie/es soll kommen!;Venga!;imperativo lui_lei venire
@@ -1450,12 +1450,12 @@
 00996;Es scheint lustig, dass ihr haltet;Sembra divertente che voi teniate;congiuntivo_presente tenere voi
 00997;Es scheint lustig, dass sie halten;Sembra divertente che loro t<i><b>e</b></i>ngano;congiuntivo_presente loro tenere
 
-00998;Es <i><b>war</b></i> schön, dass ich hielt;Era bello che io tenessi;congiuntivo_passato io tenere
-00999;Es <i><b>war</b></i> schön, dass du hieltest;Era bello che tu tenessi;congiuntivo_passato tenere tu
-01000;Es <i><b>war</b></i> schön, dass er/sie/es hielt;Era bello che lui/lei tenesse;congiuntivo_passato lui_lei tenere
-01001;Es <i><b>war</b></i> schön, dass wir hielten;Era bello che noi ten<i><b>e</b></i>ssimo;congiuntivo_passato noi tenere
-01002;Es <i><b>war</b></i> schön, dass ihr hieltet;Era bello che voi teneste;congiuntivo_passato tenere voi
-01003;Es <i><b>war</b></i> schön, dass sie hielten;Era bello che loro ten<i><b>e</b></i>ssero;congiuntivo_passato loro tenere
+00998;Es <i><b>war</b></i> schön, dass ich hielt;Era bello che io tenessi;congiuntivo_imperfetto io tenere
+00999;Es <i><b>war</b></i> schön, dass du hieltest;Era bello che tu tenessi;congiuntivo_imperfetto tenere tu
+01000;Es <i><b>war</b></i> schön, dass er/sie/es hielt;Era bello che lui/lei tenesse;congiuntivo_imperfetto lui_lei tenere
+01001;Es <i><b>war</b></i> schön, dass wir hielten;Era bello che noi ten<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi tenere
+01002;Es <i><b>war</b></i> schön, dass ihr hieltet;Era bello che voi teneste;congiuntivo_imperfetto tenere voi
+01003;Es <i><b>war</b></i> schön, dass sie hielten;Era bello che loro ten<i><b>e</b></i>ssero;congiuntivo_imperfetto loro tenere
 
 01004;Halte!;Tieni!;imperativo tenere tu
 01005;Er/sie/es soll halten!;Tenga!;imperativo lui_lei tenere
@@ -1518,12 +1518,12 @@
 01047;Es scheint lustig, dass ihr beendet;Sembra divertente che voi finiate;congiuntivo_presente finire voi
 01048;Es scheint lustig, dass sie beenden;Sembra divertente che loro fin<i><b>i</b></i>scano;congiuntivo_presente finire loro
 
-01049;Es <i><b>war</b></i> schön, dass ich beendete;Era bello che io finissi;congiuntivo_passato finire io
-01050;Es <i><b>war</b></i> schön, dass du beendetest;Era bello che tu finissi;congiuntivo_passato finire tu
-01051;Es <i><b>war</b></i> schön, dass er/sie/es beendete;Era bello che lui/lei finisse;congiuntivo_passato finire lui_lei
-01052;Es <i><b>war</b></i> schön, dass wir beendeten;Era bello che noi fin<i><b>i</b></i>ssimo;congiuntivo_passato finire noi
-01053;Es <i><b>war</b></i> schön, dass ihr beendetet;Era bello che voi finiste;congiuntivo_passato finire voi
-01054;Es <i><b>war</b></i> schön, dass sie beendeten;Era bello che loro fin<i><b>i</b></i>ssero;congiuntivo_passato finire loro
+01049;Es <i><b>war</b></i> schön, dass ich beendete;Era bello che io finissi;congiuntivo_imperfetto finire io
+01050;Es <i><b>war</b></i> schön, dass du beendetest;Era bello che tu finissi;congiuntivo_imperfetto finire tu
+01051;Es <i><b>war</b></i> schön, dass er/sie/es beendete;Era bello che lui/lei finisse;congiuntivo_imperfetto finire lui_lei
+01052;Es <i><b>war</b></i> schön, dass wir beendeten;Era bello che noi fin<i><b>i</b></i>ssimo;congiuntivo_imperfetto finire noi
+01053;Es <i><b>war</b></i> schön, dass ihr beendetet;Era bello che voi finiste;congiuntivo_imperfetto finire voi
+01054;Es <i><b>war</b></i> schön, dass sie beendeten;Era bello che loro fin<i><b>i</b></i>ssero;congiuntivo_imperfetto finire loro
 
 01055;Beende!;Finisci!;finire imperativo tu
 01056;Er/sie/es soll beenden!;Finisca!;finire imperativo lui_lei
@@ -1585,12 +1585,12 @@
 01098;Es scheint lustig, dass ihr hinausgeht;Sembra divertente che voi usciate;congiuntivo_presente uscire voi
 01099;Es scheint lustig, dass sie hinausgehen;Sembra divertente che loro <i><b>e</b></i>scano;congiuntivo_presente loro uscire
 
-01100;Es <i><b>war</b></i> schön, dass ich hinausging;Era bello che io uscissi;congiuntivo_passato io uscire
-01101;Es <i><b>war</b></i> schön, dass du hinausgingst;Era bello che tu uscissi;congiuntivo_passato tu uscire
-01102;Es <i><b>war</b></i> schön, dass er/sie/es hinausging;Era bello che lui/lei uscisse;congiuntivo_passato lui_lei uscire
-01103;Es <i><b>war</b></i> schön, dass wir hinausgingen;Era bello che noi usc<i><b>i</b></i>ssimo;congiuntivo_passato noi uscire
-01104;Es <i><b>war</b></i> schön, dass ihr hinausgingt;Era bello che voi usciste;congiuntivo_passato uscire voi
-01105;Es <i><b>war</b></i> schön, dass sie hinausgingen;Era bello che loro usc<i><b>i</b></i>ssero;congiuntivo_passato loro uscire
+01100;Es <i><b>war</b></i> schön, dass ich hinausging;Era bello che io uscissi;congiuntivo_imperfetto io uscire
+01101;Es <i><b>war</b></i> schön, dass du hinausgingst;Era bello che tu uscissi;congiuntivo_imperfetto tu uscire
+01102;Es <i><b>war</b></i> schön, dass er/sie/es hinausging;Era bello che lui/lei uscisse;congiuntivo_imperfetto lui_lei uscire
+01103;Es <i><b>war</b></i> schön, dass wir hinausgingen;Era bello che noi usc<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi uscire
+01104;Es <i><b>war</b></i> schön, dass ihr hinausgingt;Era bello che voi usciste;congiuntivo_imperfetto uscire voi
+01105;Es <i><b>war</b></i> schön, dass sie hinausgingen;Era bello che loro usc<i><b>i</b></i>ssero;congiuntivo_imperfetto loro uscire
 
 01106;Geh hinaus!;Esci!;imperativo tu uscire
 01107;Er/sie/es soll hinausgehen!;Esca!;imperativo lui_lei uscire
@@ -1650,12 +1650,12 @@
 01149;Es scheint lustig, dass ihr nehmt;Sembra divertente che voi prendiate;congiuntivo_presente prendere voi
 01150;Es scheint lustig, dass sie nehmen;Sembra divertente che loro pr<i><b>e</b></i>ndano;congiuntivo_presente loro prendere
 
-01151;Es <i><b>war</b></i> schön, dass ich nahm;Era bello che io prendessi;congiuntivo_passato io prendere
-01152;Es <i><b>war</b></i> schön, dass du nahmst;Era bello che tu prendessi;congiuntivo_passato prendere tu
-01153;Es <i><b>war</b></i> schön, dass er/sie/es nahm;Era bello che lui/lei prendesse;congiuntivo_passato lui_lei prendere
-01154;Es <i><b>war</b></i> schön, dass wir nahmen;Era bello che noi prend<i><b>e</b></i>ssimo;congiuntivo_passato noi prendere
-01155;Es <i><b>war</b></i> schön, dass ihr nahmt;Era bello che voi prendeste;congiuntivo_passato prendere voi
-01156;Es <i><b>war</b></i> schön, dass sie nahmen;Era bello che loro prend<i><b>e</b></i>ssero;congiuntivo_passato loro prendere
+01151;Es <i><b>war</b></i> schön, dass ich nahm;Era bello che io prendessi;congiuntivo_imperfetto io prendere
+01152;Es <i><b>war</b></i> schön, dass du nahmst;Era bello che tu prendessi;congiuntivo_imperfetto prendere tu
+01153;Es <i><b>war</b></i> schön, dass er/sie/es nahm;Era bello che lui/lei prendesse;congiuntivo_imperfetto lui_lei prendere
+01154;Es <i><b>war</b></i> schön, dass wir nahmen;Era bello che noi prend<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi prendere
+01155;Es <i><b>war</b></i> schön, dass ihr nahmt;Era bello che voi prendeste;congiuntivo_imperfetto prendere voi
+01156;Es <i><b>war</b></i> schön, dass sie nahmen;Era bello che loro prend<i><b>e</b></i>ssero;congiuntivo_imperfetto loro prendere
 
 01157;Nimm!;Prendi!;imperativo prendere tu
 01158;Er/sie/es soll nehmen!;Prenda!;imperativo lui_lei prendere
@@ -1717,12 +1717,12 @@
 01200;Es scheint lustig, dass ihr auswählt;Sembra divertente che voi scegliate;congiuntivo_presente scegliere voi
 01201;Es scheint lustig, dass sie auswählen;Sembra divertente che loro sc<i><b>e</b></i>lgano;congiuntivo_presente loro scegliere
 
-01202;Es <i><b>war</b></i> schön, dass ich auswählte;Era bello che io scegliessi;congiuntivo_passato io scegliere
-01203;Es <i><b>war</b></i> schön, dass du auswähltest;Era bello che tu scegliessi;congiuntivo_passato scegliere tu
-01204;Es <i><b>war</b></i> schön, dass er/sie/es auswählte;Era bello che lui/lei scegliesse;congiuntivo_passato lui_lei scegliere
-01205;Es <i><b>war</b></i> schön, dass wir auswählten;Era bello che noi scegli<i><b>e</b></i>ssimo;congiuntivo_passato noi scegliere
-01206;Es <i><b>war</b></i> schön, dass ihr auswähltet;Era bello che voi sceglieste;congiuntivo_passato scegliere voi
-01207;Es <i><b>war</b></i> schön, dass sie auswählten;Era bello che loro scegli<i><b>e</b></i>ssero;congiuntivo_passato loro scegliere
+01202;Es <i><b>war</b></i> schön, dass ich auswählte;Era bello che io scegliessi;congiuntivo_imperfetto io scegliere
+01203;Es <i><b>war</b></i> schön, dass du auswähltest;Era bello che tu scegliessi;congiuntivo_imperfetto scegliere tu
+01204;Es <i><b>war</b></i> schön, dass er/sie/es auswählte;Era bello che lui/lei scegliesse;congiuntivo_imperfetto lui_lei scegliere
+01205;Es <i><b>war</b></i> schön, dass wir auswählten;Era bello che noi scegli<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi scegliere
+01206;Es <i><b>war</b></i> schön, dass ihr auswähltet;Era bello che voi sceglieste;congiuntivo_imperfetto scegliere voi
+01207;Es <i><b>war</b></i> schön, dass sie auswählten;Era bello che loro scegli<i><b>e</b></i>ssero;congiuntivo_imperfetto loro scegliere
 
 01208;Wähl aus!;Scegli!;imperativo scegliere tu
 01209;Er/sie/es soll auswählen!;Scelga!;imperativo lui_lei scegliere
@@ -1785,12 +1785,12 @@
 01251;Es scheint lustig, dass ihr (jdn.) anzieht;Sembra divertente che voi attraiate;attrarre congiuntivo_presente voi
 01252;Es scheint lustig, dass sie (jdn.) anziehen;Sembra divertente che loro attr<i><b>a</b></i>ggano;attrarre congiuntivo_presente loro
 
-01253;Es <i><b>war</b></i> schön, dass ich (jdn.) anzog;Era bello che io attraessi;attrarre congiuntivo_passato io
-01254;Es <i><b>war</b></i> schön, dass du (jdn.) anzogst;Era bello che tu attraessi;attrarre congiuntivo_passato tu
-01255;Es <i><b>war</b></i> schön, dass er/sie/es (jdn.) anzog;Era bello che lui/lei attraesse;attrarre congiuntivo_passato lui_lei
-01256;Es <i><b>war</b></i> schön, dass wir (jdn.) anzogen;Era bello che noi attra<i><b>e</b></i>ssimo;attrarre congiuntivo_passato noi
-01257;Es <i><b>war</b></i> schön, dass ihr (jdn.) anzogt;Era bello che voi attraeste;attrarre congiuntivo_passato voi
-01258;Es <i><b>war</b></i> schön, dass sie (jdn.) anzogen;Era bello che loro attra<i><b>e</b></i>ssero;attrarre congiuntivo_passato loro
+01253;Es <i><b>war</b></i> schön, dass ich (jdn.) anzog;Era bello che io attraessi;attrarre congiuntivo_imperfetto io
+01254;Es <i><b>war</b></i> schön, dass du (jdn.) anzogst;Era bello che tu attraessi;attrarre congiuntivo_imperfetto tu
+01255;Es <i><b>war</b></i> schön, dass er/sie/es (jdn.) anzog;Era bello che lui/lei attraesse;attrarre congiuntivo_imperfetto lui_lei
+01256;Es <i><b>war</b></i> schön, dass wir (jdn.) anzogen;Era bello che noi attra<i><b>e</b></i>ssimo;attrarre congiuntivo_imperfetto noi
+01257;Es <i><b>war</b></i> schön, dass ihr (jdn.) anzogt;Era bello che voi attraeste;attrarre congiuntivo_imperfetto voi
+01258;Es <i><b>war</b></i> schön, dass sie (jdn.) anzogen;Era bello che loro attra<i><b>e</b></i>ssero;attrarre congiuntivo_imperfetto loro
 
 01259;Zieh (jdn.) an!;Attrai!;attrarre imperativo tu
 01260;Er/sie/es soll (jdn.) anziehen!;Attragga!;attrarre imperativo lui_lei
@@ -1853,12 +1853,12 @@
 01302;Es scheint lustig, dass ihr stellt;Sembra divertente che voi poniate;congiuntivo_presente porre voi
 01303;Es scheint lustig, dass sie stellen;Sembra divertente che loro p<i><b>o</b></i>ngano;congiuntivo_presente loro porre
 
-01304;Es <i><b>war</b></i> schön, dass ich stellte;Era bello che io ponessi;congiuntivo_passato io porre
-01305;Es <i><b>war</b></i> schön, dass du stelltest;Era bello che tu ponessi;congiuntivo_passato porre tu
-01306;Es <i><b>war</b></i> schön, dass er/sie/es stellte;Era bello che lui/lei ponesse;congiuntivo_passato lui_lei porre
-01307;Es <i><b>war</b></i> schön, dass wir stellten;Era bello che noi pon<i><b>e</b></i>ssimo;congiuntivo_passato noi porre
-01308;Es <i><b>war</b></i> schön, dass ihr stelltet;Era bello che voi poneste;congiuntivo_passato porre voi
-01309;Es <i><b>war</b></i> schön, dass sie stellten;Era bello che loro pon<i><b>e</b></i>ssero;congiuntivo_passato loro porre
+01304;Es <i><b>war</b></i> schön, dass ich stellte;Era bello che io ponessi;congiuntivo_imperfetto io porre
+01305;Es <i><b>war</b></i> schön, dass du stelltest;Era bello che tu ponessi;congiuntivo_imperfetto porre tu
+01306;Es <i><b>war</b></i> schön, dass er/sie/es stellte;Era bello che lui/lei ponesse;congiuntivo_imperfetto lui_lei porre
+01307;Es <i><b>war</b></i> schön, dass wir stellten;Era bello che noi pon<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi porre
+01308;Es <i><b>war</b></i> schön, dass ihr stelltet;Era bello che voi poneste;congiuntivo_imperfetto porre voi
+01309;Es <i><b>war</b></i> schön, dass sie stellten;Era bello che loro pon<i><b>e</b></i>ssero;congiuntivo_imperfetto loro porre
 
 01310;Stell!;Poni!;imperativo porre tu
 01311;Er/sie/es soll stellen!;Ponga!;imperativo lui_lei porre
@@ -1921,12 +1921,12 @@
 01353;Es scheint lustig, dass ihr führt;Sembra divertente che voi conduciate;condurre congiuntivo_presente voi
 01354;Es scheint lustig, dass sie führen;Sembra divertente che loro cond<i><b>u</b></i>cano;condurre congiuntivo_presente loro
 
-01355;Es <i><b>war</b></i> schön, dass ich führte;Era bello che io conducessi;condurre congiuntivo_passato io
-01356;Es <i><b>war</b></i> schön, dass du führtest;Era bello che tu conducessi;condurre congiuntivo_passato tu
-01357;Es <i><b>war</b></i> schön, dass er/sie/es führte;Era bello che lui/lei conducesse;condurre congiuntivo_passato lui_lei
-01358;Es <i><b>war</b></i> schön, dass wir führten;Era bello che noi conduc<i><b>e</b></i>ssimo;condurre congiuntivo_passato noi
-01359;Es <i><b>war</b></i> schön, dass ihr führtet;Era bello che voi conduceste;condurre congiuntivo_passato voi
-01360;Es <i><b>war</b></i> schön, dass sie führten;Era bello che loro conduc<i><b>e</b></i>ssero;condurre congiuntivo_passato loro
+01355;Es <i><b>war</b></i> schön, dass ich führte;Era bello che io conducessi;condurre congiuntivo_imperfetto io
+01356;Es <i><b>war</b></i> schön, dass du führtest;Era bello che tu conducessi;condurre congiuntivo_imperfetto tu
+01357;Es <i><b>war</b></i> schön, dass er/sie/es führte;Era bello che lui/lei conducesse;condurre congiuntivo_imperfetto lui_lei
+01358;Es <i><b>war</b></i> schön, dass wir führten;Era bello che noi conduc<i><b>e</b></i>ssimo;condurre congiuntivo_imperfetto noi
+01359;Es <i><b>war</b></i> schön, dass ihr führtet;Era bello che voi conduceste;condurre congiuntivo_imperfetto voi
+01360;Es <i><b>war</b></i> schön, dass sie führten;Era bello che loro conduc<i><b>e</b></i>ssero;condurre congiuntivo_imperfetto loro
 
 01361;Führ!;Conduci!;condurre imperativo tu
 01362;Er/sie/es soll führen!;Conduca!;condurre imperativo lui_lei
@@ -1988,12 +1988,12 @@
 01404;Es scheint lustig, dass ihr lest;Sembra divertente che voi leggiate;congiuntivo_presente leggere voi
 01405;Es scheint lustig, dass sie lesen;Sembra divertente che loro l<i><b>e</b></i>ggano;congiuntivo_presente leggere loro
 
-01406;Es <i><b>war</b></i> schön, dass ich las;Era bello che io leggessi;congiuntivo_passato io leggere
-01407;Es <i><b>war</b></i> schön, dass du last;Era bello che tu leggessi;congiuntivo_passato leggere tu
-01408;Es <i><b>war</b></i> schön, dass er/sie/es las;Era bello che lui/lei leggesse;congiuntivo_passato leggere lui_lei
-01409;Es <i><b>war</b></i> schön, dass wir lasen;Era bello che noi legg<i><b>e</b></i>ssimo;congiuntivo_passato leggere noi
-01410;Es <i><b>war</b></i> schön, dass ihr last;Era bello che voi leggeste;congiuntivo_passato leggere voi
-01411;Es <i><b>war</b></i> schön, dass sie lasen;Era bello che loro legg<i><b>e</b></i>ssero;congiuntivo_passato leggere loro
+01406;Es <i><b>war</b></i> schön, dass ich las;Era bello che io leggessi;congiuntivo_imperfetto io leggere
+01407;Es <i><b>war</b></i> schön, dass du last;Era bello che tu leggessi;congiuntivo_imperfetto leggere tu
+01408;Es <i><b>war</b></i> schön, dass er/sie/es las;Era bello che lui/lei leggesse;congiuntivo_imperfetto leggere lui_lei
+01409;Es <i><b>war</b></i> schön, dass wir lasen;Era bello che noi legg<i><b>e</b></i>ssimo;congiuntivo_imperfetto leggere noi
+01410;Es <i><b>war</b></i> schön, dass ihr last;Era bello che voi leggeste;congiuntivo_imperfetto leggere voi
+01411;Es <i><b>war</b></i> schön, dass sie lasen;Era bello che loro legg<i><b>e</b></i>ssero;congiuntivo_imperfetto leggere loro
 
 01412;Lies!;Leggi!;imperativo leggere tu
 01413;Er/sie/es soll lesen!;Legga!;imperativo leggere lui_lei
@@ -2055,12 +2055,12 @@
 01455;Es scheint lustig, dass ihr scheint (als ob);Sembra divertente che voi paiate / pariate;congiuntivo_presente parere voi
 01456;Es scheint lustig, dass sie scheinen (als ob);Sembra divertente che loro p<i><b>a</b></i>iano;congiuntivo_presente loro parere
 
-01457;Es <i><b>war</b></i> schön, dass ich schien (als ob);Era bello che io paressi;congiuntivo_passato io parere
-01458;Es <i><b>war</b></i> schön, dass du schienst (als ob);Era bello che tu paressi;congiuntivo_passato parere tu
-01459;Es <i><b>war</b></i> schön, dass er/sie/es schien (als ob);Era bello che lui/lei paresse;congiuntivo_passato lui_lei parere
-01460;Es <i><b>war</b></i> schön, dass wir schienen (als ob);Era bello che noi par<i><b>e</b></i>ssimo;congiuntivo_passato noi parere
-01461;Es <i><b>war</b></i> schön, dass ihr schient (als ob);Era bello che voi pareste;congiuntivo_passato parere voi
-01462;Es <i><b>war</b></i> schön, dass sie schienen (als ob);Era bello che loro par<i><b>e</b></i>ssero;congiuntivo_passato loro parere
+01457;Es <i><b>war</b></i> schön, dass ich schien (als ob);Era bello che io paressi;congiuntivo_imperfetto io parere
+01458;Es <i><b>war</b></i> schön, dass du schienst (als ob);Era bello che tu paressi;congiuntivo_imperfetto parere tu
+01459;Es <i><b>war</b></i> schön, dass er/sie/es schien (als ob);Era bello che lui/lei paresse;congiuntivo_imperfetto lui_lei parere
+01460;Es <i><b>war</b></i> schön, dass wir schienen (als ob);Era bello che noi par<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi parere
+01461;Es <i><b>war</b></i> schön, dass ihr schient (als ob);Era bello che voi pareste;congiuntivo_imperfetto parere voi
+01462;Es <i><b>war</b></i> schön, dass sie schienen (als ob);Era bello che loro par<i><b>e</b></i>ssero;congiuntivo_imperfetto loro parere
 
 # Kein Imperativ
 
@@ -2118,12 +2118,12 @@
 01501;Es scheint lustig, dass ihr trinkt;Sembra divertente che voi beviate;bere congiuntivo_presente voi
 01502;Es scheint lustig, dass sie trinken;Sembra divertente che loro b<i><b>e</b></i>vano;bere congiuntivo_presente loro
 
-01503;Es <i><b>war</b></i> schön, dass ich trank;Era bello che io bevessi;bere congiuntivo_passato io
-01504;Es <i><b>war</b></i> schön, dass du trankst;Era bello che tu bevessi;bere congiuntivo_passato tu
-01505;Es <i><b>war</b></i> schön, dass er/sie/es trank;Era bello che lui/lei bevesse;bere congiuntivo_passato lui_lei
-01506;Es <i><b>war</b></i> schön, dass wir tranken;Era bello che noi bev<i><b>e</b></i>ssimo;bere congiuntivo_passato noi
-01507;Es <i><b>war</b></i> schön, dass ihr trankt;Era bello che voi beveste;bere congiuntivo_passato voi
-01508;Es <i><b>war</b></i> schön, dass sie tranken;Era bello che loro bev<i><b>e</b></i>ssero;bere congiuntivo_passato loro
+01503;Es <i><b>war</b></i> schön, dass ich trank;Era bello che io bevessi;bere congiuntivo_imperfetto io
+01504;Es <i><b>war</b></i> schön, dass du trankst;Era bello che tu bevessi;bere congiuntivo_imperfetto tu
+01505;Es <i><b>war</b></i> schön, dass er/sie/es trank;Era bello che lui/lei bevesse;bere congiuntivo_imperfetto lui_lei
+01506;Es <i><b>war</b></i> schön, dass wir tranken;Era bello che noi bev<i><b>e</b></i>ssimo;bere congiuntivo_imperfetto noi
+01507;Es <i><b>war</b></i> schön, dass ihr trankt;Era bello che voi beveste;bere congiuntivo_imperfetto voi
+01508;Es <i><b>war</b></i> schön, dass sie tranken;Era bello che loro bev<i><b>e</b></i>ssero;bere congiuntivo_imperfetto loro
 
 01509;Trink!;Bevi!;bere imperativo tu
 01510;Er/sie/es soll trinken!;Beva!;bere imperativo lui_lei
@@ -2185,12 +2185,12 @@
 01552;Es scheint lustig, dass ihr sitzt;Sembra divertente che voi sediate;congiuntivo_presente sedere voi
 01553;Es scheint lustig, dass sie sitzen;Sembra divertente che loro si<i><b>e</b></i>dano / s<i><b>e</b></i>ggano [lit];congiuntivo_presente loro sedere
 
-01554;Es <i><b>war</b></i> schön, dass ich sitzte;Era bello che io sedessi;congiuntivo_passato io sedere
-01555;Es <i><b>war</b></i> schön, dass du sitztest;Era bello che tu sedessi;congiuntivo_passato sedere tu
-01556;Es <i><b>war</b></i> schön, dass er/sie/es sitzte;Era bello che lui/lei sedesse;congiuntivo_passato lui_lei sedere
-01557;Es <i><b>war</b></i> schön, dass wir sitzten;Era bello che noi sed<i><b>e</b></i>ssimo;congiuntivo_passato noi sedere
-01558;Es <i><b>war</b></i> schön, dass ihr sitztet;Era bello che voi sedeste;congiuntivo_passato sedere voi
-01559;Es <i><b>war</b></i> schön, dass sie sitzten;Era bello che loro sed<i><b>e</b></i>ssero;congiuntivo_passato loro sedere
+01554;Es <i><b>war</b></i> schön, dass ich sitzte;Era bello che io sedessi;congiuntivo_imperfetto io sedere
+01555;Es <i><b>war</b></i> schön, dass du sitztest;Era bello che tu sedessi;congiuntivo_imperfetto sedere tu
+01556;Es <i><b>war</b></i> schön, dass er/sie/es sitzte;Era bello che lui/lei sedesse;congiuntivo_imperfetto lui_lei sedere
+01557;Es <i><b>war</b></i> schön, dass wir sitzten;Era bello che noi sed<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi sedere
+01558;Es <i><b>war</b></i> schön, dass ihr sitztet;Era bello che voi sedeste;congiuntivo_imperfetto sedere voi
+01559;Es <i><b>war</b></i> schön, dass sie sitzten;Era bello che loro sed<i><b>e</b></i>ssero;congiuntivo_imperfetto loro sedere
 
 01560;Sitz!;Siedi!;imperativo sedere tu
 01561;Er/sie/es soll sitzen!;Sieda! / Segga! [lit];imperativo lui_lei sedere
@@ -2252,12 +2252,12 @@
 01603;Es scheint lustig, dass ihr wert seid;Sembra divertente che voi valiate;congiuntivo_presente valere voi
 01604;Es scheint lustig, dass sie wert sind;Sembra divertente che loro v<i><b>a</b></i>lgano;congiuntivo_presente loro valere
 
-01605;Es <i><b>war</b></i> schön, dass ich wert war;Era bello che io valessi;congiuntivo_passato io valere
-01606;Es <i><b>war</b></i> schön, dass du wert warst;Era bello che tu valessi;congiuntivo_passato tu valere
-01607;Es <i><b>war</b></i> schön, dass er/sie/es wert war;Era bello che lui/lei valesse;congiuntivo_passato lui_lei valere
-01608;Es <i><b>war</b></i> schön, dass wir wert waren;Era bello che noi val<i><b>e</b></i>ssimo;congiuntivo_passato noi valere
-01609;Es <i><b>war</b></i> schön, dass ihr wert wart;Era bello che voi valeste;congiuntivo_passato valere voi
-01610;Es <i><b>war</b></i> schön, dass sie wert waren;Era bello che loro val<i><b>e</b></i>ssero;congiuntivo_passato loro valere
+01605;Es <i><b>war</b></i> schön, dass ich wert war;Era bello che io valessi;congiuntivo_imperfetto io valere
+01606;Es <i><b>war</b></i> schön, dass du wert warst;Era bello che tu valessi;congiuntivo_imperfetto tu valere
+01607;Es <i><b>war</b></i> schön, dass er/sie/es wert war;Era bello che lui/lei valesse;congiuntivo_imperfetto lui_lei valere
+01608;Es <i><b>war</b></i> schön, dass wir wert waren;Era bello che noi val<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi valere
+01609;Es <i><b>war</b></i> schön, dass ihr wert wart;Era bello che voi valeste;congiuntivo_imperfetto valere voi
+01610;Es <i><b>war</b></i> schön, dass sie wert waren;Era bello che loro val<i><b>e</b></i>ssero;congiuntivo_imperfetto loro valere
 
 01611;Sei wert!;Vali!;imperativo tu valere
 01612;Er/sie/es soll wert sein!;Valga!;imperativo lui_lei valere
@@ -2319,12 +2319,12 @@
 01654;Es scheint lustig, dass ihr bleibt;Sembra divertente che voi rimaniate;congiuntivo_presente rimanere voi
 01655;Es scheint lustig, dass sie bleiben;Sembra divertente che loro rim<i><b>a</b></i>ngano;congiuntivo_presente loro rimanere
 
-01656;Es <i><b>war</b></i> schön, dass ich blieb;Era bello che io rimanessi;congiuntivo_passato io rimanere
-01657;Es <i><b>war</b></i> schön, dass du bliebst;Era bello che tu rimanessi;congiuntivo_passato rimanere tu
-01658;Es <i><b>war</b></i> schön, dass er/sie/es blieb;Era bello che lui/lei rimanesse;congiuntivo_passato lui_lei rimanere
-01659;Es <i><b>war</b></i> schön, dass wir blieben;Era bello che noi riman<i><b>e</b></i>ssimo;congiuntivo_passato noi rimanere
-01660;Es <i><b>war</b></i> schön, dass ihr bliebt;Era bello che voi rimaneste;congiuntivo_passato rimanere voi
-01661;Es <i><b>war</b></i> schön, dass sie blieben;Era bello che loro riman<i><b>e</b></i>ssero;congiuntivo_passato loro rimanere
+01656;Es <i><b>war</b></i> schön, dass ich blieb;Era bello che io rimanessi;congiuntivo_imperfetto io rimanere
+01657;Es <i><b>war</b></i> schön, dass du bliebst;Era bello che tu rimanessi;congiuntivo_imperfetto rimanere tu
+01658;Es <i><b>war</b></i> schön, dass er/sie/es blieb;Era bello che lui/lei rimanesse;congiuntivo_imperfetto lui_lei rimanere
+01659;Es <i><b>war</b></i> schön, dass wir blieben;Era bello che noi riman<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rimanere
+01660;Es <i><b>war</b></i> schön, dass ihr bliebt;Era bello che voi rimaneste;congiuntivo_imperfetto rimanere voi
+01661;Es <i><b>war</b></i> schön, dass sie blieben;Era bello che loro riman<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rimanere
 
 01662;Bleib!;Rimani!;imperativo rimanere tu
 01663;Er/sie/es soll bleiben!;Rimanga!;imperativo lui_lei rimanere
@@ -2386,12 +2386,12 @@
 01705;Es scheint lustig, dass ihr erscheint;Sembra divertente che voi appariate;apparire congiuntivo_presente voi
 01706;Es scheint lustig, dass sie erscheinen;Sembra divertente che loro app<i><b>a</b></i>iano / appar<i><b>i</b></i>scano;apparire congiuntivo_presente loro
 
-01707;Es <i><b>war</b></i> schön, dass ich erschien;Era bello che io apparissi;apparire congiuntivo_passato io
-01708;Es <i><b>war</b></i> schön, dass du erschienst;Era bello che tu apparissi;apparire congiuntivo_passato tu
-01709;Es <i><b>war</b></i> schön, dass er/sie/es erschien;Era bello che lui/lei apparisse;apparire congiuntivo_passato lui_lei
-01710;Es <i><b>war</b></i> schön, dass wir erschienen;Era bello che noi appar<i><b>i</b></i>ssimo;apparire congiuntivo_passato noi
-01711;Es <i><b>war</b></i> schön, dass ihr erschient;Era bello che voi appariste;apparire congiuntivo_passato voi
-01712;Es <i><b>war</b></i> schön, dass sie erschienen;Era bello che loro appar<i><b>i</b></i>ssero;apparire congiuntivo_passato loro
+01707;Es <i><b>war</b></i> schön, dass ich erschien;Era bello che io apparissi;apparire congiuntivo_imperfetto io
+01708;Es <i><b>war</b></i> schön, dass du erschienst;Era bello che tu apparissi;apparire congiuntivo_imperfetto tu
+01709;Es <i><b>war</b></i> schön, dass er/sie/es erschien;Era bello che lui/lei apparisse;apparire congiuntivo_imperfetto lui_lei
+01710;Es <i><b>war</b></i> schön, dass wir erschienen;Era bello che noi appar<i><b>i</b></i>ssimo;apparire congiuntivo_imperfetto noi
+01711;Es <i><b>war</b></i> schön, dass ihr erschient;Era bello che voi appariste;apparire congiuntivo_imperfetto voi
+01712;Es <i><b>war</b></i> schön, dass sie erschienen;Era bello che loro appar<i><b>i</b></i>ssero;apparire congiuntivo_imperfetto loro
 
 01713;Erscheine!;Appari! / Apparisci!;apparire imperativo tu
 01714;Er/sie/es soll erscheinen!;App<i><b>a</b></i>ia! / Apparisca!;apparire imperativo lui_lei
@@ -2453,12 +2453,12 @@
 01756;Es scheint lustig, dass ihr sterbt;Sembra divertente che voi moriate;congiuntivo_presente morire voi
 01757;Es scheint lustig, dass sie sterben;Sembra divertente che loro mu<i><b>o</b></i>iano;congiuntivo_presente loro morire
 
-01758;Es <i><b>war</b></i> schön, dass ich starb;Era bello che io morissi;congiuntivo_passato io morire
-01759;Es <i><b>war</b></i> schön, dass du starbst;Era bello che tu morissi;congiuntivo_passato morire tu
-01760;Es <i><b>war</b></i> schön, dass er/sie/es starb;Era bello che lui/lei morisse;congiuntivo_passato lui_lei morire
-01761;Es <i><b>war</b></i> schön, dass wir starben;Era bello che noi mor<i><b>i</b></i>ssimo;congiuntivo_passato morire noi
-01762;Es <i><b>war</b></i> schön, dass ihr starbt;Era bello che voi moriste;congiuntivo_passato morire voi
-01763;Es <i><b>war</b></i> schön, dass sie starben;Era bello che loro mor<i><b>i</b></i>ssero;congiuntivo_passato loro morire
+01758;Es <i><b>war</b></i> schön, dass ich starb;Era bello che io morissi;congiuntivo_imperfetto io morire
+01759;Es <i><b>war</b></i> schön, dass du starbst;Era bello che tu morissi;congiuntivo_imperfetto morire tu
+01760;Es <i><b>war</b></i> schön, dass er/sie/es starb;Era bello che lui/lei morisse;congiuntivo_imperfetto lui_lei morire
+01761;Es <i><b>war</b></i> schön, dass wir starben;Era bello che noi mor<i><b>i</b></i>ssimo;congiuntivo_imperfetto morire noi
+01762;Es <i><b>war</b></i> schön, dass ihr starbt;Era bello che voi moriste;congiuntivo_imperfetto morire voi
+01763;Es <i><b>war</b></i> schön, dass sie starben;Era bello che loro mor<i><b>i</b></i>ssero;congiuntivo_imperfetto loro morire
 
 01764;Stirb!;Muori!;imperativo morire tu
 01765;Er/sie/es soll sterben!;Mu<i><b>o</b></i>ia!;imperativo lui_lei morire
@@ -2520,12 +2520,12 @@
 01807;Es scheint lustig, dass ihr hinaufsteigt;Sembra divertente che voi saliate;congiuntivo_presente salire voi
 01808;Es scheint lustig, dass sie hinaufsteigen;Sembra divertente che loro s<i><b>a</b></i>lgano;congiuntivo_presente loro salire
 
-01809;Es <i><b>war</b></i> schön, dass ich hinaufstieg;Era bello che io salissi;congiuntivo_passato io salire
-01810;Es <i><b>war</b></i> schön, dass du hinaufstiegst;Era bello che tu salissi;congiuntivo_passato salire tu
-01811;Es <i><b>war</b></i> schön, dass er/sie/es hinaufstieg;Era bello che lui/lei salisse;congiuntivo_passato lui_lei salire
-01812;Es <i><b>war</b></i> schön, dass wir hinaufstiegen;Era bello che noi sal<i><b>i</b></i>ssimo;congiuntivo_passato noi salire
-01813;Es <i><b>war</b></i> schön, dass ihr hinaufstiegt;Era bello che voi saliste;congiuntivo_passato salire voi
-01814;Es <i><b>war</b></i> schön, dass sie hinaufstiegen;Era bello che loro sal<i><b>i</b></i>ssero;congiuntivo_passato loro salire
+01809;Es <i><b>war</b></i> schön, dass ich hinaufstieg;Era bello che io salissi;congiuntivo_imperfetto io salire
+01810;Es <i><b>war</b></i> schön, dass du hinaufstiegst;Era bello che tu salissi;congiuntivo_imperfetto salire tu
+01811;Es <i><b>war</b></i> schön, dass er/sie/es hinaufstieg;Era bello che lui/lei salisse;congiuntivo_imperfetto lui_lei salire
+01812;Es <i><b>war</b></i> schön, dass wir hinaufstiegen;Era bello che noi sal<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi salire
+01813;Es <i><b>war</b></i> schön, dass ihr hinaufstiegt;Era bello che voi saliste;congiuntivo_imperfetto salire voi
+01814;Es <i><b>war</b></i> schön, dass sie hinaufstiegen;Era bello che loro sal<i><b>i</b></i>ssero;congiuntivo_imperfetto loro salire
 
 01815;Steig hinauf!;Sali!;imperativo salire tu
 01816;Er/sie/es soll hinaufsteigen!;Salga!;imperativo lui_lei salire
@@ -2587,12 +2587,12 @@
 01858;Es scheint lustig, dass ihr kocht;Sembra divertente che voi cuociate / cociate;congiuntivo_presente cuocere voi
 01859;Es scheint lustig, dass sie kochen;Sembra divertente che loro cu<i><b>o</b></i>ciano / c<i><b>o</b></i>ciano;congiuntivo_presente cuocere loro
 
-01860;Es <i><b>war</b></i> schön, dass ich kochte;Era bello che io cuocessi / cocessi;congiuntivo_passato cuocere io
-01861;Es <i><b>war</b></i> schön, dass du kochtest;Era bello che tu cuocessi / cocessi;congiuntivo_passato cuocere tu
-01862;Es <i><b>war</b></i> schön, dass er/sie/es kochte;Era bello che lui/lei cuocesse / cocesse;congiuntivo_passato cuocere lui_lei
-01863;Es <i><b>war</b></i> schön, dass wir kochten;Era bello che noi cuoc<i><b>e</b></i>ssimo / coc<i><b>e</b></i>ssimo;congiuntivo_passato cuocere noi
-01864;Es <i><b>war</b></i> schön, dass ihr kochtet;Era bello che voi cuoceste / coceste;congiuntivo_passato cuocere voi
-01865;Es <i><b>war</b></i> schön, dass sie kochten;Era bello che loro cuoc<i><b>e</b></i>ssero / coc<i><b>e</b></i>ssero;congiuntivo_passato cuocere loro
+01860;Es <i><b>war</b></i> schön, dass ich kochte;Era bello che io cuocessi / cocessi;congiuntivo_imperfetto cuocere io
+01861;Es <i><b>war</b></i> schön, dass du kochtest;Era bello che tu cuocessi / cocessi;congiuntivo_imperfetto cuocere tu
+01862;Es <i><b>war</b></i> schön, dass er/sie/es kochte;Era bello che lui/lei cuocesse / cocesse;congiuntivo_imperfetto cuocere lui_lei
+01863;Es <i><b>war</b></i> schön, dass wir kochten;Era bello che noi cuoc<i><b>e</b></i>ssimo / coc<i><b>e</b></i>ssimo;congiuntivo_imperfetto cuocere noi
+01864;Es <i><b>war</b></i> schön, dass ihr kochtet;Era bello che voi cuoceste / coceste;congiuntivo_imperfetto cuocere voi
+01865;Es <i><b>war</b></i> schön, dass sie kochten;Era bello che loro cuoc<i><b>e</b></i>ssero / coc<i><b>e</b></i>ssero;congiuntivo_imperfetto cuocere loro
 
 01866;Koch!;Cuoci!;cuocere imperativo tu
 01867;Er/sie/es soll kochen!;Cu<i><b>o</b></i>cia!;cuocere imperativo lui_lei
@@ -2654,12 +2654,12 @@
 01909;Es scheint lustig, dass ihr ausmacht;Sembra divertente che voi spegniate;congiuntivo_presente spegnere voi
 01910;Es scheint lustig, dass sie ausmachen;Sembra divertente che loro sp<i><b>e</b></i>ngano;congiuntivo_presente loro spegnere
 
-01911;Es <i><b>war</b></i> schön, dass ich ausmachte;Era bello che io spegnessi;congiuntivo_passato io spegnere
-01912;Es <i><b>war</b></i> schön, dass du ausmachtest;Era bello che tu spegnessi;congiuntivo_passato spegnere tu
-01913;Es <i><b>war</b></i> schön, dass er/sie/es ausmachte;Era bello che lui/lei spegnesse;congiuntivo_passato lui_lei spegnere
-01914;Es <i><b>war</b></i> schön, dass wir ausmachten;Era bello che noi spegn<i><b>e</b></i>ssimo;congiuntivo_passato noi spegnere
-01915;Es <i><b>war</b></i> schön, dass ihr ausmachtet;Era bello che voi spegneste;congiuntivo_passato spegnere voi
-01916;Es <i><b>war</b></i> schön, dass sie ausmachten;Era bello che loro spegn<i><b>e</b></i>ssero;congiuntivo_passato loro spegnere
+01911;Es <i><b>war</b></i> schön, dass ich ausmachte;Era bello che io spegnessi;congiuntivo_imperfetto io spegnere
+01912;Es <i><b>war</b></i> schön, dass du ausmachtest;Era bello che tu spegnessi;congiuntivo_imperfetto spegnere tu
+01913;Es <i><b>war</b></i> schön, dass er/sie/es ausmachte;Era bello che lui/lei spegnesse;congiuntivo_imperfetto lui_lei spegnere
+01914;Es <i><b>war</b></i> schön, dass wir ausmachten;Era bello che noi spegn<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi spegnere
+01915;Es <i><b>war</b></i> schön, dass ihr ausmachtet;Era bello che voi spegneste;congiuntivo_imperfetto spegnere voi
+01916;Es <i><b>war</b></i> schön, dass sie ausmachten;Era bello che loro spegn<i><b>e</b></i>ssero;congiuntivo_imperfetto loro spegnere
 
 01917;Mach aus!;Spegni!;imperativo spegnere tu
 01918;Er/sie/es soll ausmachen!;Spenga!;imperativo lui_lei spegnere
@@ -2719,12 +2719,12 @@
 01960;Es scheint lustig, dass ihr legt;Sembra divertente che voi mettiate;congiuntivo_presente mettere voi
 01961;Es scheint lustig, dass sie legen;Sembra divertente che loro m<i><b>e</b></i>ttano;congiuntivo_presente loro mettere
 
-01962;Es <i><b>war</b></i> schön, dass ich legte;Era bello che io mettessi;congiuntivo_passato io mettere
-01963;Es <i><b>war</b></i> schön, dass du legtest;Era bello che tu mettessi;congiuntivo_passato mettere tu
-01964;Es <i><b>war</b></i> schön, dass er/sie/es legte;Era bello che lui/lei mettesse;congiuntivo_passato lui_lei mettere
-01965;Es <i><b>war</b></i> schön, dass wir legten;Era bello che noi mett<i><b>e</b></i>ssimo;congiuntivo_passato mettere noi
-01966;Es <i><b>war</b></i> schön, dass ihr legtet;Era bello che voi metteste;congiuntivo_passato mettere voi
-01967;Es <i><b>war</b></i> schön, dass sie legten;Era bello che loro mett<i><b>e</b></i>ssero;congiuntivo_passato loro mettere
+01962;Es <i><b>war</b></i> schön, dass ich legte;Era bello che io mettessi;congiuntivo_imperfetto io mettere
+01963;Es <i><b>war</b></i> schön, dass du legtest;Era bello che tu mettessi;congiuntivo_imperfetto mettere tu
+01964;Es <i><b>war</b></i> schön, dass er/sie/es legte;Era bello che lui/lei mettesse;congiuntivo_imperfetto lui_lei mettere
+01965;Es <i><b>war</b></i> schön, dass wir legten;Era bello che noi mett<i><b>e</b></i>ssimo;congiuntivo_imperfetto mettere noi
+01966;Es <i><b>war</b></i> schön, dass ihr legtet;Era bello che voi metteste;congiuntivo_imperfetto mettere voi
+01967;Es <i><b>war</b></i> schön, dass sie legten;Era bello che loro mett<i><b>e</b></i>ssero;congiuntivo_imperfetto loro mettere
 
 01968;Leg!;Metti!;imperativo mettere tu
 01969;Er/sie/es soll legen!;Metta!;imperativo lui_lei mettere
@@ -2784,12 +2784,12 @@
 02011;Es scheint lustig, dass ihr esst;Sembra divertente che voi mangiate;congiuntivo_presente mangiare voi
 02012;Es scheint lustig, dass sie essen;Sembra divertente che loro m<i><b>a</b></i>ngino;congiuntivo_presente loro mangiare
 
-02013;Es <i><b>war</b></i> schön, dass ich aß;Era bello che io mangiassi;congiuntivo_passato io mangiare
-02014;Es <i><b>war</b></i> schön, dass du aßt;Era bello che tu mangiassi;congiuntivo_passato mangiare tu
-02015;Es <i><b>war</b></i> schön, dass er/sie/es aß;Era bello che lui/lei mangiasse;congiuntivo_passato lui_lei mangiare
-02016;Es <i><b>war</b></i> schön, dass wir aßen;Era bello che noi mangi<i><b>a</b></i>ssimo;congiuntivo_passato mangiare noi
-02017;Es <i><b>war</b></i> schön, dass ihr aßt;Era bello che voi mangiaste;congiuntivo_passato mangiare voi
-02018;Es <i><b>war</b></i> schön, dass sie aßen;Era bello che loro mangi<i><b>a</b></i>ssero;congiuntivo_passato loro mangiare
+02013;Es <i><b>war</b></i> schön, dass ich aß;Era bello che io mangiassi;congiuntivo_imperfetto io mangiare
+02014;Es <i><b>war</b></i> schön, dass du aßt;Era bello che tu mangiassi;congiuntivo_imperfetto mangiare tu
+02015;Es <i><b>war</b></i> schön, dass er/sie/es aß;Era bello che lui/lei mangiasse;congiuntivo_imperfetto lui_lei mangiare
+02016;Es <i><b>war</b></i> schön, dass wir aßen;Era bello che noi mangi<i><b>a</b></i>ssimo;congiuntivo_imperfetto mangiare noi
+02017;Es <i><b>war</b></i> schön, dass ihr aßt;Era bello che voi mangiaste;congiuntivo_imperfetto mangiare voi
+02018;Es <i><b>war</b></i> schön, dass sie aßen;Era bello che loro mangi<i><b>a</b></i>ssero;congiuntivo_imperfetto loro mangiare
 
 02019;Iss!;Mangia!;imperativo mangiare tu
 02020;Er/sie/es soll essen!;Mangi!;imperativo lui_lei mangiare
@@ -2851,12 +2851,12 @@
 02062;Es scheint lustig, dass ihr versteht;Sembra divertente che voi capiate;capire congiuntivo_presente voi
 02063;Es scheint lustig, dass sie verstehen;Sembra divertente che loro cap<i><b>i</b></i>scano;capire congiuntivo_presente loro
 
-02064;Es <i><b>war</b></i> schön, dass ich verstand;Era bello che io capissi;capire congiuntivo_passato io
-02065;Es <i><b>war</b></i> schön, dass du verstandest;Era bello che tu capissi;capire congiuntivo_passato tu
-02066;Es <i><b>war</b></i> schön, dass er/sie/es verstand;Era bello che lui/lei capisse;capire congiuntivo_passato lui_lei
-02067;Es <i><b>war</b></i> schön, dass wir verstanden;Era bello che noi cap<i><b>i</b></i>ssimo;capire congiuntivo_passato noi
-02068;Es <i><b>war</b></i> schön, dass ihr verstandet;Era bello che voi capiste;capire congiuntivo_passato voi
-02069;Es <i><b>war</b></i> schön, dass sie verstanden;Era bello che loro cap<i><b>i</b></i>ssero;capire congiuntivo_passato loro
+02064;Es <i><b>war</b></i> schön, dass ich verstand;Era bello che io capissi;capire congiuntivo_imperfetto io
+02065;Es <i><b>war</b></i> schön, dass du verstandest;Era bello che tu capissi;capire congiuntivo_imperfetto tu
+02066;Es <i><b>war</b></i> schön, dass er/sie/es verstand;Era bello che lui/lei capisse;capire congiuntivo_imperfetto lui_lei
+02067;Es <i><b>war</b></i> schön, dass wir verstanden;Era bello che noi cap<i><b>i</b></i>ssimo;capire congiuntivo_imperfetto noi
+02068;Es <i><b>war</b></i> schön, dass ihr verstandet;Era bello che voi capiste;capire congiuntivo_imperfetto voi
+02069;Es <i><b>war</b></i> schön, dass sie verstanden;Era bello che loro cap<i><b>i</b></i>ssero;capire congiuntivo_imperfetto loro
 
 02070;Versteh!;Capisci!;capire imperativo tu
 02071;Er/sie/es soll verstehen!;Capisca!;capire imperativo lui_lei
@@ -2923,12 +2923,12 @@
 02113;Es scheint lustig, dass ihr öffnet;Sembra divertente che voi apriate;aprire congiuntivo_presente voi
 02114;Es scheint lustig, dass sie öffnen;Sembra divertente che loro <i><b>a</b></i>prano;aprire congiuntivo_presente loro
 
-02115;Es <i><b>war</b></i> schön, dass ich öffnete;Era bello che io aprissi;aprire congiuntivo_passato io
-02116;Es <i><b>war</b></i> schön, dass du öffnetest;Era bello che tu aprissi;aprire congiuntivo_passato tu
-02117;Es <i><b>war</b></i> schön, dass er/sie/es öffnete;Era bello che lui/lei aprisse;aprire congiuntivo_passato lui_lei
-02118;Es <i><b>war</b></i> schön, dass wir öffneten;Era bello che noi apr<i><b>i</b></i>ssimo;aprire congiuntivo_passato noi
-02119;Es <i><b>war</b></i> schön, dass ihr öffnetet;Era bello che voi apriste;aprire congiuntivo_passato voi
-02120;Es <i><b>war</b></i> schön, dass sie öffneten;Era bello che loro apr<i><b>i</b></i>ssero;aprire congiuntivo_passato loro
+02115;Es <i><b>war</b></i> schön, dass ich öffnete;Era bello che io aprissi;aprire congiuntivo_imperfetto io
+02116;Es <i><b>war</b></i> schön, dass du öffnetest;Era bello che tu aprissi;aprire congiuntivo_imperfetto tu
+02117;Es <i><b>war</b></i> schön, dass er/sie/es öffnete;Era bello che lui/lei aprisse;aprire congiuntivo_imperfetto lui_lei
+02118;Es <i><b>war</b></i> schön, dass wir öffneten;Era bello che noi apr<i><b>i</b></i>ssimo;aprire congiuntivo_imperfetto noi
+02119;Es <i><b>war</b></i> schön, dass ihr öffnetet;Era bello che voi apriste;aprire congiuntivo_imperfetto voi
+02120;Es <i><b>war</b></i> schön, dass sie öffneten;Era bello che loro apr<i><b>i</b></i>ssero;aprire congiuntivo_imperfetto loro
 
 02121;Öffne!;Apri!;aprire imperativo tu
 02122;Er/sie/es soll öffnen!;Apra!;aprire imperativo lui_lei
@@ -2988,12 +2988,12 @@
 02164;Es scheint lustig, dass ihr fragt;Sembra divertente che voi chiediate;chiedere congiuntivo_presente voi
 02165;Es scheint lustig, dass sie fragen;Sembra divertente che loro chi<i><b>e</b></i>dano;chiedere congiuntivo_presente loro
 
-02166;Es <i><b>war</b></i> schön, dass ich fragte;Era bello che io chiedessi;chiedere congiuntivo_passato io
-02167;Es <i><b>war</b></i> schön, dass du fragtest;Era bello che tu chiedessi;chiedere congiuntivo_passato tu
-02168;Es <i><b>war</b></i> schön, dass er/sie/es fragte;Era bello che lui/lei chiedesse;chiedere congiuntivo_passato lui_lei
-02169;Es <i><b>war</b></i> schön, dass wir fragten;Era bello che noi chied<i><b>e</b></i>ssimo;chiedere congiuntivo_passato noi
-02170;Es <i><b>war</b></i> schön, dass ihr fragtet;Era bello che voi chiedeste;chiedere congiuntivo_passato voi
-02171;Es <i><b>war</b></i> schön, dass sie fragten;Era bello che loro chied<i><b>e</b></i>ssero;chiedere congiuntivo_passato loro
+02166;Es <i><b>war</b></i> schön, dass ich fragte;Era bello che io chiedessi;chiedere congiuntivo_imperfetto io
+02167;Es <i><b>war</b></i> schön, dass du fragtest;Era bello che tu chiedessi;chiedere congiuntivo_imperfetto tu
+02168;Es <i><b>war</b></i> schön, dass er/sie/es fragte;Era bello che lui/lei chiedesse;chiedere congiuntivo_imperfetto lui_lei
+02169;Es <i><b>war</b></i> schön, dass wir fragten;Era bello che noi chied<i><b>e</b></i>ssimo;chiedere congiuntivo_imperfetto noi
+02170;Es <i><b>war</b></i> schön, dass ihr fragtet;Era bello che voi chiedeste;chiedere congiuntivo_imperfetto voi
+02171;Es <i><b>war</b></i> schön, dass sie fragten;Era bello che loro chied<i><b>e</b></i>ssero;chiedere congiuntivo_imperfetto loro
 
 02172;Frag!;Chiedi!;chiedere imperativo tu
 02173;Er/sie/es soll fragen!;Chieda!;chiedere imperativo lui_lei
@@ -3053,12 +3053,12 @@
 02215;Es scheint lustig, dass ihr kennt;Sembra divertente che voi conosciate;congiuntivo_presente conoscere voi
 02216;Es scheint lustig, dass sie kennen;Sembra divertente che loro con<i><b>o</b></i>scano;congiuntivo_presente conoscere loro
 
-02217;Es <i><b>war</b></i> schön, dass ich kannte;Era bello che io conoscessi;congiuntivo_passato conoscere io
-02218;Es <i><b>war</b></i> schön, dass du kanntest;Era bello che tu conoscessi;congiuntivo_passato conoscere tu
-02219;Es <i><b>war</b></i> schön, dass er/sie/es kannte;Era bello che lui/lei conoscesse;congiuntivo_passato conoscere lui_lei
-02220;Es <i><b>war</b></i> schön, dass wir kannten;Era bello che noi conosc<i><b>e</b></i>ssimo;congiuntivo_passato conoscere noi
-02221;Es <i><b>war</b></i> schön, dass ihr kanntet;Era bello che voi conosceste;congiuntivo_passato conoscere voi
-02222;Es <i><b>war</b></i> schön, dass sie kannten;Era bello che loro conosc<i><b>e</b></i>ssero;congiuntivo_passato conoscere loro
+02217;Es <i><b>war</b></i> schön, dass ich kannte;Era bello che io conoscessi;congiuntivo_imperfetto conoscere io
+02218;Es <i><b>war</b></i> schön, dass du kanntest;Era bello che tu conoscessi;congiuntivo_imperfetto conoscere tu
+02219;Es <i><b>war</b></i> schön, dass er/sie/es kannte;Era bello che lui/lei conoscesse;congiuntivo_imperfetto conoscere lui_lei
+02220;Es <i><b>war</b></i> schön, dass wir kannten;Era bello che noi conosc<i><b>e</b></i>ssimo;congiuntivo_imperfetto conoscere noi
+02221;Es <i><b>war</b></i> schön, dass ihr kanntet;Era bello che voi conosceste;congiuntivo_imperfetto conoscere voi
+02222;Es <i><b>war</b></i> schön, dass sie kannten;Era bello che loro conosc<i><b>e</b></i>ssero;congiuntivo_imperfetto conoscere loro
 
 02223;Kenn!;Conosci!;conoscere imperativo tu
 02224;Er/sie/es soll kennen!;Conosca!;conoscere imperativo lui_lei
@@ -3118,12 +3118,12 @@
 02266;Es scheint lustig, dass ihr verliert;Sembra divertente che voi perdiate;congiuntivo_presente perdere voi
 02267;Es scheint lustig, dass sie verlieren;Sembra divertente che loro p<i><b>e</b></i>rdano;congiuntivo_presente loro perdere
 
-02268;Es <i><b>war</b></i> schön, dass ich verlor;Era bello che io perdessi;congiuntivo_passato io perdere
-02269;Es <i><b>war</b></i> schön, dass du verlorst;Era bello che tu perdessi;congiuntivo_passato perdere tu
-02270;Es <i><b>war</b></i> schön, dass er/sie/es verlor;Era bello che lui/lei perdesse;congiuntivo_passato lui_lei perdere
-02271;Es <i><b>war</b></i> schön, dass wir verloren;Era bello che noi perd<i><b>e</b></i>ssimo;congiuntivo_passato noi perdere
-02272;Es <i><b>war</b></i> schön, dass ihr verlort;Era bello che voi perdeste;congiuntivo_passato perdere voi
-02273;Es <i><b>war</b></i> schön, dass sie verloren;Era bello che loro perd<i><b>e</b></i>ssero;congiuntivo_passato loro perdere
+02268;Es <i><b>war</b></i> schön, dass ich verlor;Era bello che io perdessi;congiuntivo_imperfetto io perdere
+02269;Es <i><b>war</b></i> schön, dass du verlorst;Era bello che tu perdessi;congiuntivo_imperfetto perdere tu
+02270;Es <i><b>war</b></i> schön, dass er/sie/es verlor;Era bello che lui/lei perdesse;congiuntivo_imperfetto lui_lei perdere
+02271;Es <i><b>war</b></i> schön, dass wir verloren;Era bello che noi perd<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi perdere
+02272;Es <i><b>war</b></i> schön, dass ihr verlort;Era bello che voi perdeste;congiuntivo_imperfetto perdere voi
+02273;Es <i><b>war</b></i> schön, dass sie verloren;Era bello che loro perd<i><b>e</b></i>ssero;congiuntivo_imperfetto loro perdere
 
 02274;Verlier!;Perdi!;imperativo perdere tu
 02275;Er/sie/es soll verlieren!;Perda!;imperativo lui_lei perdere
@@ -3183,12 +3183,12 @@
 02317;Es scheint lustig, dass ihr antwortet;Sembra divertente che voi rispondiate;congiuntivo_presente rispondere voi
 02318;Es scheint lustig, dass sie antworten;Sembra divertente che loro risp<i><b>o</b></i>ndano;congiuntivo_presente loro rispondere
 
-02319;Es <i><b>war</b></i> schön, dass ich antwortete;Era bello che io rispondessi;congiuntivo_passato io rispondere
-02320;Es <i><b>war</b></i> schön, dass du antwortetest;Era bello che tu rispondessi;congiuntivo_passato rispondere tu
-02321;Es <i><b>war</b></i> schön, dass er/sie/es antwortete;Era bello che lui/lei rispondesse;congiuntivo_passato lui_lei rispondere
-02322;Es <i><b>war</b></i> schön, dass wir antworteten;Era bello che noi rispond<i><b>e</b></i>ssimo;congiuntivo_passato noi rispondere
-02323;Es <i><b>war</b></i> schön, dass ihr antwortetet;Era bello che voi rispondeste;congiuntivo_passato rispondere voi
-02324;Es <i><b>war</b></i> schön, dass sie antworteten;Era bello che loro rispond<i><b>e</b></i>ssero;congiuntivo_passato loro rispondere
+02319;Es <i><b>war</b></i> schön, dass ich antwortete;Era bello che io rispondessi;congiuntivo_imperfetto io rispondere
+02320;Es <i><b>war</b></i> schön, dass du antwortetest;Era bello che tu rispondessi;congiuntivo_imperfetto rispondere tu
+02321;Es <i><b>war</b></i> schön, dass er/sie/es antwortete;Era bello che lui/lei rispondesse;congiuntivo_imperfetto lui_lei rispondere
+02322;Es <i><b>war</b></i> schön, dass wir antworteten;Era bello che noi rispond<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rispondere
+02323;Es <i><b>war</b></i> schön, dass ihr antwortetet;Era bello che voi rispondeste;congiuntivo_imperfetto rispondere voi
+02324;Es <i><b>war</b></i> schön, dass sie antworteten;Era bello che loro rispond<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rispondere
 
 02325;Antworte!;Rispondi!;imperativo rispondere tu
 02326;Er/sie/es soll antworten!;Risponda!;imperativo lui_lei rispondere
@@ -3248,12 +3248,12 @@
 02368;Es scheint lustig, dass ihr schreibt;Sembra divertente che voi scriviate;congiuntivo_presente scrivere voi
 02369;Es scheint lustig, dass sie schreiben;Sembra divertente che loro scr<i><b>i</b></i>vano;congiuntivo_presente loro scrivere
 
-02370;Es <i><b>war</b></i> schön, dass ich schrieb;Era bello che io scrivessi;congiuntivo_passato io scrivere
-02371;Es <i><b>war</b></i> schön, dass du schriebst;Era bello che tu scrivessi;congiuntivo_passato scrivere tu
-02372;Es <i><b>war</b></i> schön, dass er/sie/es schrieb;Era bello che lui/lei scrivesse;congiuntivo_passato lui_lei scrivere
-02373;Es <i><b>war</b></i> schön, dass wir schrieben;Era bello che noi scriv<i><b>e</b></i>ssimo;congiuntivo_passato noi scrivere
-02374;Es <i><b>war</b></i> schön, dass ihr schriebt;Era bello che voi scriveste;congiuntivo_passato scrivere voi
-02375;Es <i><b>war</b></i> schön, dass sie schrieben;Era bello che loro scriv<i><b>e</b></i>ssero;congiuntivo_passato loro scrivere
+02370;Es <i><b>war</b></i> schön, dass ich schrieb;Era bello che io scrivessi;congiuntivo_imperfetto io scrivere
+02371;Es <i><b>war</b></i> schön, dass du schriebst;Era bello che tu scrivessi;congiuntivo_imperfetto scrivere tu
+02372;Es <i><b>war</b></i> schön, dass er/sie/es schrieb;Era bello che lui/lei scrivesse;congiuntivo_imperfetto lui_lei scrivere
+02373;Es <i><b>war</b></i> schön, dass wir schrieben;Era bello che noi scriv<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi scrivere
+02374;Es <i><b>war</b></i> schön, dass ihr schriebt;Era bello che voi scriveste;congiuntivo_imperfetto scrivere voi
+02375;Es <i><b>war</b></i> schön, dass sie schrieben;Era bello che loro scriv<i><b>e</b></i>ssero;congiuntivo_imperfetto loro scrivere
 
 02376;Schreib!;Scrivi!;imperativo scrivere tu
 02377;Er/sie/es soll schreiben!;Scriva!;imperativo lui_lei scrivere
@@ -3313,12 +3313,12 @@
 02419;Es scheint lustig, dass ihr ausgebt;Sembra divertente che voi spendiate;congiuntivo_presente spendere voi
 02420;Es scheint lustig, dass sie ausgeben;Sembra divertente che loro sp<i><b>e</b></i>ndano;congiuntivo_presente loro spendere
 
-02421;Es <i><b>war</b></i> schön, dass ich ausgab;Era bello che io spendessi;congiuntivo_passato io spendere
-02422;Es <i><b>war</b></i> schön, dass du ausgabst;Era bello che tu spendessi;congiuntivo_passato spendere tu
-02423;Es <i><b>war</b></i> schön, dass er/sie/es ausgab;Era bello che lui/lei spendesse;congiuntivo_passato lui_lei spendere
-02424;Es <i><b>war</b></i> schön, dass wir ausgaben;Era bello che noi spend<i><b>e</b></i>ssimo;congiuntivo_passato noi spendere
-02425;Es <i><b>war</b></i> schön, dass ihr ausgabt;Era bello che voi spendeste;congiuntivo_passato spendere voi
-02426;Es <i><b>war</b></i> schön, dass sie ausgaben;Era bello che loro spend<i><b>e</b></i>ssero;congiuntivo_passato loro spendere
+02421;Es <i><b>war</b></i> schön, dass ich ausgab;Era bello che io spendessi;congiuntivo_imperfetto io spendere
+02422;Es <i><b>war</b></i> schön, dass du ausgabst;Era bello che tu spendessi;congiuntivo_imperfetto spendere tu
+02423;Es <i><b>war</b></i> schön, dass er/sie/es ausgab;Era bello che lui/lei spendesse;congiuntivo_imperfetto lui_lei spendere
+02424;Es <i><b>war</b></i> schön, dass wir ausgaben;Era bello che noi spend<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi spendere
+02425;Es <i><b>war</b></i> schön, dass ihr ausgabt;Era bello che voi spendeste;congiuntivo_imperfetto spendere voi
+02426;Es <i><b>war</b></i> schön, dass sie ausgaben;Era bello che loro spend<i><b>e</b></i>ssero;congiuntivo_imperfetto loro spendere
 
 02427;Gib aus!;Spendi!;imperativo spendere tu
 02428;Er/sie/es soll ausgeben!;Spenda!;imperativo lui_lei spendere
@@ -3378,12 +3378,12 @@
 02470;Es scheint lustig, dass ihr lebt;Sembra divertente che voi viviate;congiuntivo_presente vivere voi
 02471;Es scheint lustig, dass sie leben;Sembra divertente che loro v<i><b>i</b></i>vano;congiuntivo_presente loro vivere
 
-02472;Es <i><b>war</b></i> schön, dass ich lebte;Era bello che io vivessi;congiuntivo_passato io vivere
-02473;Es <i><b>war</b></i> schön, dass du lebtest;Era bello che tu vivessi;congiuntivo_passato tu vivere
-02474;Es <i><b>war</b></i> schön, dass er/sie/es lebte;Era bello che lui/lei vivesse;congiuntivo_passato lui_lei vivere
-02475;Es <i><b>war</b></i> schön, dass wir lebten;Era bello che noi viv<i><b>e</b></i>ssimo;congiuntivo_passato noi vivere
-02476;Es <i><b>war</b></i> schön, dass ihr lebtet;Era bello che voi viveste;congiuntivo_passato vivere voi
-02477;Es <i><b>war</b></i> schön, dass sie lebten;Era bello che loro viv<i><b>e</b></i>ssero;congiuntivo_passato loro vivere
+02472;Es <i><b>war</b></i> schön, dass ich lebte;Era bello che io vivessi;congiuntivo_imperfetto io vivere
+02473;Es <i><b>war</b></i> schön, dass du lebtest;Era bello che tu vivessi;congiuntivo_imperfetto tu vivere
+02474;Es <i><b>war</b></i> schön, dass er/sie/es lebte;Era bello che lui/lei vivesse;congiuntivo_imperfetto lui_lei vivere
+02475;Es <i><b>war</b></i> schön, dass wir lebten;Era bello che noi viv<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vivere
+02476;Es <i><b>war</b></i> schön, dass ihr lebtet;Era bello che voi viveste;congiuntivo_imperfetto vivere voi
+02477;Es <i><b>war</b></i> schön, dass sie lebten;Era bello che loro viv<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vivere
 
 02478;Lebe!;Vivi!;imperativo tu vivere
 02479;Er/sie/es soll leben!;Viva!;imperativo lui_lei vivere
@@ -3443,12 +3443,12 @@
 02521;Es scheint lustig, dass ihr brecht;Sembra divertente che voi rompiate;congiuntivo_presente rompere voi
 02522;Es scheint lustig, dass sie brechen;Sembra divertente che loro r<i><b>o</b></i>mpano;congiuntivo_presente loro rompere
 
-02523;Es <i><b>war</b></i> schön, dass ich brach;Era bello che io rompessi;congiuntivo_passato io rompere
-02524;Es <i><b>war</b></i> schön, dass du brachst;Era bello che tu rompessi;congiuntivo_passato rompere tu
-02525;Es <i><b>war</b></i> schön, dass er/sie/es brach;Era bello che lui/lei rompesse;congiuntivo_passato lui_lei rompere
-02526;Es <i><b>war</b></i> schön, dass wir brachen;Era bello che noi romp<i><b>e</b></i>ssimo;congiuntivo_passato noi rompere
-02527;Es <i><b>war</b></i> schön, dass ihr bracht;Era bello che voi rompeste;congiuntivo_passato rompere voi
-02528;Es <i><b>war</b></i> schön, dass sie brachen;Era bello che loro romp<i><b>e</b></i>ssero;congiuntivo_passato loro rompere
+02523;Es <i><b>war</b></i> schön, dass ich brach;Era bello che io rompessi;congiuntivo_imperfetto io rompere
+02524;Es <i><b>war</b></i> schön, dass du brachst;Era bello che tu rompessi;congiuntivo_imperfetto rompere tu
+02525;Es <i><b>war</b></i> schön, dass er/sie/es brach;Era bello che lui/lei rompesse;congiuntivo_imperfetto lui_lei rompere
+02526;Es <i><b>war</b></i> schön, dass wir brachen;Era bello che noi romp<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rompere
+02527;Es <i><b>war</b></i> schön, dass ihr bracht;Era bello che voi rompeste;congiuntivo_imperfetto rompere voi
+02528;Es <i><b>war</b></i> schön, dass sie brachen;Era bello che loro romp<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rompere
 
 02529;Brich!;Rompi!;imperativo rompere tu
 02530;Er/sie/es soll brechen!;Rompa!;imperativo lui_lei rompere
@@ -3508,12 +3508,12 @@
 02572;Es scheint lustig, dass ihr lauft;Sembra divertente che voi corriate;congiuntivo_presente correre voi
 02573;Es scheint lustig, dass sie laufen;Sembra divertente che loro c<i><b>o</b></i>rrano;congiuntivo_presente correre loro
 
-02574;Es <i><b>war</b></i> schön, dass ich lief;Era bello che io corressi;congiuntivo_passato correre io
-02575;Es <i><b>war</b></i> schön, dass du liefst;Era bello che tu corressi;congiuntivo_passato correre tu
-02576;Es <i><b>war</b></i> schön, dass er/sie/es lief;Era bello che lui/lei corresse;congiuntivo_passato correre lui_lei
-02577;Es <i><b>war</b></i> schön, dass wir liefen;Era bello che noi corr<i><b>e</b></i>ssimo;congiuntivo_passato correre noi
-02578;Es <i><b>war</b></i> schön, dass ihr lieft;Era bello che voi correste;congiuntivo_passato correre voi
-02579;Es <i><b>war</b></i> schön, dass sie liefen;Era bello che loro corr<i><b>e</b></i>ssero;congiuntivo_passato correre loro
+02574;Es <i><b>war</b></i> schön, dass ich lief;Era bello che io corressi;congiuntivo_imperfetto correre io
+02575;Es <i><b>war</b></i> schön, dass du liefst;Era bello che tu corressi;congiuntivo_imperfetto correre tu
+02576;Es <i><b>war</b></i> schön, dass er/sie/es lief;Era bello che lui/lei corresse;congiuntivo_imperfetto correre lui_lei
+02577;Es <i><b>war</b></i> schön, dass wir liefen;Era bello che noi corr<i><b>e</b></i>ssimo;congiuntivo_imperfetto correre noi
+02578;Es <i><b>war</b></i> schön, dass ihr lieft;Era bello che voi correste;congiuntivo_imperfetto correre voi
+02579;Es <i><b>war</b></i> schön, dass sie liefen;Era bello che loro corr<i><b>e</b></i>ssero;congiuntivo_imperfetto correre loro
 
 02580;Lauf!;Corri!;correre imperativo tu
 02581;Er/sie/es soll laufen!;Corra!;correre imperativo lui_lei
@@ -3573,12 +3573,12 @@
 02623;Es scheint lustig, dass ihr lernt;Sembra divertente che voi impariate;congiuntivo_presente imparare voi
 02624;Es scheint lustig, dass sie lernen;Sembra divertente che loro imp<i><b>a</b></i>rino;congiuntivo_presente imparare loro
 
-02625;Es <i><b>war</b></i> schön, dass ich lernte;Era bello che io imparassi;congiuntivo_passato imparare io
-02626;Es <i><b>war</b></i> schön, dass du lerntest;Era bello che tu imparassi;congiuntivo_passato imparare tu
-02627;Es <i><b>war</b></i> schön, dass er/sie/es lernte;Era bello che lui/lei imparasse;congiuntivo_passato imparare lui_lei
-02628;Es <i><b>war</b></i> schön, dass wir lernten;Era bello che noi impar<i><b>a</b></i>ssimo;congiuntivo_passato imparare noi
-02629;Es <i><b>war</b></i> schön, dass ihr lerntet;Era bello che voi imparaste;congiuntivo_passato imparare voi
-02630;Es <i><b>war</b></i> schön, dass sie lernten;Era bello che loro impar<i><b>a</b></i>ssero;congiuntivo_passato imparare loro
+02625;Es <i><b>war</b></i> schön, dass ich lernte;Era bello che io imparassi;congiuntivo_imperfetto imparare io
+02626;Es <i><b>war</b></i> schön, dass du lerntest;Era bello che tu imparassi;congiuntivo_imperfetto imparare tu
+02627;Es <i><b>war</b></i> schön, dass er/sie/es lernte;Era bello che lui/lei imparasse;congiuntivo_imperfetto imparare lui_lei
+02628;Es <i><b>war</b></i> schön, dass wir lernten;Era bello che noi impar<i><b>a</b></i>ssimo;congiuntivo_imperfetto imparare noi
+02629;Es <i><b>war</b></i> schön, dass ihr lerntet;Era bello che voi imparaste;congiuntivo_imperfetto imparare voi
+02630;Es <i><b>war</b></i> schön, dass sie lernten;Era bello che loro impar<i><b>a</b></i>ssero;congiuntivo_imperfetto imparare loro
 
 02631;Lern!;Impara!;imparare imperativo tu
 02632;Er/sie/es soll lernen!;Impari!;imparare imperativo lui_lei
@@ -3641,12 +3641,12 @@
 02674;Es scheint lustig, dass ihr entfernt;Sembra divertente che voi togliate;congiuntivo_presente togliere voi
 02675;Es scheint lustig, dass sie entfernen;Sembra divertente che loro t<i><b>o</b></i>lgano;congiuntivo_presente loro togliere
 
-02676;Es <i><b>war</b></i> schön, dass ich entfernte;Era bello che io togliessi;congiuntivo_passato io togliere
-02677;Es <i><b>war</b></i> schön, dass du entferntest;Era bello che tu togliessi;congiuntivo_passato togliere tu
-02678;Es <i><b>war</b></i> schön, dass er/sie/es entfernte;Era bello che lui/lei togliesse;congiuntivo_passato lui_lei togliere
-02679;Es <i><b>war</b></i> schön, dass wir entfernten;Era bello che noi togli<i><b>e</b></i>ssimo;congiuntivo_passato noi togliere
-02680;Es <i><b>war</b></i> schön, dass ihr entferntet;Era bello che voi toglieste;congiuntivo_passato togliere voi
-02681;Es <i><b>war</b></i> schön, dass sie entfernten;Era bello che loro togli<i><b>e</b></i>ssero;congiuntivo_passato loro togliere
+02676;Es <i><b>war</b></i> schön, dass ich entfernte;Era bello che io togliessi;congiuntivo_imperfetto io togliere
+02677;Es <i><b>war</b></i> schön, dass du entferntest;Era bello che tu togliessi;congiuntivo_imperfetto togliere tu
+02678;Es <i><b>war</b></i> schön, dass er/sie/es entfernte;Era bello che lui/lei togliesse;congiuntivo_imperfetto lui_lei togliere
+02679;Es <i><b>war</b></i> schön, dass wir entfernten;Era bello che noi togli<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi togliere
+02680;Es <i><b>war</b></i> schön, dass ihr entferntet;Era bello che voi toglieste;congiuntivo_imperfetto togliere voi
+02681;Es <i><b>war</b></i> schön, dass sie entfernten;Era bello che loro togli<i><b>e</b></i>ssero;congiuntivo_imperfetto loro togliere
 
 02682;Entferne!;Togli!;imperativo togliere tu
 02683;Er/sie/es soll entfernen!;Tolga!;imperativo lui_lei togliere
@@ -3706,12 +3706,12 @@
 02725;Es scheint lustig, dass ihr übernehmt;Sembra divertente che voi assumiate;assumere congiuntivo_presente voi
 02726;Es scheint lustig, dass sie übernehmen;Sembra divertente che loro ass<i><b>u</b></i>mano;assumere congiuntivo_presente loro
 
-02727;Es <i><b>war</b></i> schön, dass ich übernahm;Era bello che io assumessi;assumere congiuntivo_passato io
-02728;Es <i><b>war</b></i> schön, dass du übernahmst;Era bello che tu assumessi;assumere congiuntivo_passato tu
-02729;Es <i><b>war</b></i> schön, dass er/sie/es übernahm;Era bello che lui/lei assumesse;assumere congiuntivo_passato lui_lei
-02730;Es <i><b>war</b></i> schön, dass wir übernahmen;Era bello che noi assum<i><b>e</b></i>ssimo;assumere congiuntivo_passato noi
-02731;Es <i><b>war</b></i> schön, dass ihr übernahmt;Era bello che voi assumeste;assumere congiuntivo_passato voi
-02732;Es <i><b>war</b></i> schön, dass sie übernahmen;Era bello che loro assum<i><b>e</b></i>ssero;assumere congiuntivo_passato loro
+02727;Es <i><b>war</b></i> schön, dass ich übernahm;Era bello che io assumessi;assumere congiuntivo_imperfetto io
+02728;Es <i><b>war</b></i> schön, dass du übernahmst;Era bello che tu assumessi;assumere congiuntivo_imperfetto tu
+02729;Es <i><b>war</b></i> schön, dass er/sie/es übernahm;Era bello che lui/lei assumesse;assumere congiuntivo_imperfetto lui_lei
+02730;Es <i><b>war</b></i> schön, dass wir übernahmen;Era bello che noi assum<i><b>e</b></i>ssimo;assumere congiuntivo_imperfetto noi
+02731;Es <i><b>war</b></i> schön, dass ihr übernahmt;Era bello che voi assumeste;assumere congiuntivo_imperfetto voi
+02732;Es <i><b>war</b></i> schön, dass sie übernahmen;Era bello che loro assum<i><b>e</b></i>ssero;assumere congiuntivo_imperfetto loro
 
 02733;Übernimm!;Assumi!;assumere imperativo tu
 02734;Er/sie/es soll übernehmen!;Assuma!;assumere imperativo lui_lei
@@ -3771,12 +3771,12 @@
 02776;Es scheint lustig, dass ihr fallt;Sembra divertente che voi cadiate;cadere congiuntivo_presente voi
 02777;Es scheint lustig, dass sie fallen;Sembra divertente che loro c<i><b>a</b></i>dano;cadere congiuntivo_presente loro
 
-02778;Es <i><b>war</b></i> schön, dass ich fiel;Era bello che io cadessi;cadere congiuntivo_passato io
-02779;Es <i><b>war</b></i> schön, dass du fielst;Era bello che tu cadessi;cadere congiuntivo_passato tu
-02780;Es <i><b>war</b></i> schön, dass er/sie/es fiel;Era bello che lui/lei cadesse;cadere congiuntivo_passato lui_lei
-02781;Es <i><b>war</b></i> schön, dass wir fielen;Era bello che noi cad<i><b>e</b></i>ssimo;cadere congiuntivo_passato noi
-02782;Es <i><b>war</b></i> schön, dass ihr fielt;Era bello che voi cadeste;cadere congiuntivo_passato voi
-02783;Es <i><b>war</b></i> schön, dass sie fielen;Era bello che loro cad<i><b>e</b></i>ssero;cadere congiuntivo_passato loro
+02778;Es <i><b>war</b></i> schön, dass ich fiel;Era bello che io cadessi;cadere congiuntivo_imperfetto io
+02779;Es <i><b>war</b></i> schön, dass du fielst;Era bello che tu cadessi;cadere congiuntivo_imperfetto tu
+02780;Es <i><b>war</b></i> schön, dass er/sie/es fiel;Era bello che lui/lei cadesse;cadere congiuntivo_imperfetto lui_lei
+02781;Es <i><b>war</b></i> schön, dass wir fielen;Era bello che noi cad<i><b>e</b></i>ssimo;cadere congiuntivo_imperfetto noi
+02782;Es <i><b>war</b></i> schön, dass ihr fielt;Era bello che voi cadeste;cadere congiuntivo_imperfetto voi
+02783;Es <i><b>war</b></i> schön, dass sie fielen;Era bello che loro cad<i><b>e</b></i>ssero;cadere congiuntivo_imperfetto loro
 
 02784;Fall!;Cadi!;cadere imperativo tu
 02785;Er/sie/es soll fallen!;Cada!;cadere imperativo lui_lei
@@ -3836,12 +3836,12 @@
 02827;Es scheint lustig, dass ihr schmerzt;Sembra divertente che voi doliate / dogliate;congiuntivo_presente dolere voi
 02828;Es scheint lustig, dass sie schmerzen;Sembra divertente che loro d<i><b>o</b></i>lgano;congiuntivo_presente dolere loro
 
-02829;Es <i><b>war</b></i> schön, dass ich schmerzte;Era bello che io dolessi;congiuntivo_passato dolere io
-02830;Es <i><b>war</b></i> schön, dass du schmerztest;Era bello che tu dolessi;congiuntivo_passato dolere tu
-02831;Es <i><b>war</b></i> schön, dass er/sie/es schmerzte;Era bello che lui/lei dolesse;congiuntivo_passato dolere lui_lei
-02832;Es <i><b>war</b></i> schön, dass wir schmerzten;Era bello che noi dol<i><b>e</b></i>ssimo;congiuntivo_passato dolere noi
-02833;Es <i><b>war</b></i> schön, dass ihr schmerztet;Era bello che voi doleste;congiuntivo_passato dolere voi
-02834;Es <i><b>war</b></i> schön, dass sie schmerzten;Era bello che loro dol<i><b>e</b></i>ssero;congiuntivo_passato dolere loro
+02829;Es <i><b>war</b></i> schön, dass ich schmerzte;Era bello che io dolessi;congiuntivo_imperfetto dolere io
+02830;Es <i><b>war</b></i> schön, dass du schmerztest;Era bello che tu dolessi;congiuntivo_imperfetto dolere tu
+02831;Es <i><b>war</b></i> schön, dass er/sie/es schmerzte;Era bello che lui/lei dolesse;congiuntivo_imperfetto dolere lui_lei
+02832;Es <i><b>war</b></i> schön, dass wir schmerzten;Era bello che noi dol<i><b>e</b></i>ssimo;congiuntivo_imperfetto dolere noi
+02833;Es <i><b>war</b></i> schön, dass ihr schmerztet;Era bello che voi doleste;congiuntivo_imperfetto dolere voi
+02834;Es <i><b>war</b></i> schön, dass sie schmerzten;Era bello che loro dol<i><b>e</b></i>ssero;congiuntivo_imperfetto dolere loro
 
 02835;Schmerz!;Duoli!;dolere imperativo tu
 02836;Er/sie/es soll schmerzen!;Dolga!;dolere imperativo lui_lei
@@ -3901,12 +3901,12 @@
 02878;Es scheint lustig, dass ihr gewinnt;Sembra divertente che voi vinciate;congiuntivo_presente vincere voi
 02879;Es scheint lustig, dass sie gewinnen;Sembra divertente che loro v<i><b>i</b></i>ncano;congiuntivo_presente loro vincere
 
-02880;Es <i><b>war</b></i> schön, dass ich gewann;Era bello che io vincessi;congiuntivo_passato io vincere
-02881;Es <i><b>war</b></i> schön, dass du gewannst;Era bello che tu vincessi;congiuntivo_passato tu vincere
-02882;Es <i><b>war</b></i> schön, dass er/sie/es gewann;Era bello che lui/lei vincesse;congiuntivo_passato lui_lei vincere
-02883;Es <i><b>war</b></i> schön, dass wir gewannen;Era bello che noi vinc<i><b>e</b></i>ssimo;congiuntivo_passato noi vincere
-02884;Es <i><b>war</b></i> schön, dass ihr gewannt;Era bello che voi vinceste;congiuntivo_passato vincere voi
-02885;Es <i><b>war</b></i> schön, dass sie gewannen;Era bello che loro vinc<i><b>e</b></i>ssero;congiuntivo_passato loro vincere
+02880;Es <i><b>war</b></i> schön, dass ich gewann;Era bello che io vincessi;congiuntivo_imperfetto io vincere
+02881;Es <i><b>war</b></i> schön, dass du gewannst;Era bello che tu vincessi;congiuntivo_imperfetto tu vincere
+02882;Es <i><b>war</b></i> schön, dass er/sie/es gewann;Era bello che lui/lei vincesse;congiuntivo_imperfetto lui_lei vincere
+02883;Es <i><b>war</b></i> schön, dass wir gewannen;Era bello che noi vinc<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vincere
+02884;Es <i><b>war</b></i> schön, dass ihr gewannt;Era bello che voi vinceste;congiuntivo_imperfetto vincere voi
+02885;Es <i><b>war</b></i> schön, dass sie gewannen;Era bello che loro vinc<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vincere
 
 02886;Gewinn!;Vinci!;imperativo tu vincere
 02887;Er/sie/es soll gewinnen!;Vinca!;imperativo lui_lei vincere
@@ -3966,12 +3966,12 @@
 02929;Es scheint lustig, dass ihr lacht;Sembra divertente che voi ridiate;congiuntivo_presente ridere voi
 02930;Es scheint lustig, dass sie lachen;Sembra divertente che loro r<i><b>i</b></i>dano;congiuntivo_presente loro ridere
 
-02931;Es <i><b>war</b></i> schön, dass ich lachte;Era bello che io ridessi;congiuntivo_passato io ridere
-02932;Es <i><b>war</b></i> schön, dass du lachtest;Era bello che tu ridessi;congiuntivo_passato ridere tu
-02933;Es <i><b>war</b></i> schön, dass er/sie/es lachte;Era bello che lui/lei ridesse;congiuntivo_passato lui_lei ridere
-02934;Es <i><b>war</b></i> schön, dass wir lachten;Era bello che noi rid<i><b>e</b></i>ssimo;congiuntivo_passato noi ridere
-02935;Es <i><b>war</b></i> schön, dass ihr lachtet;Era bello che voi rideste;congiuntivo_passato ridere voi
-02936;Es <i><b>war</b></i> schön, dass sie lachten;Era bello che loro rid<i><b>e</b></i>ssero;congiuntivo_passato loro ridere
+02931;Es <i><b>war</b></i> schön, dass ich lachte;Era bello che io ridessi;congiuntivo_imperfetto io ridere
+02932;Es <i><b>war</b></i> schön, dass du lachtest;Era bello che tu ridessi;congiuntivo_imperfetto ridere tu
+02933;Es <i><b>war</b></i> schön, dass er/sie/es lachte;Era bello che lui/lei ridesse;congiuntivo_imperfetto lui_lei ridere
+02934;Es <i><b>war</b></i> schön, dass wir lachten;Era bello che noi rid<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi ridere
+02935;Es <i><b>war</b></i> schön, dass ihr lachtet;Era bello che voi rideste;congiuntivo_imperfetto ridere voi
+02936;Es <i><b>war</b></i> schön, dass sie lachten;Era bello che loro rid<i><b>e</b></i>ssero;congiuntivo_imperfetto loro ridere
 
 02937;Lach!;Ridi!;imperativo ridere tu
 02938;Er/sie/es soll lachen!;Rida!;imperativo lui_lei ridere
@@ -4031,12 +4031,12 @@
 02980;Es scheint lustig, dass ihr es schafft;Sembra divertente che voi riusciate;congiuntivo_presente riuscire voi
 02981;Es scheint lustig, dass sie es schaffen;Sembra divertente che loro ri<i><b>e</b></i>scano;congiuntivo_presente loro riuscire
 
-02982;Es <i><b>war</b></i> schön, dass ich es schaffte;Era bello che io riuscissi;congiuntivo_passato io riuscire
-02983;Es <i><b>war</b></i> schön, dass du es schafftest;Era bello che tu riuscissi;congiuntivo_passato riuscire tu
-02984;Es <i><b>war</b></i> schön, dass er/sie/es es schaffte;Era bello che lui/lei riuscisse;congiuntivo_passato lui_lei riuscire
-02985;Es <i><b>war</b></i> schön, dass wir es schafften;Era bello che noi riusc<i><b>i</b></i>ssimo;congiuntivo_passato noi riuscire
-02986;Es <i><b>war</b></i> schön, dass ihr es schafftet;Era bello che voi riusciste;congiuntivo_passato riuscire voi
-02987;Es <i><b>war</b></i> schön, dass sie es schafften;Era bello che loro riusc<i><b>i</b></i>ssero;congiuntivo_passato loro riuscire
+02982;Es <i><b>war</b></i> schön, dass ich es schaffte;Era bello che io riuscissi;congiuntivo_imperfetto io riuscire
+02983;Es <i><b>war</b></i> schön, dass du es schafftest;Era bello che tu riuscissi;congiuntivo_imperfetto riuscire tu
+02984;Es <i><b>war</b></i> schön, dass er/sie/es es schaffte;Era bello che lui/lei riuscisse;congiuntivo_imperfetto lui_lei riuscire
+02985;Es <i><b>war</b></i> schön, dass wir es schafften;Era bello che noi riusc<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi riuscire
+02986;Es <i><b>war</b></i> schön, dass ihr es schafftet;Era bello che voi riusciste;congiuntivo_imperfetto riuscire voi
+02987;Es <i><b>war</b></i> schön, dass sie es schafften;Era bello che loro riusc<i><b>i</b></i>ssero;congiuntivo_imperfetto loro riuscire
 
 02988;Schaff es!;Riesci!;imperativo riuscire tu
 02989;Er/sie/es soll es schaffen!;Riesca!;imperativo lui_lei riuscire
@@ -4096,12 +4096,12 @@
 03031;Es scheint lustig, dass ihr wachst;Sembra divertente che voi cresciate;congiuntivo_presente crescere voi
 03032;Es scheint lustig, dass sie wachsen;Sembra divertente che loro cr<i><b>e</b></i>scano;congiuntivo_presente crescere loro
 
-03033;Es <i><b>war</b></i> schön, dass ich wuchs;Era bello che io crescessi;congiuntivo_passato crescere io
-03034;Es <i><b>war</b></i> schön, dass du wuchst;Era bello che tu crescessi;congiuntivo_passato crescere tu
-03035;Es <i><b>war</b></i> schön, dass er/sie/es wuchs;Era bello che lui/lei crescesse;congiuntivo_passato crescere lui_lei
-03036;Es <i><b>war</b></i> schön, dass wir wuchsen;Era bello che noi cresc<i><b>e</b></i>ssimo;congiuntivo_passato crescere noi
-03037;Es <i><b>war</b></i> schön, dass ihr wuchst;Era bello che voi cresceste;congiuntivo_passato crescere voi
-03038;Es <i><b>war</b></i> schön, dass sie wuchsen;Era bello che loro cresc<i><b>e</b></i>ssero;congiuntivo_passato crescere loro
+03033;Es <i><b>war</b></i> schön, dass ich wuchs;Era bello che io crescessi;congiuntivo_imperfetto crescere io
+03034;Es <i><b>war</b></i> schön, dass du wuchst;Era bello che tu crescessi;congiuntivo_imperfetto crescere tu
+03035;Es <i><b>war</b></i> schön, dass er/sie/es wuchs;Era bello che lui/lei crescesse;congiuntivo_imperfetto crescere lui_lei
+03036;Es <i><b>war</b></i> schön, dass wir wuchsen;Era bello che noi cresc<i><b>e</b></i>ssimo;congiuntivo_imperfetto crescere noi
+03037;Es <i><b>war</b></i> schön, dass ihr wuchst;Era bello che voi cresceste;congiuntivo_imperfetto crescere voi
+03038;Es <i><b>war</b></i> schön, dass sie wuchsen;Era bello che loro cresc<i><b>e</b></i>ssero;congiuntivo_imperfetto crescere loro
 
 03039;Wachse!;Cresci!;crescere imperativo tu
 03040;Er/sie/es soll wachsen!;Cresca!;crescere imperativo lui_lei

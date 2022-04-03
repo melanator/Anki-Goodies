@@ -96,12 +96,12 @@
 00038;Parece divertido que nosotros hayamos;Sembra divertente che noi abbiamo;avere congiuntivo_presente noi
 00039;Parece divertido que vosotros hayáis;Sembra divertente che voi abbiate;avere congiuntivo_presente voi
 00040;Parece divertido que ellos hayan;Sembra divertente che loro <i><b>a</b></i>bbiano;avere congiuntivo_presente loro
-00041;Fue bueno que yo hubiera / hubiese;Era bello che io avessi;avere congiuntivo_passato io
-00042;Fue bueno que tú hubieras / hubieses;Era bello che tu avessi;avere congiuntivo_passato tu
-00043;Fue bueno que él/ella hubiera / hubiese;Era bello che lui/lei avesse;avere congiuntivo_passato lui_lei
-00044;Fue bueno que nosotros hubiéramos / hubiésemos;Era bello che noi av<i><b>e</b></i>ssimo;avere congiuntivo_passato noi
-00045;Fue bueno que vosotros hubierais / hubieseis;Era bello che voi aveste;avere congiuntivo_passato voi
-00046;Fue bueno que ellos hubieran / hubiesen;Era bello che loro av<i><b>e</b></i>ssero;avere congiuntivo_passato loro
+00041;Fue bueno que yo hubiera / hubiese;Era bello che io avessi;avere congiuntivo_imperfetto io
+00042;Fue bueno que tú hubieras / hubieses;Era bello che tu avessi;avere congiuntivo_imperfetto tu
+00043;Fue bueno que él/ella hubiera / hubiese;Era bello che lui/lei avesse;avere congiuntivo_imperfetto lui_lei
+00044;Fue bueno que nosotros hubiéramos / hubiésemos;Era bello che noi av<i><b>e</b></i>ssimo;avere congiuntivo_imperfetto noi
+00045;Fue bueno que vosotros hubierais / hubieseis;Era bello che voi aveste;avere congiuntivo_imperfetto voi
+00046;Fue bueno que ellos hubieran / hubiesen;Era bello che loro av<i><b>e</b></i>ssero;avere congiuntivo_imperfetto loro
 00047;¡Habe (desusado) | Ten!;Abbi!;avere imperativo tu
 00048;¡Haya | Tenga!;<i><b>A</b></i>bbia!;avere imperativo lui_lei
 00049;¡Hayamos (desusado) | Tengamos!;Abbiamo!;avere imperativo noi
@@ -150,12 +150,12 @@
 00089;Parece divertido que nosotros seamos;Sembra divertente che noi siamo;congiuntivo_presente essere noi
 00090;Parece divertido que vosotros seáis;Sembra divertente che voi siate;congiuntivo_presente essere voi
 00091;Parece divertido que ellos sean;Sembra divertente che loro s<i><b>i</b></i>ano;congiuntivo_presente essere loro
-00092;Fue bueno que yo fuera / fuese (ser);Era bello che io fossi;congiuntivo_passato essere io
-00093;Fue bueno que tú fueras / fueses (ser);Era bello che tu fossi;congiuntivo_passato essere tu
-00094;Fue bueno que él/ella fuera / fuese (ser);Era bello che lui/lei fosse;congiuntivo_passato essere lui_lei
-00095;Fue bueno que nosotros fuéramos / fuésemos (ser);Era bello che noi f<i><b>o</b></i>ssimo;congiuntivo_passato essere noi
-00096;Fue bueno que vosotros fuerais / fueseis (ser);Era bello che voi foste;congiuntivo_passato essere voi
-00097;Fue bueno que ellos fueran / fuesen (ser);Era bello che loro f<i><b>o</b></i>ssero;congiuntivo_passato essere loro
+00092;Fue bueno que yo fuera / fuese (ser);Era bello che io fossi;congiuntivo_imperfetto essere io
+00093;Fue bueno que tú fueras / fueses (ser);Era bello che tu fossi;congiuntivo_imperfetto essere tu
+00094;Fue bueno que él/ella fuera / fuese (ser);Era bello che lui/lei fosse;congiuntivo_imperfetto essere lui_lei
+00095;Fue bueno que nosotros fuéramos / fuésemos (ser);Era bello che noi f<i><b>o</b></i>ssimo;congiuntivo_imperfetto essere noi
+00096;Fue bueno que vosotros fuerais / fueseis (ser);Era bello che voi foste;congiuntivo_imperfetto essere voi
+00097;Fue bueno que ellos fueran / fuesen (ser);Era bello che loro f<i><b>o</b></i>ssero;congiuntivo_imperfetto essere loro
 00098;¡Sé!;Sii!;essere imperativo tu
 00099;¡Sea!;Sia!;essere imperativo lui_lei
 00100;¡Seamos!;Siamo!;essere imperativo noi
@@ -204,12 +204,12 @@
 00140;Parece divertido que nosotros amemos;Sembra divertente che noi amiamo;amare congiuntivo_presente noi
 00141;Parece divertido que vosotros améis;Sembra divertente che voi amiate;amare congiuntivo_presente voi
 00142;Parece divertido que ellos amen;Sembra divertente che loro <i><b>a</b></i>mino;amare congiuntivo_presente loro
-00143;Fue bueno que yo amara / amase;Era bello che io amassi;amare congiuntivo_passato io
-00144;Fue bueno que tú amaras / amases;Era bello che tu amassi;amare congiuntivo_passato tu
-00145;Fue bueno que él/ella amara / amase;Era bello che lui/lei amasse;amare congiuntivo_passato lui_lei
-00146;Fue bueno que nosotros amáramos / amásemos;Era bello che noi am<i><b>a</b></i>ssimo;amare congiuntivo_passato noi
-00147;Fue bueno que vosotros amarais / amaseis;Era bello che voi amaste;amare congiuntivo_passato voi
-00148;Fue bueno que ellos amaran / amasen;Era bello che loro am<i><b>a</b></i>ssero;amare congiuntivo_passato loro
+00143;Fue bueno que yo amara / amase;Era bello che io amassi;amare congiuntivo_imperfetto io
+00144;Fue bueno que tú amaras / amases;Era bello che tu amassi;amare congiuntivo_imperfetto tu
+00145;Fue bueno que él/ella amara / amase;Era bello che lui/lei amasse;amare congiuntivo_imperfetto lui_lei
+00146;Fue bueno que nosotros amáramos / amásemos;Era bello che noi am<i><b>a</b></i>ssimo;amare congiuntivo_imperfetto noi
+00147;Fue bueno que vosotros amarais / amaseis;Era bello che voi amaste;amare congiuntivo_imperfetto voi
+00148;Fue bueno que ellos amaran / amasen;Era bello che loro am<i><b>a</b></i>ssero;amare congiuntivo_imperfetto loro
 00149;¡Ama!;Ama!;amare imperativo tu
 00150;¡Ame!;Ami!;amare imperativo lui_lei
 00151;¡Amemos!;Amiamo!;amare imperativo noi
@@ -258,12 +258,12 @@
 00191;Parece divertido que nosotros creamos;Sembra divertente che noi crediamo;congiuntivo_presente credere noi
 00192;Parece divertido que vosotros creáis;Sembra divertente che voi crediate;congiuntivo_presente credere voi
 00193;Parece divertido que ellos crean;Sembra divertente che loro cr<i><b>e</b></i>dano;congiuntivo_presente credere loro
-00194;Fue bueno que yo creyera / creyese;Era bello che io credessi;congiuntivo_passato credere io
-00195;Fue bueno que tú creyeras / creyeses;Era bello che tu credessi;congiuntivo_passato credere tu
-00196;Fue bueno que él/ella creyera/ creyese;Era bello che lui/lei credesse;congiuntivo_passato credere lui_lei
-00197;Fue bueno que nosotros creyéramos /creyésemos;Era bello che noi cred<i><b>e</b></i>ssimo;congiuntivo_passato credere noi
-00198;Fue bueno que vosotros creyerais / creyeseis;Era bello che voi credeste;congiuntivo_passato credere voi
-00199;Fue bueno que ellos creyeran / creyesen;Era bello che loro cred<i><b>e</b></i>ssero;congiuntivo_passato credere loro
+00194;Fue bueno que yo creyera / creyese;Era bello che io credessi;congiuntivo_imperfetto credere io
+00195;Fue bueno que tú creyeras / creyeses;Era bello che tu credessi;congiuntivo_imperfetto credere tu
+00196;Fue bueno que él/ella creyera/ creyese;Era bello che lui/lei credesse;congiuntivo_imperfetto credere lui_lei
+00197;Fue bueno que nosotros creyéramos /creyésemos;Era bello che noi cred<i><b>e</b></i>ssimo;congiuntivo_imperfetto credere noi
+00198;Fue bueno que vosotros creyerais / creyeseis;Era bello che voi credeste;congiuntivo_imperfetto credere voi
+00199;Fue bueno que ellos creyeran / creyesen;Era bello che loro cred<i><b>e</b></i>ssero;congiuntivo_imperfetto credere loro
 00200;¡Cree!;Credi!;credere imperativo tu
 00201;¡Crea!;Creda!;credere imperativo lui_lei
 00202;¡Creamos!;Crediamo!;credere imperativo noi
@@ -312,12 +312,12 @@
 00242;Parece divertido que nosotros partamos;Sembra divertente che noi partiamo;congiuntivo_presente noi partire
 00243;Parece divertido que vosotros partáis;Sembra divertente che voi partiate;congiuntivo_presente partire voi
 00244;Parece divertido que ellos partan;Sembra divertente che loro p<i><b>a</b></i>rtano;congiuntivo_presente loro partire
-00245;Fue bueno que yo partiera / partiese;Era bello che io partissi;congiuntivo_passato io partire
-00246;Fue bueno que tú partieras / partieses;Era bello che tu partissi;congiuntivo_passato partire tu
-00247;Fue bueno que él/ella partiera / partiese;Era bello che lui/lei partisse;congiuntivo_passato lui_lei partire
-00248;Fue bueno que nosotros partiéramos / partiésemos;Era bello che noi part<i><b>i</b></i>ssimo;congiuntivo_passato noi partire
-00249;Fue bueno que vosotros partierais / partieseis;Era bello che voi partiste;congiuntivo_passato partire voi
-00250;Fue bueno que ellos partieran / partiesen;Era bello che loro part<i><b>i</b></i>ssero;congiuntivo_passato loro partire
+00245;Fue bueno que yo partiera / partiese;Era bello che io partissi;congiuntivo_imperfetto io partire
+00246;Fue bueno que tú partieras / partieses;Era bello che tu partissi;congiuntivo_imperfetto partire tu
+00247;Fue bueno que él/ella partiera / partiese;Era bello che lui/lei partisse;congiuntivo_imperfetto lui_lei partire
+00248;Fue bueno que nosotros partiéramos / partiésemos;Era bello che noi part<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi partire
+00249;Fue bueno que vosotros partierais / partieseis;Era bello che voi partiste;congiuntivo_imperfetto partire voi
+00250;Fue bueno que ellos partieran / partiesen;Era bello che loro part<i><b>i</b></i>ssero;congiuntivo_imperfetto loro partire
 00251;¡Parte!;Parti!;imperativo partire tu
 00252;¡Parta!;Parta!;imperativo lui_lei partire
 00253;¡Partamos!;Partiamo!;imperativo noi partire
@@ -366,12 +366,12 @@
 00293;Parece divertido que nosotros veamos;Sembra divertente che noi vediamo;congiuntivo_presente noi vedere
 00294;Parece divertido que vosotros veáis;Sembra divertente che voi vediate;congiuntivo_presente vedere voi
 00295;Parece divertido que ellos vean;Sembra divertente che loro v<i><b>e</b></i>dano;congiuntivo_presente loro vedere
-00296;Fue bueno que yo viera / viese;Era bello che io vedessi;congiuntivo_passato io vedere
-00297;Fue bueno que tú vieras / vieses;Era bello che tu vedessi;congiuntivo_passato tu vedere
-00298;Fue bueno que él/ella viera / viese;Era bello che lui/lei vedesse;congiuntivo_passato lui_lei vedere
-00299;Fue bueno que nosotros viéramos / viésemos;Era bello che noi ved<i><b>e</b></i>ssimo;congiuntivo_passato noi vedere
-00300;Fue bueno que vosotros vierais / vieseis;Era bello che voi vedeste;congiuntivo_passato vedere voi
-00301;Fue bueno que ellos vieran / viesen;Era bello che loro ved<i><b>e</b></i>ssero;congiuntivo_passato loro vedere
+00296;Fue bueno que yo viera / viese;Era bello che io vedessi;congiuntivo_imperfetto io vedere
+00297;Fue bueno que tú vieras / vieses;Era bello che tu vedessi;congiuntivo_imperfetto tu vedere
+00298;Fue bueno que él/ella viera / viese;Era bello che lui/lei vedesse;congiuntivo_imperfetto lui_lei vedere
+00299;Fue bueno que nosotros viéramos / viésemos;Era bello che noi ved<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vedere
+00300;Fue bueno que vosotros vierais / vieseis;Era bello che voi vedeste;congiuntivo_imperfetto vedere voi
+00301;Fue bueno que ellos vieran / viesen;Era bello che loro ved<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vedere
 00302;¡Ve! (ver);Vedi!;imperativo tu vedere
 00303;¡Vea!;Veda!;imperativo lui_lei vedere
 00304;¡Veamos!;Vediamo!;imperativo noi vedere
@@ -420,12 +420,12 @@
 00344;Parece divertido que nosotros queramos;Sembra divertente che noi vogliamo;congiuntivo_presente noi volere
 00345;Parece divertido que vosotros queráis;Sembra divertente che voi vogliate;congiuntivo_presente voi volere
 00346;Parece divertido que ellos quieran;Sembra divertente che loro v<i><b>o</b></i>gliano;congiuntivo_presente loro volere
-00347;Fue bueno que yo quisiera / quisiese;Era bello che io volessi;congiuntivo_passato io volere
-00348;Fue bueno que tú quisieras / quisieses;Era bello che tu volessi;congiuntivo_passato tu volere
-00349;Fue bueno que él/ella quisiera / quisiese;Era bello che lui/lei volesse;congiuntivo_passato lui_lei volere
-00350;Fue bueno que nosotros quisiéramos / quisiésemos;Era bello che noi vol<i><b>e</b></i>ssimo;congiuntivo_passato noi volere
-00351;Fue bueno que vosotros quisierais / quisieseis;Era bello che voi voleste;congiuntivo_passato voi volere
-00352;Fue bueno que ellos quisieran / quisiesen;Era bello che loro vol<i><b>e</b></i>ssero;congiuntivo_passato loro volere
+00347;Fue bueno que yo quisiera / quisiese;Era bello che io volessi;congiuntivo_imperfetto io volere
+00348;Fue bueno que tú quisieras / quisieses;Era bello che tu volessi;congiuntivo_imperfetto tu volere
+00349;Fue bueno que él/ella quisiera / quisiese;Era bello che lui/lei volesse;congiuntivo_imperfetto lui_lei volere
+00350;Fue bueno que nosotros quisiéramos / quisiésemos;Era bello che noi vol<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi volere
+00351;Fue bueno que vosotros quisierais / quisieseis;Era bello che voi voleste;congiuntivo_imperfetto voi volere
+00352;Fue bueno que ellos quisieran / quisiesen;Era bello che loro vol<i><b>e</b></i>ssero;congiuntivo_imperfetto loro volere
 00353;¡Quiere!;Vuoi! / Vogli!;imperativo tu volere
 00354;¡Quiera!;V<i><b>o</b></i>glia!;imperativo lui_lei volere
 00355;¡Queramos!;Vogliamo!;imperativo noi volere
@@ -474,12 +474,12 @@
 00395;Parece divertido que nosotros hagamos;Sembra divertente che noi facciamo;congiuntivo_presente fare noi
 00396;Parece divertido que vosotros hagáis;Sembra divertente che voi facciate;congiuntivo_presente fare voi
 00397;Parece divertido que ellos hagan;Sembra divertente che loro f<i><b>a</b></i>cciano;congiuntivo_presente fare loro
-00398;Fue bueno que yo hiciera / hiciese;Era bello che io facessi;congiuntivo_passato fare io
-00399;Fue bueno que tú hicieras / hicieses;Era bello che tu facessi;congiuntivo_passato fare tu
-00400;Fue bueno que él/ella hiciera / hiciese;Era bello che lui/lei facesse;congiuntivo_passato fare lui_lei
-00401;Fue bueno que nosotros hiciéramos / hiciésemos;Era bello che noi fac<i><b>e</b></i>ssimo;congiuntivo_passato fare noi
-00402;Fue bueno que vosotros hicierais / hicieseis;Era bello che voi faceste;congiuntivo_passato fare voi
-00403;Fue bueno que ellos hicieran / hiciesen;Era bello che loro fac<i><b>e</b></i>ssero;congiuntivo_passato fare loro
+00398;Fue bueno que yo hiciera / hiciese;Era bello che io facessi;congiuntivo_imperfetto fare io
+00399;Fue bueno que tú hicieras / hicieses;Era bello che tu facessi;congiuntivo_imperfetto fare tu
+00400;Fue bueno que él/ella hiciera / hiciese;Era bello che lui/lei facesse;congiuntivo_imperfetto fare lui_lei
+00401;Fue bueno que nosotros hiciéramos / hiciésemos;Era bello che noi fac<i><b>e</b></i>ssimo;congiuntivo_imperfetto fare noi
+00402;Fue bueno que vosotros hicierais / hicieseis;Era bello che voi faceste;congiuntivo_imperfetto fare voi
+00403;Fue bueno que ellos hicieran / hiciesen;Era bello che loro fac<i><b>e</b></i>ssero;congiuntivo_imperfetto fare loro
 00404;¡Haz!;Fai / Fa'!;fare imperativo tu
 00405;¡Haga!;F<i><b>a</b></i>ccia!;fare imperativo lui_lei
 00406;¡Hagamos!;Facciamo!;fare imperativo noi
@@ -528,12 +528,12 @@
 00446;Parece divertido que nosotros podamos;Sembra divertente che noi possiamo;congiuntivo_presente noi potere
 00447;Parece divertido que vosotros podáis;Sembra divertente che voi possiate;congiuntivo_presente potere voi
 00448;Parece divertido que ellos puedan;Sembra divertente che loro p<i><b>o</b></i>ssano;congiuntivo_presente loro potere
-00449;Fue bueno que yo pudiera / pudiese;Era bello che io potessi;congiuntivo_passato io potere
-00450;Fue bueno que tú pudieras / pudieses;Era bello che tu potessi;congiuntivo_passato potere tu
-00451;Fue bueno que él/ella pudiera / pudiese;Era bello che lui/lei potesse;congiuntivo_passato lui_lei potere
-00452;Fue bueno que nosotros pudiéramos / pudiésemos;Era bello che noi pot<i><b>e</b></i>ssimo;congiuntivo_passato noi potere
-00453;Fue bueno que vosotros pudierais / pudieseis;Era bello che voi poteste;congiuntivo_passato potere voi
-00454;Fue bueno que ellos pudieran / pudiesen;Era bello che loro pot<i><b>e</b></i>ssero;congiuntivo_passato loro potere
+00449;Fue bueno que yo pudiera / pudiese;Era bello che io potessi;congiuntivo_imperfetto io potere
+00450;Fue bueno que tú pudieras / pudieses;Era bello che tu potessi;congiuntivo_imperfetto potere tu
+00451;Fue bueno que él/ella pudiera / pudiese;Era bello che lui/lei potesse;congiuntivo_imperfetto lui_lei potere
+00452;Fue bueno que nosotros pudiéramos / pudiésemos;Era bello che noi pot<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi potere
+00453;Fue bueno que vosotros pudierais / pudieseis;Era bello che voi poteste;congiuntivo_imperfetto potere voi
+00454;Fue bueno que ellos pudieran / pudiesen;Era bello che loro pot<i><b>e</b></i>ssero;congiuntivo_imperfetto loro potere
 #
 # Sapere
 #
@@ -576,12 +576,12 @@
 00491;Parece divertido que nosotros sepamos;Sembra divertente che noi sappiamo;congiuntivo_presente noi sapere
 00492;Parece divertido que vosotros sepáis;Sembra divertente che voi sappiate;congiuntivo_presente sapere voi
 00493;Parece divertido que ellos sepan;Sembra divertente che loro s<i><b>a</b></i>ppiano;congiuntivo_presente loro sapere
-00494;Fue bueno que yo supiera / supiese;Era bello che io sapessi;congiuntivo_passato io sapere
-00495;Fue bueno que tú supieras / supieses;Era bello che tu sapessi;congiuntivo_passato sapere tu
-00496;Fue bueno que él/ella supiera / supiese;Era bello che lui/lei sapesse;congiuntivo_passato lui_lei sapere
-00497;Fue bueno que nosotros supiéramos / supiésemos;Era bello che noi sap<i><b>e</b></i>ssimo;congiuntivo_passato noi sapere
-00498;Fue bueno que vosotros supierais / supieseis;Era bello che voi sapeste;congiuntivo_passato sapere voi
-00499;Fue bueno que ellos supieran /supiesen;Era bello che loro sap<i><b>e</b></i>ssero;congiuntivo_passato loro sapere
+00494;Fue bueno que yo supiera / supiese;Era bello che io sapessi;congiuntivo_imperfetto io sapere
+00495;Fue bueno que tú supieras / supieses;Era bello che tu sapessi;congiuntivo_imperfetto sapere tu
+00496;Fue bueno que él/ella supiera / supiese;Era bello che lui/lei sapesse;congiuntivo_imperfetto lui_lei sapere
+00497;Fue bueno que nosotros supiéramos / supiésemos;Era bello che noi sap<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi sapere
+00498;Fue bueno que vosotros supierais / supieseis;Era bello che voi sapeste;congiuntivo_imperfetto sapere voi
+00499;Fue bueno que ellos supieran /supiesen;Era bello che loro sap<i><b>e</b></i>ssero;congiuntivo_imperfetto loro sapere
 00500;¡Sabe! (¡Que sepas! mucho más usado);Sappi!;imperativo sapere tu
 00501;¡Sepa!;S<i><b>a</b></i>ppia!;imperativo lui_lei sapere
 00502;¡Sepamos!;Sappiamo!;imperativo noi sapere
@@ -629,12 +629,12 @@
 00541;Parece divertido que nosotros debamos;Sembra divertente che noi dobbiamo;congiuntivo_presente dovere noi
 00542;Parece divertido que vosotros debáis;Sembra divertente che voi dobbiate;congiuntivo_presente dovere voi
 00543;Parece divertido que ellos deban;Sembra divertente che loro d<i><b>e</b></i>bbano / d<i><b>e</b></i>vano;congiuntivo_presente dovere loro
-00544;Fue bueno que yo debiera / debiese;Era bello che io dovessi;congiuntivo_passato dovere io
-00545;Fue bueno que tú debieras / debieses;Era bello che tu dovessi;congiuntivo_passato dovere tu
-00546;Fue bueno que él/ella debiera / debiese;Era bello che lui/lei dovesse;congiuntivo_passato dovere lui_lei
-00547;Fue bueno que nosotros debiéramos / debiésemos;Era bello che noi dov<i><b>e</b></i>ssimo;congiuntivo_passato dovere noi
-00548;Fue bueno que vosotros debierais / debieseis;Era bello che voi doveste;congiuntivo_passato dovere voi
-00549;Fue bueno que ellos debieran / debiesen;Era bello che loro dov<i><b>e</b></i>ssero;congiuntivo_passato dovere loro
+00544;Fue bueno que yo debiera / debiese;Era bello che io dovessi;congiuntivo_imperfetto dovere io
+00545;Fue bueno que tú debieras / debieses;Era bello che tu dovessi;congiuntivo_imperfetto dovere tu
+00546;Fue bueno que él/ella debiera / debiese;Era bello che lui/lei dovesse;congiuntivo_imperfetto dovere lui_lei
+00547;Fue bueno que nosotros debiéramos / debiésemos;Era bello che noi dov<i><b>e</b></i>ssimo;congiuntivo_imperfetto dovere noi
+00548;Fue bueno que vosotros debierais / debieseis;Era bello che voi doveste;congiuntivo_imperfetto dovere voi
+00549;Fue bueno que ellos debieran / debiesen;Era bello che loro dov<i><b>e</b></i>ssero;congiuntivo_imperfetto dovere loro
 #
 # Andare
 #
@@ -678,12 +678,12 @@
 00587;Parece divertido que nosotros vayamos;Sembra divertente che noi andiamo;andare congiuntivo_presente noi
 00588;Parece divertido que vosotros vayáis;Sembra divertente che voi andiate;andare congiuntivo_presente voi
 00589;Parece divertido que ellos vayan;Sembra divertente che loro v<i><b>a</b></i>dano;andare congiuntivo_presente loro
-00590;Fue bueno que yo fuera / fuese (ir);Era bello che io andassi;andare congiuntivo_passato io
-00591;Fue bueno que tú fueras / fueses (ir);Era bello che tu andassi;andare congiuntivo_passato tu
-00592;Fue bueno que él/ella fuera / fuese (ir);Era bello che lui/lei andasse;andare congiuntivo_passato lui_lei
-00593;Fue bueno que nosotros fuéramos / fuésemos (ir);Era bello che noi and<i><b>a</b></i>ssimo;andare congiuntivo_passato noi
-00594;Fue bueno que vosotros fuerais / fueseis (ir);Era bello che voi andaste;andare congiuntivo_passato voi
-00595;Fue bueno que ellos fueran / fuesen (ir);Era bello che loro and<i><b>a</b></i>ssero;andare congiuntivo_passato loro
+00590;Fue bueno que yo fuera / fuese (ir);Era bello che io andassi;andare congiuntivo_imperfetto io
+00591;Fue bueno que tú fueras / fueses (ir);Era bello che tu andassi;andare congiuntivo_imperfetto tu
+00592;Fue bueno que él/ella fuera / fuese (ir);Era bello che lui/lei andasse;andare congiuntivo_imperfetto lui_lei
+00593;Fue bueno que nosotros fuéramos / fuésemos (ir);Era bello che noi and<i><b>a</b></i>ssimo;andare congiuntivo_imperfetto noi
+00594;Fue bueno que vosotros fuerais / fueseis (ir);Era bello che voi andaste;andare congiuntivo_imperfetto voi
+00595;Fue bueno que ellos fueran / fuesen (ir);Era bello che loro and<i><b>a</b></i>ssero;andare congiuntivo_imperfetto loro
 00596;¡Ve! (ir);Vai / Va'!;andare imperativo tu
 00597;¡Vaya!;Vada!;andare imperativo lui_lei
 00598;¡Vayamos!;Andiamo!;andare imperativo noi
@@ -732,12 +732,12 @@
 00638;Parece divertido que nosotros estemos;Sembra divertente che noi stiamo;congiuntivo_presente noi stare
 00639;Parece divertido que vosotros estéis;Sembra divertente che voi stiate;congiuntivo_presente stare voi
 00640;Parece divertido que ellos estén;Sembra divertente che loro st<i><b>i</b></i>ano;congiuntivo_presente loro stare
-00641;Fue bueno que yo estuviera / estuviese;Era bello che io stessi;congiuntivo_passato io stare
-00642;Fue bueno que tú estuvieras / estuvieses;Era bello che tu stessi;congiuntivo_passato stare tu
-00643;Fue bueno que él/ella estuviera / estuviese;Era bello che lui/lei stesse;congiuntivo_passato lui_lei stare
-00644;Fue bueno que nosotros estuviéramos / estuviésemos;Era bello che noi st<i><b>e</b></i>ssimo;congiuntivo_passato noi stare
-00645;Fue bueno que vosotros estuvierais / estuvieseis;Era bello che voi steste;congiuntivo_passato stare voi
-00646;Fue bueno que ellos estuvieran / estuviesen;Era bello che loro st<i><b>e</b></i>ssero;congiuntivo_passato loro stare
+00641;Fue bueno que yo estuviera / estuviese;Era bello che io stessi;congiuntivo_imperfetto io stare
+00642;Fue bueno que tú estuvieras / estuvieses;Era bello che tu stessi;congiuntivo_imperfetto stare tu
+00643;Fue bueno que él/ella estuviera / estuviese;Era bello che lui/lei stesse;congiuntivo_imperfetto lui_lei stare
+00644;Fue bueno que nosotros estuviéramos / estuviésemos;Era bello che noi st<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi stare
+00645;Fue bueno que vosotros estuvierais / estuvieseis;Era bello che voi steste;congiuntivo_imperfetto stare voi
+00646;Fue bueno que ellos estuvieran / estuviesen;Era bello che loro st<i><b>e</b></i>ssero;congiuntivo_imperfetto loro stare
 00647;¡Está!;Stai / Sta'!;imperativo stare tu
 00648;¡Esté!;Stia!;imperativo lui_lei stare
 00649;¡Estemos!;Stiamo!;imperativo noi stare
@@ -786,12 +786,12 @@
 00689;Parece divertido que nosotros digamos;Sembra divertente che noi diciamo;congiuntivo_presente dire noi
 00690;Parece divertido que vosotros digáis;Sembra divertente che voi diciate;congiuntivo_presente dire voi
 00691;Parece divertido que ellos digan;Sembra divertente che loro d<i><b>i</b></i>cano;congiuntivo_presente dire loro
-00692;Fue bueno que yo dijera / dijese;Era bello che io dicessi;congiuntivo_passato dire io
-00693;Fue bueno que tú dijeras / dijeses;Era bello che tu dicessi;congiuntivo_passato dire tu
-00694;Fue bueno que él/ella dijera / dijese;Era bello che lui/lei dicesse;congiuntivo_passato dire lui_lei
-00695;Fue bueno que nosotros dijéramos / dijésemos;Era bello che noi dic<i><b>e</b></i>ssimo;congiuntivo_passato dire noi
-00696;Fue bueno que vosotros dijerais / dijeseis;Era bello che voi diceste;congiuntivo_passato dire voi
-00697;Fue bueno que ellos dijeran / dijesen;Era bello che loro dic<i><b>e</b></i>ssero;congiuntivo_passato dire loro
+00692;Fue bueno que yo dijera / dijese;Era bello che io dicessi;congiuntivo_imperfetto dire io
+00693;Fue bueno que tú dijeras / dijeses;Era bello che tu dicessi;congiuntivo_imperfetto dire tu
+00694;Fue bueno que él/ella dijera / dijese;Era bello che lui/lei dicesse;congiuntivo_imperfetto dire lui_lei
+00695;Fue bueno que nosotros dijéramos / dijésemos;Era bello che noi dic<i><b>e</b></i>ssimo;congiuntivo_imperfetto dire noi
+00696;Fue bueno que vosotros dijerais / dijeseis;Era bello che voi diceste;congiuntivo_imperfetto dire voi
+00697;Fue bueno que ellos dijeran / dijesen;Era bello che loro dic<i><b>e</b></i>ssero;congiuntivo_imperfetto dire loro
 00698;¡Di!;Di'!;dire imperativo tu
 00699;¡Diga!;Dica!;dire imperativo lui_lei
 00700;¡Digamos!;Diciamo!;dire imperativo noi
@@ -840,12 +840,12 @@
 00740;Parece divertido que nosotros demos;Sembra divertente che noi diamo;congiuntivo_presente dare noi
 00741;Parece divertido que vosotros deis;Sembra divertente che voi diate;congiuntivo_presente dare voi
 00742;Parece divertido que ellos den;Sembra divertente che loro d<i><b>i</b></i>ano;congiuntivo_presente dare loro
-00743;Fue bueno que yo diera / diese;Era bello che io dessi;congiuntivo_passato dare io
-00744;Fue bueno que tú dieras / dieses;Era bello che tu dessi;congiuntivo_passato dare tu
-00745;Fue bueno que él/ella diera / diese;Era bello che lui/lei desse;congiuntivo_passato dare lui_lei
-00746;Fue bueno que nosotros diéramos / diésemos;Era bello che noi d<i><b>e</b></i>ssimo;congiuntivo_passato dare noi
-00747;Fue bueno que vosotros dierais / dieseis;Era bello che voi deste;congiuntivo_passato dare voi
-00748;Fue bueno que ellos dieran / diesen;Era bello che loro d<i><b>e</b></i>ssero;congiuntivo_passato dare loro
+00743;Fue bueno que yo diera / diese;Era bello che io dessi;congiuntivo_imperfetto dare io
+00744;Fue bueno que tú dieras / dieses;Era bello che tu dessi;congiuntivo_imperfetto dare tu
+00745;Fue bueno que él/ella diera / diese;Era bello che lui/lei desse;congiuntivo_imperfetto dare lui_lei
+00746;Fue bueno que nosotros diéramos / diésemos;Era bello che noi d<i><b>e</b></i>ssimo;congiuntivo_imperfetto dare noi
+00747;Fue bueno que vosotros dierais / dieseis;Era bello che voi deste;congiuntivo_imperfetto dare voi
+00748;Fue bueno que ellos dieran / diesen;Era bello che loro d<i><b>e</b></i>ssero;congiuntivo_imperfetto dare loro
 00749;¡Da!;Dai / Da'!;dare imperativo tu
 00750;¡Dé!;Dia!;dare imperativo lui_lei
 00751;¡Demos!;Diamo!;dare imperativo noi
@@ -894,12 +894,12 @@
 00791;Parece divertido que nosotros oigamos;Sembra divertente che noi udiamo;congiuntivo_presente noi udire
 00792;Parece divertido que vosotros oigáis;Sembra divertente che voi udiate;congiuntivo_presente udire voi
 00793;Parece divertido que ellos oigan;Sembra divertente che loro <i><b>o</b></i>dano;congiuntivo_presente loro udire
-00794;Fue bueno que yo oyera / oyese;Era bello che io udissi;congiuntivo_passato io udire
-00795;Fue bueno que tú oyeras / oyeses;Era bello che tu udissi;congiuntivo_passato tu udire
-00796;Fue bueno que él/ella oyera / oyese;Era bello che lui/lei udisse;congiuntivo_passato lui_lei udire
-00797;Fue bueno que nosotros oyéramos / oyésemos;Era bello che noi ud<i><b>i</b></i>ssimo;congiuntivo_passato noi udire
-00798;Fue bueno que vosotros oyerais / oyeseis;Era bello che voi udiste;congiuntivo_passato udire voi
-00799;Fue bueno que ellos oyeran / oyesen;Era bello che loro ud<i><b>i</b></i>ssero;congiuntivo_passato loro udire
+00794;Fue bueno que yo oyera / oyese;Era bello che io udissi;congiuntivo_imperfetto io udire
+00795;Fue bueno que tú oyeras / oyeses;Era bello che tu udissi;congiuntivo_imperfetto tu udire
+00796;Fue bueno que él/ella oyera / oyese;Era bello che lui/lei udisse;congiuntivo_imperfetto lui_lei udire
+00797;Fue bueno que nosotros oyéramos / oyésemos;Era bello che noi ud<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi udire
+00798;Fue bueno que vosotros oyerais / oyeseis;Era bello che voi udiste;congiuntivo_imperfetto udire voi
+00799;Fue bueno que ellos oyeran / oyesen;Era bello che loro ud<i><b>i</b></i>ssero;congiuntivo_imperfetto loro udire
 00800;¡Oye!;Odi!;imperativo tu udire
 00801;¡Oiga!;Oda!;imperativo lui_lei udire
 00802;¡Oigamos!;Udiamo!;imperativo noi udire
@@ -948,12 +948,12 @@
 00842;Parece divertido que nosotros hablemos;Sembra divertente che noi parliamo;congiuntivo_presente noi parlare
 00843;Parece divertido que vosotros habléis;Sembra divertente che voi parliate;congiuntivo_presente parlare voi
 00844;Parece divertido que ellos hablen;Sembra divertente che loro p<i><b>a</b></i>rlino;congiuntivo_presente loro parlare
-00845;Fue bueno que yo hablara / hablase;Era bello che io parlassi;congiuntivo_passato io parlare
-00846;Fue bueno que tú hablaras / hablaseis;Era bello che tu parlassi;congiuntivo_passato parlare tu
-00847;Fue bueno que él/ella hablara / hablase;Era bello che lui/lei parlasse;congiuntivo_passato lui_lei parlare
-00848;Fue bueno que nosotros habláramos / hablásemos;Era bello che noi parl<i><b>a</b></i>ssimo;congiuntivo_passato noi parlare
-00849;Fue bueno que vosotros hablarais / hablaseis;Era bello che voi parlaste;congiuntivo_passato parlare voi
-00850;Fue bueno que ellos hablaran / hablasen;Era bello che loro parl<i><b>a</b></i>ssero;congiuntivo_passato loro parlare
+00845;Fue bueno que yo hablara / hablase;Era bello che io parlassi;congiuntivo_imperfetto io parlare
+00846;Fue bueno que tú hablaras / hablaseis;Era bello che tu parlassi;congiuntivo_imperfetto parlare tu
+00847;Fue bueno que él/ella hablara / hablase;Era bello che lui/lei parlasse;congiuntivo_imperfetto lui_lei parlare
+00848;Fue bueno que nosotros habláramos / hablásemos;Era bello che noi parl<i><b>a</b></i>ssimo;congiuntivo_imperfetto noi parlare
+00849;Fue bueno que vosotros hablarais / hablaseis;Era bello che voi parlaste;congiuntivo_imperfetto parlare voi
+00850;Fue bueno que ellos hablaran / hablasen;Era bello che loro parl<i><b>a</b></i>ssero;congiuntivo_imperfetto loro parlare
 00851;¡Habla!;Parla!;imperativo parlare tu
 00852;¡Hable!;Parli!;imperativo lui_lei parlare
 00853;¡Hablemos!;Parliamo!;imperativo noi parlare
@@ -1002,12 +1002,12 @@
 00893;Parece divertido que nosotros gustemos;Sembra divertente che noi piacciamo;congiuntivo_presente noi piacere
 00894;Parece divertido que vosotros gustéis;Sembra divertente che voi piacciate;congiuntivo_presente piacere voi
 00895;Parece divertido que ellos gusten;Sembra divertente che loro pi<i><b>a</b></i>cciano;congiuntivo_presente loro piacere
-00896;Fue bueno que yo gustara / gustase;Era bello che io piacessi;congiuntivo_passato io piacere
-00897;Fue bueno que tú gustaras / gustases;Era bello che tu piacessi;congiuntivo_passato piacere tu
-00898;Fue bueno que él/ella gustara / gustase;Era bello che lui/lei piacesse;congiuntivo_passato lui_lei piacere
-00899;Fue bueno que nosotros gustáramos / gustásemos;Era bello che noi piac<i><b>e</b></i>ssimo;congiuntivo_passato noi piacere
-00900;Fue bueno que vosotros gustarais / gustaseis;Era bello che voi piaceste;congiuntivo_passato piacere voi
-00901;Fue bueno que ellos gustaran / gustasen;Era bello che loro piac<i><b>e</b></i>ssero;congiuntivo_passato loro piacere
+00896;Fue bueno que yo gustara / gustase;Era bello che io piacessi;congiuntivo_imperfetto io piacere
+00897;Fue bueno que tú gustaras / gustases;Era bello che tu piacessi;congiuntivo_imperfetto piacere tu
+00898;Fue bueno que él/ella gustara / gustase;Era bello che lui/lei piacesse;congiuntivo_imperfetto lui_lei piacere
+00899;Fue bueno que nosotros gustáramos / gustásemos;Era bello che noi piac<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi piacere
+00900;Fue bueno que vosotros gustarais / gustaseis;Era bello che voi piaceste;congiuntivo_imperfetto piacere voi
+00901;Fue bueno que ellos gustaran / gustasen;Era bello che loro piac<i><b>e</b></i>ssero;congiuntivo_imperfetto loro piacere
 00902;¡Gusta!;Piaci!;imperativo piacere tu
 00903;¡Guste!;Pi<i><b>a</b></i>ccia!;imperativo lui_lei piacere
 00904;¡Gustemos!;Piacciamo!;imperativo noi piacere
@@ -1056,12 +1056,12 @@
 00944;Parece divertido que nosotros vengamos;Sembra divertente che noi veniamo;congiuntivo_presente noi venire
 00945;Parece divertido que vosotros vengáis;Sembra divertente che voi veniate;congiuntivo_presente venire voi
 00946;Parece divertido que ellos vengan;Sembra divertente che loro v<i><b>e</b></i>ngano;congiuntivo_presente loro venire
-00947;Fue bueno que yo viniera / viniese;Era bello che io venissi;congiuntivo_passato io venire
-00948;Fue bueno que tú vinieras / vinieses;Era bello che tu venissi;congiuntivo_passato tu venire
-00949;Fue bueno que él/ella viniera / viniese;Era bello che lui/lei venisse;congiuntivo_passato lui_lei venire
-00950;Fue bueno que nosotros viniéramos / viniésemos;Era bello che noi ven<i><b>i</b></i>ssimo;congiuntivo_passato noi venire
-00951;Fue bueno que vosotros vinierais / vinieseis;Era bello che voi veniste;congiuntivo_passato venire voi
-00952;Fue bueno que ellos vinieran / viniesen;Era bello che loro ven<i><b>i</b></i>ssero;congiuntivo_passato loro venire
+00947;Fue bueno que yo viniera / viniese;Era bello che io venissi;congiuntivo_imperfetto io venire
+00948;Fue bueno que tú vinieras / vinieses;Era bello che tu venissi;congiuntivo_imperfetto tu venire
+00949;Fue bueno que él/ella viniera / viniese;Era bello che lui/lei venisse;congiuntivo_imperfetto lui_lei venire
+00950;Fue bueno que nosotros viniéramos / viniésemos;Era bello che noi ven<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi venire
+00951;Fue bueno que vosotros vinierais / vinieseis;Era bello che voi veniste;congiuntivo_imperfetto venire voi
+00952;Fue bueno que ellos vinieran / viniesen;Era bello che loro ven<i><b>i</b></i>ssero;congiuntivo_imperfetto loro venire
 00953;¡Ven!;Vieni!;imperativo tu venire
 00954;¡Venga!;Venga!;imperativo lui_lei venire
 00955;¡Vengamos!;Veniamo!;imperativo noi venire
@@ -1110,12 +1110,12 @@
 00995;Parece divertido que nosotros tengamos;Sembra divertente che noi teniamo;congiuntivo_presente noi tenere
 00996;Parece divertido que vosotros tengáis;Sembra divertente che voi teniate;congiuntivo_presente tenere voi
 00997;Parece divertido que ellos tengan;Sembra divertente che loro t<i><b>e</b></i>ngano;congiuntivo_presente loro tenere
-00998;Fue bueno que yo tuviera / tuviese;Era bello che io tenessi;congiuntivo_passato io tenere
-00999;Fue bueno que tú tuvieras / tuvieses;Era bello che tu tenessi;congiuntivo_passato tenere tu
-01000;Fue bueno que él/ella tuviera / tuviese;Era bello che lui/lei tenesse;congiuntivo_passato lui_lei tenere
-01001;Fue bueno que nosotros tuviéramos / tuviésemos;Era bello che noi ten<i><b>e</b></i>ssimo;congiuntivo_passato noi tenere
-01002;Fue bueno que vosotros tuvierais / tuvieseis;Era bello che voi teneste;congiuntivo_passato tenere voi
-01003;Fue bueno que ellos tuvieran / tuviesen;Era bello che loro ten<i><b>e</b></i>ssero;congiuntivo_passato loro tenere
+00998;Fue bueno que yo tuviera / tuviese;Era bello che io tenessi;congiuntivo_imperfetto io tenere
+00999;Fue bueno que tú tuvieras / tuvieses;Era bello che tu tenessi;congiuntivo_imperfetto tenere tu
+01000;Fue bueno que él/ella tuviera / tuviese;Era bello che lui/lei tenesse;congiuntivo_imperfetto lui_lei tenere
+01001;Fue bueno que nosotros tuviéramos / tuviésemos;Era bello che noi ten<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi tenere
+01002;Fue bueno que vosotros tuvierais / tuvieseis;Era bello che voi teneste;congiuntivo_imperfetto tenere voi
+01003;Fue bueno que ellos tuvieran / tuviesen;Era bello che loro ten<i><b>e</b></i>ssero;congiuntivo_imperfetto loro tenere
 01004;¡Ten!;Tieni!;imperativo tenere tu
 01005;¡Tenga!;Tenga!;imperativo lui_lei tenere
 01006;¡Tengamos!;Teniamo!;imperativo noi tenere
@@ -1164,12 +1164,12 @@
 01046;Parece divertido que nosotros terminemos;Sembra divertente che noi finiamo;congiuntivo_presente finire noi
 01047;Parece divertido que vosotros terminéis;Sembra divertente che voi finiate;congiuntivo_presente finire voi
 01048;Parece divertido que ellos terminen;Sembra divertente che loro fin<i><b>i</b></i>scano;congiuntivo_presente finire loro
-01049;Fue bueno que yo terminara / terminase;Era bello che io finissi;congiuntivo_passato finire io
-01050;Fue bueno que tú terminaras / terminases;Era bello che tu finissi;congiuntivo_passato finire tu
-01051;Fue bueno que él/ella terminara / terminase;Era bello che lui/lei finisse;congiuntivo_passato finire lui_lei
-01052;Fue bueno que nosotros termináramos / terminásemos;Era bello che noi fin<i><b>i</b></i>ssimo;congiuntivo_passato finire noi
-01053;Fue bueno que vosotros terminarais / terminaseis;Era bello che voi finiste;congiuntivo_passato finire voi
-01054;Fue bueno que ellos terminaran / terminasen;Era bello che loro fin<i><b>i</b></i>ssero;congiuntivo_passato finire loro
+01049;Fue bueno que yo terminara / terminase;Era bello che io finissi;congiuntivo_imperfetto finire io
+01050;Fue bueno que tú terminaras / terminases;Era bello che tu finissi;congiuntivo_imperfetto finire tu
+01051;Fue bueno que él/ella terminara / terminase;Era bello che lui/lei finisse;congiuntivo_imperfetto finire lui_lei
+01052;Fue bueno que nosotros termináramos / terminásemos;Era bello che noi fin<i><b>i</b></i>ssimo;congiuntivo_imperfetto finire noi
+01053;Fue bueno que vosotros terminarais / terminaseis;Era bello che voi finiste;congiuntivo_imperfetto finire voi
+01054;Fue bueno que ellos terminaran / terminasen;Era bello che loro fin<i><b>i</b></i>ssero;congiuntivo_imperfetto finire loro
 01055;¡Termina!;Finisci!;finire imperativo tu
 01056;¡Termine!;Finisca!;finire imperativo lui_lei
 01057;¡Terminemos!;Finiamo!;finire imperativo noi
@@ -1218,12 +1218,12 @@
 01097;Parece divertido que nosotros salgamos;Sembra divertente che noi usciamo;congiuntivo_presente noi uscire
 01098;Parece divertido que vosotros salgáis;Sembra divertente che voi usciate;congiuntivo_presente uscire voi
 01099;Parece divertido que ellos salgan;Sembra divertente che loro <i><b>e</b></i>scano;congiuntivo_presente loro uscire
-01100;Fue bueno que yo saliera / saliese;Era bello che io uscissi;congiuntivo_passato io uscire
-01101;Fue bueno que tú salieras / salieses;Era bello che tu uscissi;congiuntivo_passato tu uscire
-01102;Fue bueno que él/ella saliera / saliese;Era bello che lui/lei uscisse;congiuntivo_passato lui_lei uscire
-01103;Fue bueno que nosotros saliéramos / saliésemos;Era bello che noi usc<i><b>i</b></i>ssimo;congiuntivo_passato noi uscire
-01104;Fue bueno que vosotros salierais / salieseis;Era bello che voi usciste;congiuntivo_passato uscire voi
-01105;Fue bueno que ellos salieran / saliesen;Era bello che loro usc<i><b>i</b></i>ssero;congiuntivo_passato loro uscire
+01100;Fue bueno que yo saliera / saliese;Era bello che io uscissi;congiuntivo_imperfetto io uscire
+01101;Fue bueno que tú salieras / salieses;Era bello che tu uscissi;congiuntivo_imperfetto tu uscire
+01102;Fue bueno que él/ella saliera / saliese;Era bello che lui/lei uscisse;congiuntivo_imperfetto lui_lei uscire
+01103;Fue bueno que nosotros saliéramos / saliésemos;Era bello che noi usc<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi uscire
+01104;Fue bueno que vosotros salierais / salieseis;Era bello che voi usciste;congiuntivo_imperfetto uscire voi
+01105;Fue bueno que ellos salieran / saliesen;Era bello che loro usc<i><b>i</b></i>ssero;congiuntivo_imperfetto loro uscire
 01106;¡Sal!;Esci!;imperativo tu uscire
 01107;¡Salga!;Esca!;imperativo lui_lei uscire
 01108;¡Salgamos!;Usciamo!;imperativo noi uscire
@@ -1272,12 +1272,12 @@
 01148;Parece divertido que nosotros prendamos;Sembra divertente che noi prendiamo;congiuntivo_presente noi prendere
 01149;Parece divertido que vosotros prendáis;Sembra divertente che voi prendiate;congiuntivo_presente prendere voi
 01150;Parece divertido que ellos prendan;Sembra divertente che loro pr<i><b>e</b></i>ndano;congiuntivo_presente loro prendere
-01151;Fue bueno que yo prendiera / prendiese;Era bello che io prendessi;congiuntivo_passato io prendere
-01152;Fue bueno que tú prendieras / prendieses;Era bello che tu prendessi;congiuntivo_passato prendere tu
-01153;Fue bueno que él/ella prendiera / prendiese;Era bello che lui/lei prendesse;congiuntivo_passato lui_lei prendere
-01154;Fue bueno que nosotros prendiéramos /prendiésemos;Era bello che noi prend<i><b>e</b></i>ssimo;congiuntivo_passato noi prendere
-01155;Fue bueno que vosotros prendierais / prendieseis;Era bello che voi prendeste;congiuntivo_passato prendere voi
-01156;Fue bueno que ellos prendieran / prendiesen;Era bello che loro prend<i><b>e</b></i>ssero;congiuntivo_passato loro prendere
+01151;Fue bueno que yo prendiera / prendiese;Era bello che io prendessi;congiuntivo_imperfetto io prendere
+01152;Fue bueno que tú prendieras / prendieses;Era bello che tu prendessi;congiuntivo_imperfetto prendere tu
+01153;Fue bueno que él/ella prendiera / prendiese;Era bello che lui/lei prendesse;congiuntivo_imperfetto lui_lei prendere
+01154;Fue bueno que nosotros prendiéramos /prendiésemos;Era bello che noi prend<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi prendere
+01155;Fue bueno que vosotros prendierais / prendieseis;Era bello che voi prendeste;congiuntivo_imperfetto prendere voi
+01156;Fue bueno que ellos prendieran / prendiesen;Era bello che loro prend<i><b>e</b></i>ssero;congiuntivo_imperfetto loro prendere
 01157;¡Prende!;Prendi!;imperativo prendere tu
 01158;¡Prenda!;Prenda!;imperativo lui_lei prendere
 01159;¡Prendamos!;Prendiamo!;imperativo noi prendere
@@ -1326,12 +1326,12 @@
 01199;Parece divertido que nosotros elijamos;Sembra divertente che noi scegliamo;congiuntivo_presente noi scegliere
 01200;Parece divertido que vosotros elijáis;Sembra divertente che voi scegliate;congiuntivo_presente scegliere voi
 01201;Parece divertido que ellos elijan;Sembra divertente che loro sc<i><b>e</b></i>lgano;congiuntivo_presente loro scegliere
-01202;Fue bueno que yo eligiera / eligiese;Era bello che io scegliessi;congiuntivo_passato io scegliere
-01203;Fue bueno que tú eligieras / eligieses;Era bello che tu scegliessi;congiuntivo_passato scegliere tu
-01204;Fue bueno que él/ella eligiera / eligiese;Era bello che lui/lei scegliesse;congiuntivo_passato lui_lei scegliere
-01205;Fue bueno que nosotros eligiéramos / eligiésemos;Era bello che noi scegli<i><b>e</b></i>ssimo;congiuntivo_passato noi scegliere
-01206;Fue bueno que vosotros eligierais / eligieseis;Era bello che voi sceglieste;congiuntivo_passato scegliere voi
-01207;Fue bueno que ellos eligieran / eligiesen;Era bello che loro scegli<i><b>e</b></i>ssero;congiuntivo_passato loro scegliere
+01202;Fue bueno que yo eligiera / eligiese;Era bello che io scegliessi;congiuntivo_imperfetto io scegliere
+01203;Fue bueno que tú eligieras / eligieses;Era bello che tu scegliessi;congiuntivo_imperfetto scegliere tu
+01204;Fue bueno que él/ella eligiera / eligiese;Era bello che lui/lei scegliesse;congiuntivo_imperfetto lui_lei scegliere
+01205;Fue bueno que nosotros eligiéramos / eligiésemos;Era bello che noi scegli<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi scegliere
+01206;Fue bueno que vosotros eligierais / eligieseis;Era bello che voi sceglieste;congiuntivo_imperfetto scegliere voi
+01207;Fue bueno que ellos eligieran / eligiesen;Era bello che loro scegli<i><b>e</b></i>ssero;congiuntivo_imperfetto loro scegliere
 01208;¡Elige!;Scegli!;imperativo scegliere tu
 01209;¡Elija!;Scelga!;imperativo lui_lei scegliere
 01210;¡Elijamos!;Scegliamo!;imperativo noi scegliere
@@ -1380,12 +1380,12 @@
 01250;Parece divertido que nosotros atraigamos;Sembra divertente che noi attraiamo;attrarre congiuntivo_presente noi
 01251;Parece divertido que vosotros atraigáis;Sembra divertente che voi attraiate;attrarre congiuntivo_presente voi
 01252;Parece divertido que ellos atraigan;Sembra divertente che loro attr<i><b>a</b></i>ggano;attrarre congiuntivo_presente loro
-01253;Fue bueno que yo atrajera / atrajese;Era bello che io attraessi;attrarre congiuntivo_passato io
-01254;Fue bueno que tú atrajeras / atrajeses;Era bello che tu attraessi;attrarre congiuntivo_passato tu
-01255;Fue bueno que él/ella atrajera / atrajese;Era bello che lui/lei attraesse;attrarre congiuntivo_passato lui_lei
-01256;Fue bueno que nosotros atrajéramos / atrajésemos;Era bello che noi attra<i><b>e</b></i>ssimo;attrarre congiuntivo_passato noi
-01257;Fue bueno que vosotros atrajerais / atrajeseis;Era bello che voi attraeste;attrarre congiuntivo_passato voi
-01258;Fue bueno que ellos atrajeran / atrajesen;Era bello che loro attra<i><b>e</b></i>ssero;attrarre congiuntivo_passato loro
+01253;Fue bueno que yo atrajera / atrajese;Era bello che io attraessi;attrarre congiuntivo_imperfetto io
+01254;Fue bueno que tú atrajeras / atrajeses;Era bello che tu attraessi;attrarre congiuntivo_imperfetto tu
+01255;Fue bueno que él/ella atrajera / atrajese;Era bello che lui/lei attraesse;attrarre congiuntivo_imperfetto lui_lei
+01256;Fue bueno que nosotros atrajéramos / atrajésemos;Era bello che noi attra<i><b>e</b></i>ssimo;attrarre congiuntivo_imperfetto noi
+01257;Fue bueno que vosotros atrajerais / atrajeseis;Era bello che voi attraeste;attrarre congiuntivo_imperfetto voi
+01258;Fue bueno que ellos atrajeran / atrajesen;Era bello che loro attra<i><b>e</b></i>ssero;attrarre congiuntivo_imperfetto loro
 01259;¡Atrae!;Attrai!;attrarre imperativo tu
 01260;¡Atraiga!;Attragga!;attrarre imperativo lui_lei
 01261;¡Atraigamos!;Attraiamo!;attrarre imperativo noi
@@ -1434,12 +1434,12 @@
 01301;Parece divertido que nosotros pongamos;Sembra divertente che noi poniamo;congiuntivo_presente noi porre
 01302;Parece divertido que vosotros pongáis;Sembra divertente che voi poniate;congiuntivo_presente porre voi
 01303;Parece divertido que ellos pongan;Sembra divertente che loro p<i><b>o</b></i>ngano;congiuntivo_presente loro porre
-01304;Fue bueno que yo pusiera / pusiese;Era bello che io ponessi;congiuntivo_passato io porre
-01305;Fue bueno que tú pusieras / pusieses;Era bello che tu ponessi;congiuntivo_passato porre tu
-01306;Fue bueno que él/ella pusiera / pusiese;Era bello che lui/lei ponesse;congiuntivo_passato lui_lei porre
-01307;Fue bueno que nosotros pusiéramos / pusiésemos;Era bello che noi pon<i><b>e</b></i>ssimo;congiuntivo_passato noi porre
-01308;Fue bueno que vosotros pusierais / pusieseis;Era bello che voi poneste;congiuntivo_passato porre voi
-01309;Fue bueno que ellos pusieran / pusiesen;Era bello che loro pon<i><b>e</b></i>ssero;congiuntivo_passato loro porre
+01304;Fue bueno que yo pusiera / pusiese;Era bello che io ponessi;congiuntivo_imperfetto io porre
+01305;Fue bueno que tú pusieras / pusieses;Era bello che tu ponessi;congiuntivo_imperfetto porre tu
+01306;Fue bueno que él/ella pusiera / pusiese;Era bello che lui/lei ponesse;congiuntivo_imperfetto lui_lei porre
+01307;Fue bueno que nosotros pusiéramos / pusiésemos;Era bello che noi pon<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi porre
+01308;Fue bueno que vosotros pusierais / pusieseis;Era bello che voi poneste;congiuntivo_imperfetto porre voi
+01309;Fue bueno que ellos pusieran / pusiesen;Era bello che loro pon<i><b>e</b></i>ssero;congiuntivo_imperfetto loro porre
 01310;¡Pon!;Poni!;imperativo porre tu
 01311;¡Ponga!;Ponga!;imperativo lui_lei porre
 01312;¡Pongamos!;Poniamo!;imperativo noi porre
@@ -1488,12 +1488,12 @@
 01352;Parece divertido que nosotros conduzcamos;Sembra divertente che noi conduciamo;condurre congiuntivo_presente noi
 01353;Parece divertido que vosotros conduzcáis;Sembra divertente che voi conduciate;condurre congiuntivo_presente voi
 01354;Parece divertido que ellos conduzcan;Sembra divertente che loro cond<i><b>u</b></i>cano;condurre congiuntivo_presente loro
-01355;Fue bueno que yo condujera / condujese;Era bello che io conducessi;condurre congiuntivo_passato io
-01356;Fue bueno que tú condujeras / condujeses;Era bello che tu conducessi;condurre congiuntivo_passato tu
-01357;Fue bueno que él/ella condujera / condujese;Era bello che lui/lei conducesse;condurre congiuntivo_passato lui_lei
-01358;Fue bueno que nosotros condujéramos / condujésemos;Era bello che noi conduc<i><b>e</b></i>ssimo;condurre congiuntivo_passato noi
-01359;Fue bueno que vosotros condujerais / condujeseis;Era bello che voi conduceste;condurre congiuntivo_passato voi
-01360;Fue bueno que ellos condujeran / condujesen;Era bello che loro conduc<i><b>e</b></i>ssero;condurre congiuntivo_passato loro
+01355;Fue bueno que yo condujera / condujese;Era bello che io conducessi;condurre congiuntivo_imperfetto io
+01356;Fue bueno que tú condujeras / condujeses;Era bello che tu conducessi;condurre congiuntivo_imperfetto tu
+01357;Fue bueno que él/ella condujera / condujese;Era bello che lui/lei conducesse;condurre congiuntivo_imperfetto lui_lei
+01358;Fue bueno que nosotros condujéramos / condujésemos;Era bello che noi conduc<i><b>e</b></i>ssimo;condurre congiuntivo_imperfetto noi
+01359;Fue bueno que vosotros condujerais / condujeseis;Era bello che voi conduceste;condurre congiuntivo_imperfetto voi
+01360;Fue bueno que ellos condujeran / condujesen;Era bello che loro conduc<i><b>e</b></i>ssero;condurre congiuntivo_imperfetto loro
 01361;¡Conduce!;Conduci!;condurre imperativo tu
 01362;¡Conduzca!;Conduca!;condurre imperativo lui_lei
 01363;¡Conduzcamos!;Conduciamo!;condurre imperativo noi
@@ -1542,12 +1542,12 @@
 01403;Parece divertido que nosotros leamos;Sembra divertente che noi leggiamo;congiuntivo_presente leggere noi
 01404;Parece divertido que vosotros leáis;Sembra divertente che voi leggiate;congiuntivo_presente leggere voi
 01405;Parece divertido que ellos lean;Sembra divertente che loro l<i><b>e</b></i>ggano;congiuntivo_presente leggere loro
-01406;Fue bueno que yo leyera / leyese;Era bello che io leggessi;congiuntivo_passato io leggere
-01407;Fue bueno que tú leyeras / leyeses;Era bello che tu leggessi;congiuntivo_passato leggere tu
-01408;Fue bueno que él/ella leyera / leyese;Era bello che lui/lei leggesse;congiuntivo_passato leggere lui_lei
-01409;Fue bueno que nosotros leyéramos / leyésemos;Era bello che noi legg<i><b>e</b></i>ssimo;congiuntivo_passato leggere noi
-01410;Fue bueno que vosotros leyerais / leyeseis;Era bello che voi leggeste;congiuntivo_passato leggere voi
-01411;Fue bueno que ellos leyeran / leyesen;Era bello che loro legg<i><b>e</b></i>ssero;congiuntivo_passato leggere loro
+01406;Fue bueno que yo leyera / leyese;Era bello che io leggessi;congiuntivo_imperfetto io leggere
+01407;Fue bueno que tú leyeras / leyeses;Era bello che tu leggessi;congiuntivo_imperfetto leggere tu
+01408;Fue bueno que él/ella leyera / leyese;Era bello che lui/lei leggesse;congiuntivo_imperfetto leggere lui_lei
+01409;Fue bueno que nosotros leyéramos / leyésemos;Era bello che noi legg<i><b>e</b></i>ssimo;congiuntivo_imperfetto leggere noi
+01410;Fue bueno que vosotros leyerais / leyeseis;Era bello che voi leggeste;congiuntivo_imperfetto leggere voi
+01411;Fue bueno que ellos leyeran / leyesen;Era bello che loro legg<i><b>e</b></i>ssero;congiuntivo_imperfetto leggere loro
 01412;¡Lee!;Leggi!;imperativo leggere tu
 01413;¡Lea!;Legga!;imperativo leggere lui_lei
 01414;¡Leamos!;Leggiamo!;imperativo leggere noi
@@ -1596,12 +1596,12 @@
 01454;Parece divertido que nosotros parezcamos;Sembra divertente che noi paiamo / pariamo;congiuntivo_presente noi parere
 01455;Parece divertido que vosotros parezcáis;Sembra divertente che voi paiate / pariate;congiuntivo_presente parere voi
 01456;Parece divertido que ellos parezcan;Sembra divertente che loro p<i><b>a</b></i>iano;congiuntivo_presente loro parere
-01457;Fue bueno que yo pareciera / pareciese;Era bello che io paressi;congiuntivo_passato io parere
-01458;Fue bueno que tú parecieras / parecieses;Era bello che tu paressi;congiuntivo_passato parere tu
-01459;Fue bueno que él/ella pareciera / pareciese;Era bello che lui/lei paresse;congiuntivo_passato lui_lei parere
-01460;Fue bueno que nosotros pareciéramos / pareciésemos;Era bello che noi par<i><b>e</b></i>ssimo;congiuntivo_passato noi parere
-01461;Fue bueno que vosotros parecierais / parecieseis;Era bello che voi pareste;congiuntivo_passato parere voi
-01462;Fue bueno que ellos parecieran / pareciesen;Era bello che loro par<i><b>e</b></i>ssero;congiuntivo_passato loro parere
+01457;Fue bueno que yo pareciera / pareciese;Era bello che io paressi;congiuntivo_imperfetto io parere
+01458;Fue bueno que tú parecieras / parecieses;Era bello che tu paressi;congiuntivo_imperfetto parere tu
+01459;Fue bueno que él/ella pareciera / pareciese;Era bello che lui/lei paresse;congiuntivo_imperfetto lui_lei parere
+01460;Fue bueno que nosotros pareciéramos / pareciésemos;Era bello che noi par<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi parere
+01461;Fue bueno que vosotros parecierais / parecieseis;Era bello che voi pareste;congiuntivo_imperfetto parere voi
+01462;Fue bueno que ellos parecieran / pareciesen;Era bello che loro par<i><b>e</b></i>ssero;congiuntivo_imperfetto loro parere
 #
 # Bere
 #
@@ -1645,12 +1645,12 @@
 01500;Parece divertido que nosotros bebamos;Sembra divertente che noi beviamo;bere congiuntivo_presente noi
 01501;Parece divertido que vosotros bebáis;Sembra divertente che voi beviate;bere congiuntivo_presente voi
 01502;Parece divertido que ellos beban;Sembra divertente che loro b<i><b>e</b></i>vano;bere congiuntivo_presente loro
-01503;Fue bueno que yo bebiera / bebiese;Era bello che io bevessi;bere congiuntivo_passato io
-01504;Fue bueno que tú bebieras / bebieses;Era bello che tu bevessi;bere congiuntivo_passato tu
-01505;Fue bueno que él/ella bebiera / bebiese;Era bello che lui/lei bevesse;bere congiuntivo_passato lui_lei
-01506;Fue bueno que nosotros bebiéramos / bebiésemos;Era bello che noi bev<i><b>e</b></i>ssimo;bere congiuntivo_passato noi
-01507;Fue bueno que vosotros bebierais / bebieseis;Era bello che voi beveste;bere congiuntivo_passato voi
-01508;Fue bueno que ellos bebieran / bebiesen;Era bello che loro bev<i><b>e</b></i>ssero;bere congiuntivo_passato loro
+01503;Fue bueno que yo bebiera / bebiese;Era bello che io bevessi;bere congiuntivo_imperfetto io
+01504;Fue bueno que tú bebieras / bebieses;Era bello che tu bevessi;bere congiuntivo_imperfetto tu
+01505;Fue bueno que él/ella bebiera / bebiese;Era bello che lui/lei bevesse;bere congiuntivo_imperfetto lui_lei
+01506;Fue bueno que nosotros bebiéramos / bebiésemos;Era bello che noi bev<i><b>e</b></i>ssimo;bere congiuntivo_imperfetto noi
+01507;Fue bueno que vosotros bebierais / bebieseis;Era bello che voi beveste;bere congiuntivo_imperfetto voi
+01508;Fue bueno que ellos bebieran / bebiesen;Era bello che loro bev<i><b>e</b></i>ssero;bere congiuntivo_imperfetto loro
 01509;¡Bebe!;Bevi!;bere imperativo tu
 01510;¡Beba!;Beva!;bere imperativo lui_lei
 01511;¡Bebamos!;Beviamo!;bere imperativo noi
@@ -1699,12 +1699,12 @@
 01551;Parece divertido que nosotros nos sentemos;Sembra divertente che noi sediamo;congiuntivo_presente noi sedere
 01552;Parece divertido que vosotros os sentéis;Sembra divertente che voi sediate;congiuntivo_presente sedere voi
 01553;Parece divertido que ellos se sienten;Sembra divertente che loro si<i><b>e</b></i>dano / s<i><b>e</b></i>ggano [lit];congiuntivo_presente loro sedere
-01554;Fue bueno que yo me sentara / sentase;Era bello che io sedessi;congiuntivo_passato io sedere
-01555;Fue bueno que tú te sentaras /sentases;Era bello che tu sedessi;congiuntivo_passato sedere tu
-01556;Fue bueno que él/ella se sentara / sentase;Era bello che lui/lei sedesse;congiuntivo_passato lui_lei sedere
-01557;Fue bueno que nosotros nos sentáramos / sentásemos;Era bello che noi sed<i><b>e</b></i>ssimo;congiuntivo_passato noi sedere
-01558;Fue bueno que vosotros os sentarais /sentaseis;Era bello che voi sedeste;congiuntivo_passato sedere voi
-01559;Fue bueno que ellos se sentaran / sentasen;Era bello che loro sed<i><b>e</b></i>ssero;congiuntivo_passato loro sedere
+01554;Fue bueno que yo me sentara / sentase;Era bello che io sedessi;congiuntivo_imperfetto io sedere
+01555;Fue bueno que tú te sentaras /sentases;Era bello che tu sedessi;congiuntivo_imperfetto sedere tu
+01556;Fue bueno que él/ella se sentara / sentase;Era bello che lui/lei sedesse;congiuntivo_imperfetto lui_lei sedere
+01557;Fue bueno que nosotros nos sentáramos / sentásemos;Era bello che noi sed<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi sedere
+01558;Fue bueno que vosotros os sentarais /sentaseis;Era bello che voi sedeste;congiuntivo_imperfetto sedere voi
+01559;Fue bueno que ellos se sentaran / sentasen;Era bello che loro sed<i><b>e</b></i>ssero;congiuntivo_imperfetto loro sedere
 01560;¡Siéntate!;Siedi!;imperativo sedere tu
 01561;¡Siéntese!;Sieda! / Segga! [lit];imperativo lui_lei sedere
 01562;¡Sentémonos!;Sediamo!;imperativo noi sedere
@@ -1753,12 +1753,12 @@
 01602;Parece divertido que nosotros valgamos;Sembra divertente che noi valiamo;congiuntivo_presente noi valere
 01603;Parece divertido que vosotros valgáis;Sembra divertente che voi valiate;congiuntivo_presente valere voi
 01604;Parece divertido que ellos valgan;Sembra divertente che loro v<i><b>a</b></i>lgano;congiuntivo_presente loro valere
-01605;Fue bueno que yo valiera / valiese;Era bello che io valessi;congiuntivo_passato io valere
-01606;Fue bueno que tú valieras / valieses;Era bello che tu valessi;congiuntivo_passato tu valere
-01607;Fue bueno que él/ella valiera / valiese;Era bello che lui/lei valesse;congiuntivo_passato lui_lei valere
-01608;Fue bueno que nosotros valiéramos / valiésemos;Era bello che noi val<i><b>e</b></i>ssimo;congiuntivo_passato noi valere
-01609;Fue bueno que vosotros valierais / valieseis;Era bello che voi valeste;congiuntivo_passato valere voi
-01610;Fue bueno que ellos valieran / valiesen;Era bello che loro val<i><b>e</b></i>ssero;congiuntivo_passato loro valere
+01605;Fue bueno que yo valiera / valiese;Era bello che io valessi;congiuntivo_imperfetto io valere
+01606;Fue bueno que tú valieras / valieses;Era bello che tu valessi;congiuntivo_imperfetto tu valere
+01607;Fue bueno que él/ella valiera / valiese;Era bello che lui/lei valesse;congiuntivo_imperfetto lui_lei valere
+01608;Fue bueno que nosotros valiéramos / valiésemos;Era bello che noi val<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi valere
+01609;Fue bueno que vosotros valierais / valieseis;Era bello che voi valeste;congiuntivo_imperfetto valere voi
+01610;Fue bueno que ellos valieran / valiesen;Era bello che loro val<i><b>e</b></i>ssero;congiuntivo_imperfetto loro valere
 01611;¡Vale!;Vali!;imperativo tu valere
 01612;¡Valga!;Valga!;imperativo lui_lei valere
 01613;¡Valgamos!;Valiamo!;imperativo noi valere
@@ -1807,12 +1807,12 @@
 01653;Parece divertido que nosotros permanezcamos;Sembra divertente che noi rimaniamo;congiuntivo_presente noi rimanere
 01654;Parece divertido que vosotros permanezcáis;Sembra divertente che voi rimaniate;congiuntivo_presente rimanere voi
 01655;Parece divertido que ellos permanezcan;Sembra divertente che loro rim<i><b>a</b></i>ngano;congiuntivo_presente loro rimanere
-01656;Fue bueno que yo permaneciera / permaneciese;Era bello che io rimanessi;congiuntivo_passato io rimanere
-01657;Fue bueno que tú permanecieras / permanecieses;Era bello che tu rimanessi;congiuntivo_passato rimanere tu
-01658;Fue bueno que él/ella permaneciera / permaneciese;Era bello che lui/lei rimanesse;congiuntivo_passato lui_lei rimanere
-01659;Fue bueno que nosotros permaneciéramos / permaneciésemos;Era bello che noi riman<i><b>e</b></i>ssimo;congiuntivo_passato noi rimanere
-01660;Fue bueno que vosotros permanecierais / permanecieseis;Era bello che voi rimaneste;congiuntivo_passato rimanere voi
-01661;Fue bueno que ellos permanecieran / permaneciesen;Era bello che loro riman<i><b>e</b></i>ssero;congiuntivo_passato loro rimanere
+01656;Fue bueno que yo permaneciera / permaneciese;Era bello che io rimanessi;congiuntivo_imperfetto io rimanere
+01657;Fue bueno que tú permanecieras / permanecieses;Era bello che tu rimanessi;congiuntivo_imperfetto rimanere tu
+01658;Fue bueno que él/ella permaneciera / permaneciese;Era bello che lui/lei rimanesse;congiuntivo_imperfetto lui_lei rimanere
+01659;Fue bueno que nosotros permaneciéramos / permaneciésemos;Era bello che noi riman<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rimanere
+01660;Fue bueno que vosotros permanecierais / permanecieseis;Era bello che voi rimaneste;congiuntivo_imperfetto rimanere voi
+01661;Fue bueno que ellos permanecieran / permaneciesen;Era bello che loro riman<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rimanere
 01662;¡Permanece!;Rimani!;imperativo rimanere tu
 01663;¡Permanezca!;Rimanga!;imperativo lui_lei rimanere
 01664;¡Permanezcamos!;Rimaniamo!;imperativo noi rimanere
@@ -1861,12 +1861,12 @@
 01704;Parece divertido que nosotros aparezcamos;Sembra divertente che noi appariamo;apparire congiuntivo_presente noi
 01705;Parece divertido que vosotros aparezcáis;Sembra divertente che voi appariate;apparire congiuntivo_presente voi
 01706;Parece divertido que ellos aparezcan;Sembra divertente che loro app<i><b>a</b></i>iano / appar<i><b>i</b></i>scano;apparire congiuntivo_presente loro
-01707;Fue bueno que yo apareciera / apareciese;Era bello che io apparissi;apparire congiuntivo_passato io
-01708;Fue bueno que tú aparecieras / aparecieses;Era bello che tu apparissi;apparire congiuntivo_passato tu
-01709;Fue bueno que él/ella apareciera / apareciese;Era bello che lui/lei apparisse;apparire congiuntivo_passato lui_lei
-01710;Fue bueno que nosotros apareciéramos / apareciésemos;Era bello che noi appar<i><b>i</b></i>ssimo;apparire congiuntivo_passato noi
-01711;Fue bueno que vosotros aparecierais / aparecieseis;Era bello che voi appariste;apparire congiuntivo_passato voi
-01712;Fue bueno que ellos aparecieran / apareciesen;Era bello che loro appar<i><b>i</b></i>ssero;apparire congiuntivo_passato loro
+01707;Fue bueno que yo apareciera / apareciese;Era bello che io apparissi;apparire congiuntivo_imperfetto io
+01708;Fue bueno que tú aparecieras / aparecieses;Era bello che tu apparissi;apparire congiuntivo_imperfetto tu
+01709;Fue bueno que él/ella apareciera / apareciese;Era bello che lui/lei apparisse;apparire congiuntivo_imperfetto lui_lei
+01710;Fue bueno que nosotros apareciéramos / apareciésemos;Era bello che noi appar<i><b>i</b></i>ssimo;apparire congiuntivo_imperfetto noi
+01711;Fue bueno que vosotros aparecierais / aparecieseis;Era bello che voi appariste;apparire congiuntivo_imperfetto voi
+01712;Fue bueno que ellos aparecieran / apareciesen;Era bello che loro appar<i><b>i</b></i>ssero;apparire congiuntivo_imperfetto loro
 01713;¡Aparece!;Appari! / Apparisci!;apparire imperativo tu
 01714;¡Aparezca!;App<i><b>a</b></i>ia! / Apparisca!;apparire imperativo lui_lei
 01715;¡Aparezcamos!;Appariamo!;apparire imperativo noi
@@ -1915,12 +1915,12 @@
 01755;Parece divertido que nosotros muramos;Sembra divertente che noi moriamo;congiuntivo_presente morire noi
 01756;Parece divertido que vosotros muráis;Sembra divertente che voi moriate;congiuntivo_presente morire voi
 01757;Parece divertido que ellos mueran;Sembra divertente che loro mu<i><b>o</b></i>iano;congiuntivo_presente loro morire
-01758;Fue bueno que yo muriera / muriese;Era bello che io morissi;congiuntivo_passato io morire
-01759;Fue bueno que tú murieras / murieses;Era bello che tu morissi;congiuntivo_passato morire tu
-01760;Fue bueno que él/ella muriera / muriese;Era bello che lui/lei morisse;congiuntivo_passato lui_lei morire
-01761;Fue bueno que nosotros muriéramos / muriésemos;Era bello che noi mor<i><b>i</b></i>ssimo;congiuntivo_passato morire noi
-01762;Fue bueno que vosotros murierais / murieseis;Era bello che voi moriste;congiuntivo_passato morire voi
-01763;Fue bueno que ellos murieran / muriesen;Era bello che loro mor<i><b>i</b></i>ssero;congiuntivo_passato loro morire
+01758;Fue bueno que yo muriera / muriese;Era bello che io morissi;congiuntivo_imperfetto io morire
+01759;Fue bueno que tú murieras / murieses;Era bello che tu morissi;congiuntivo_imperfetto morire tu
+01760;Fue bueno que él/ella muriera / muriese;Era bello che lui/lei morisse;congiuntivo_imperfetto lui_lei morire
+01761;Fue bueno que nosotros muriéramos / muriésemos;Era bello che noi mor<i><b>i</b></i>ssimo;congiuntivo_imperfetto morire noi
+01762;Fue bueno que vosotros murierais / murieseis;Era bello che voi moriste;congiuntivo_imperfetto morire voi
+01763;Fue bueno que ellos murieran / muriesen;Era bello che loro mor<i><b>i</b></i>ssero;congiuntivo_imperfetto loro morire
 01764;¡Muere!;Muori!;imperativo morire tu
 01765;¡Muera!;Mu<i><b>o</b></i>ia!;imperativo lui_lei morire
 01766;¡Muramos!;Moriamo!;imperativo morire noi
@@ -1969,12 +1969,12 @@
 01806;Parece divertido que nosotros subamos;Sembra divertente che noi saliamo;congiuntivo_presente noi salire
 01807;Parece divertido que vosotros subáis;Sembra divertente che voi saliate;congiuntivo_presente salire voi
 01808;Parece divertido que ellos suban;Sembra divertente che loro s<i><b>a</b></i>lgano;congiuntivo_presente loro salire
-01809;Fue bueno que yo subiera / subiese;Era bello che io salissi;congiuntivo_passato io salire
-01810;Fue bueno que tú subieras / subieses;Era bello che tu salissi;congiuntivo_passato salire tu
-01811;Fue bueno que él/ella subiera / subiese;Era bello che lui/lei salisse;congiuntivo_passato lui_lei salire
-01812;Fue bueno que nosotros subiéramos / subiésemos;Era bello che noi sal<i><b>i</b></i>ssimo;congiuntivo_passato noi salire
-01813;Fue bueno que vosotros subierais / subieseis;Era bello che voi saliste;congiuntivo_passato salire voi
-01814;Fue bueno que ellos subieran / subiesen;Era bello che loro sal<i><b>i</b></i>ssero;congiuntivo_passato loro salire
+01809;Fue bueno que yo subiera / subiese;Era bello che io salissi;congiuntivo_imperfetto io salire
+01810;Fue bueno que tú subieras / subieses;Era bello che tu salissi;congiuntivo_imperfetto salire tu
+01811;Fue bueno que él/ella subiera / subiese;Era bello che lui/lei salisse;congiuntivo_imperfetto lui_lei salire
+01812;Fue bueno que nosotros subiéramos / subiésemos;Era bello che noi sal<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi salire
+01813;Fue bueno que vosotros subierais / subieseis;Era bello che voi saliste;congiuntivo_imperfetto salire voi
+01814;Fue bueno que ellos subieran / subiesen;Era bello che loro sal<i><b>i</b></i>ssero;congiuntivo_imperfetto loro salire
 01815;¡Sube!;Sali!;imperativo salire tu
 01816;¡Suba!;Salga!;imperativo lui_lei salire
 01817;¡Subamos!;Saliamo!;imperativo noi salire
@@ -2023,12 +2023,12 @@
 01857;Parece divertido que nosotros cozamos;Sembra divertente che noi cuociamo / cociamo;congiuntivo_presente cuocere noi
 01858;Parece divertido que vosotros cozáis;Sembra divertente che voi cuociate / cociate;congiuntivo_presente cuocere voi
 01859;Parece divertido que ellos cuezan;Sembra divertente che loro cu<i><b>o</b></i>ciano / c<i><b>o</b></i>ciano;congiuntivo_presente cuocere loro
-01860;Fue bueno que yo cociera / cociese;Era bello che io cuocessi / cocessi;congiuntivo_passato cuocere io
-01861;Fue bueno que tú cocieras / cocieses;Era bello che tu cuocessi / cocessi;congiuntivo_passato cuocere tu
-01862;Fue bueno que él/ella cociera / cociese;Era bello che lui/lei cuocesse / cocesse;congiuntivo_passato cuocere lui_lei
-01863;Fue bueno que nosotros cociéramos / cociésemos;Era bello che noi cuoc<i><b>e</b></i>ssimo / coc<i><b>e</b></i>ssimo;congiuntivo_passato cuocere noi
-01864;Fue bueno que vosotros cocieriais / cocieseis;Era bello che voi cuoceste / coceste;congiuntivo_passato cuocere voi
-01865;Fue bueno que ellos cocieran / cociesen;Era bello che loro cuoc<i><b>e</b></i>ssero / coc<i><b>e</b></i>ssero;congiuntivo_passato cuocere loro
+01860;Fue bueno que yo cociera / cociese;Era bello che io cuocessi / cocessi;congiuntivo_imperfetto cuocere io
+01861;Fue bueno que tú cocieras / cocieses;Era bello che tu cuocessi / cocessi;congiuntivo_imperfetto cuocere tu
+01862;Fue bueno que él/ella cociera / cociese;Era bello che lui/lei cuocesse / cocesse;congiuntivo_imperfetto cuocere lui_lei
+01863;Fue bueno que nosotros cociéramos / cociésemos;Era bello che noi cuoc<i><b>e</b></i>ssimo / coc<i><b>e</b></i>ssimo;congiuntivo_imperfetto cuocere noi
+01864;Fue bueno que vosotros cocieriais / cocieseis;Era bello che voi cuoceste / coceste;congiuntivo_imperfetto cuocere voi
+01865;Fue bueno que ellos cocieran / cociesen;Era bello che loro cuoc<i><b>e</b></i>ssero / coc<i><b>e</b></i>ssero;congiuntivo_imperfetto cuocere loro
 01866;¡Cuece!;Cuoci!;cuocere imperativo tu
 01867;¡Cueza!;Cu<i><b>o</b></i>cia!;cuocere imperativo lui_lei
 01868;¡Cozamos!;Cuociamo! / Cociamo!;cuocere imperativo noi
@@ -2077,12 +2077,12 @@
 01908;Parece divertido que nosotros apaguemos;Sembra divertente che noi spegniamo;congiuntivo_presente noi spegnere
 01909;Parece divertido que vosotros apaguéis;Sembra divertente che voi spegniate;congiuntivo_presente spegnere voi
 01910;Parece divertido que ellos apaguen;Sembra divertente che loro sp<i><b>e</b></i>ngano;congiuntivo_presente loro spegnere
-01911;Fue bueno que yo apagara / apagase;Era bello che io spegnessi;congiuntivo_passato io spegnere
-01912;Fue bueno que tú apagaras / apagases;Era bello che tu spegnessi;congiuntivo_passato spegnere tu
-01913;Fue bueno que él/ella apagara / apagase;Era bello che lui/lei spegnesse;congiuntivo_passato lui_lei spegnere
-01914;Fue bueno que nosotros apagáramos / apagásemos;Era bello che noi spegn<i><b>e</b></i>ssimo;congiuntivo_passato noi spegnere
-01915;Fue bueno que vosotros apagarais / apagaseis;Era bello che voi spegneste;congiuntivo_passato spegnere voi
-01916;Fue bueno que ellos apagaran / apagasen;Era bello che loro spegn<i><b>e</b></i>ssero;congiuntivo_passato loro spegnere
+01911;Fue bueno que yo apagara / apagase;Era bello che io spegnessi;congiuntivo_imperfetto io spegnere
+01912;Fue bueno que tú apagaras / apagases;Era bello che tu spegnessi;congiuntivo_imperfetto spegnere tu
+01913;Fue bueno que él/ella apagara / apagase;Era bello che lui/lei spegnesse;congiuntivo_imperfetto lui_lei spegnere
+01914;Fue bueno que nosotros apagáramos / apagásemos;Era bello che noi spegn<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi spegnere
+01915;Fue bueno que vosotros apagarais / apagaseis;Era bello che voi spegneste;congiuntivo_imperfetto spegnere voi
+01916;Fue bueno que ellos apagaran / apagasen;Era bello che loro spegn<i><b>e</b></i>ssero;congiuntivo_imperfetto loro spegnere
 01917;¡Apaga!;Spegni!;imperativo spegnere tu
 01918;¡Apague!;Spenga!;imperativo lui_lei spegnere
 01919;¡Apaguemos!;Spegniamo!;imperativo noi spegnere
@@ -2131,12 +2131,12 @@
 01959;Parece divertido que nosotros metamos;Sembra divertente che noi mettiamo;congiuntivo_presente mettere noi
 01960;Parece divertido que vosotros metáis;Sembra divertente che voi mettiate;congiuntivo_presente mettere voi
 01961;Parece divertido que ellos metan;Sembra divertente che loro m<i><b>e</b></i>ttano;congiuntivo_presente loro mettere
-01962;Fue bueno que yo metiera / metiese;Era bello che io mettessi;congiuntivo_passato io mettere
-01963;Fue bueno que tú metieras / metieses;Era bello che tu mettessi;congiuntivo_passato mettere tu
-01964;Fue bueno que él/ella metiera / metiese;Era bello che lui/lei mettesse;congiuntivo_passato lui_lei mettere
-01965;Fue bueno que nosotros metiéramos / metiésemos;Era bello che noi mett<i><b>e</b></i>ssimo;congiuntivo_passato mettere noi
-01966;Fue bueno que vosotros metierais / metieseis;Era bello che voi metteste;congiuntivo_passato mettere voi
-01967;Fue bueno que ellos metieran / metiesen;Era bello che loro mett<i><b>e</b></i>ssero;congiuntivo_passato loro mettere
+01962;Fue bueno que yo metiera / metiese;Era bello che io mettessi;congiuntivo_imperfetto io mettere
+01963;Fue bueno que tú metieras / metieses;Era bello che tu mettessi;congiuntivo_imperfetto mettere tu
+01964;Fue bueno que él/ella metiera / metiese;Era bello che lui/lei mettesse;congiuntivo_imperfetto lui_lei mettere
+01965;Fue bueno que nosotros metiéramos / metiésemos;Era bello che noi mett<i><b>e</b></i>ssimo;congiuntivo_imperfetto mettere noi
+01966;Fue bueno que vosotros metierais / metieseis;Era bello che voi metteste;congiuntivo_imperfetto mettere voi
+01967;Fue bueno que ellos metieran / metiesen;Era bello che loro mett<i><b>e</b></i>ssero;congiuntivo_imperfetto loro mettere
 01968;¡Mete!;Metti!;imperativo mettere tu
 01969;¡Meta!;Metta!;imperativo lui_lei mettere
 01970;¡Metamos!;Mettiamo!;imperativo mettere noi
@@ -2185,12 +2185,12 @@
 02010;Parece divertido que nosotros comamos;Sembra divertente che noi mangiamo;congiuntivo_presente mangiare noi
 02011;Parece divertido que vosotros comáis;Sembra divertente che voi mangiate;congiuntivo_presente mangiare voi
 02012;Parece divertido que ellos coman;Sembra divertente che loro m<i><b>a</b></i>ngino;congiuntivo_presente loro mangiare
-02013;Fue bueno que yo comiera / comiese;Era bello che io mangiassi;congiuntivo_passato io mangiare
-02014;Fue bueno que tú comieras / comieses;Era bello che tu mangiassi;congiuntivo_passato mangiare tu
-02015;Fue bueno que él/ella comiera / comiese;Era bello che lui/lei mangiasse;congiuntivo_passato lui_lei mangiare
-02016;Fue bueno que nosotros comiéramos / comiésemos;Era bello che noi mangi<i><b>a</b></i>ssimo;congiuntivo_passato mangiare noi
-02017;Fue bueno que vosotros comierais / comieseis;Era bello che voi mangiaste;congiuntivo_passato mangiare voi
-02018;Fue bueno que ellos comieran / comiesen;Era bello che loro mangi<i><b>a</b></i>ssero;congiuntivo_passato loro mangiare
+02013;Fue bueno que yo comiera / comiese;Era bello che io mangiassi;congiuntivo_imperfetto io mangiare
+02014;Fue bueno que tú comieras / comieses;Era bello che tu mangiassi;congiuntivo_imperfetto mangiare tu
+02015;Fue bueno que él/ella comiera / comiese;Era bello che lui/lei mangiasse;congiuntivo_imperfetto lui_lei mangiare
+02016;Fue bueno que nosotros comiéramos / comiésemos;Era bello che noi mangi<i><b>a</b></i>ssimo;congiuntivo_imperfetto mangiare noi
+02017;Fue bueno que vosotros comierais / comieseis;Era bello che voi mangiaste;congiuntivo_imperfetto mangiare voi
+02018;Fue bueno que ellos comieran / comiesen;Era bello che loro mangi<i><b>a</b></i>ssero;congiuntivo_imperfetto loro mangiare
 02019;¡Come!;Mangia!;imperativo mangiare tu
 02020;¡Coma!;Mangi!;imperativo lui_lei mangiare
 02021;¡Comamos!;Mangiamo!;imperativo mangiare noi
@@ -2239,12 +2239,12 @@
 02061;Parece divertido que nosotros entendamos;Sembra divertente che noi capiamo;capire congiuntivo_presente noi
 02062;Parece divertido que vosotros entendáis;Sembra divertente che voi capiate;capire congiuntivo_presente voi
 02063;Parece divertido que ellos entiendan;Sembra divertente che loro cap<i><b>i</b></i>scano;capire congiuntivo_presente loro
-02064;Fue bueno que yo entendiera / entendiese;Era bello che io capissi;capire congiuntivo_passato io
-02065;Fue bueno que tú entendieras / entendieses;Era bello che tu capissi;capire congiuntivo_passato tu
-02066;Fue bueno que él/ella entendiera / entendiese;Era bello che lui/lei capisse;capire congiuntivo_passato lui_lei
-02067;Fue bueno que nosotros entendiéramos / entendiésemos;Era bello che noi cap<i><b>i</b></i>ssimo;capire congiuntivo_passato noi
-02068;Fue bueno que vosotros entendierais / entendieseis;Era bello che voi capiste;capire congiuntivo_passato voi
-02069;Fue bueno que ellos entendieran / entendiesen;Era bello che loro cap<i><b>i</b></i>ssero;capire congiuntivo_passato loro
+02064;Fue bueno que yo entendiera / entendiese;Era bello che io capissi;capire congiuntivo_imperfetto io
+02065;Fue bueno que tú entendieras / entendieses;Era bello che tu capissi;capire congiuntivo_imperfetto tu
+02066;Fue bueno que él/ella entendiera / entendiese;Era bello che lui/lei capisse;capire congiuntivo_imperfetto lui_lei
+02067;Fue bueno que nosotros entendiéramos / entendiésemos;Era bello che noi cap<i><b>i</b></i>ssimo;capire congiuntivo_imperfetto noi
+02068;Fue bueno que vosotros entendierais / entendieseis;Era bello che voi capiste;capire congiuntivo_imperfetto voi
+02069;Fue bueno que ellos entendieran / entendiesen;Era bello che loro cap<i><b>i</b></i>ssero;capire congiuntivo_imperfetto loro
 02070;¡Entiende!;Capisci!;capire imperativo tu
 02071;¡Entienda!;Capisca!;capire imperativo lui_lei
 02072;¡Entendamos!;Capiamo!;capire imperativo noi
@@ -2293,12 +2293,12 @@
 02112;Parece divertido que nosotros abramos;Sembra divertente che noi apriamo;aprire congiuntivo_presente noi
 02113;Parece divertido que vosotros abráis;Sembra divertente che voi apriate;aprire congiuntivo_presente voi
 02114;Parece divertido que ellos abran;Sembra divertente che loro <i><b>a</b></i>prano;aprire congiuntivo_presente loro
-02115;Fue bueno que yo abriera / abriese;Era bello che io aprissi;aprire congiuntivo_passato io
-02116;Fue bueno que tú abrieras / abrieses;Era bello che tu aprissi;aprire congiuntivo_passato tu
-02117;Fue bueno que él/ella abriera / abriese;Era bello che lui/lei aprisse;aprire congiuntivo_passato lui_lei
-02118;Fue bueno que nosotros abriéramos / abriésemos;Era bello che noi apr<i><b>i</b></i>ssimo;aprire congiuntivo_passato noi
-02119;Fue bueno que vosotros abrierais / abrieseis;Era bello che voi apriste;aprire congiuntivo_passato voi
-02120;Fue bueno que ellos abrieran / abriesen;Era bello che loro apr<i><b>i</b></i>ssero;aprire congiuntivo_passato loro
+02115;Fue bueno que yo abriera / abriese;Era bello che io aprissi;aprire congiuntivo_imperfetto io
+02116;Fue bueno que tú abrieras / abrieses;Era bello che tu aprissi;aprire congiuntivo_imperfetto tu
+02117;Fue bueno que él/ella abriera / abriese;Era bello che lui/lei aprisse;aprire congiuntivo_imperfetto lui_lei
+02118;Fue bueno que nosotros abriéramos / abriésemos;Era bello che noi apr<i><b>i</b></i>ssimo;aprire congiuntivo_imperfetto noi
+02119;Fue bueno que vosotros abrierais / abrieseis;Era bello che voi apriste;aprire congiuntivo_imperfetto voi
+02120;Fue bueno que ellos abrieran / abriesen;Era bello che loro apr<i><b>i</b></i>ssero;aprire congiuntivo_imperfetto loro
 02121;¡Abre!;Apri!;aprire imperativo tu
 02122;¡Abra!;Apra!;aprire imperativo lui_lei
 02123;¡Abramos!;Apriamo!;aprire imperativo noi
@@ -2347,12 +2347,12 @@
 02163;Parece divertido que nosotros preguntemos;Sembra divertente che noi chiediamo;chiedere congiuntivo_presente noi
 02164;Parece divertido que vosotros preguntéis;Sembra divertente che voi chiediate;chiedere congiuntivo_presente voi
 02165;Parece divertido que ellos pregunten;Sembra divertente che loro chi<i><b>e</b></i>dano;chiedere congiuntivo_presente loro
-02166;Fue bueno que yo preguntara / preguntase;Era bello che io chiedessi;chiedere congiuntivo_passato io
-02167;Fue bueno que tú preguntaras / preguntases;Era bello che tu chiedessi;chiedere congiuntivo_passato tu
-02168;Fue bueno que él/ella preguntara / preguntase;Era bello che lui/lei chiedesse;chiedere congiuntivo_passato lui_lei
-02169;Fue bueno que nosotros preguntáramos / preguntásemos;Era bello che noi chied<i><b>e</b></i>ssimo;chiedere congiuntivo_passato noi
-02170;Fue bueno que vosotros preguntarais / preguntaseis;Era bello che voi chiedeste;chiedere congiuntivo_passato voi
-02171;Fue bueno que ellos preguntaran / preguntasen;Era bello che loro chied<i><b>e</b></i>ssero;chiedere congiuntivo_passato loro
+02166;Fue bueno que yo preguntara / preguntase;Era bello che io chiedessi;chiedere congiuntivo_imperfetto io
+02167;Fue bueno que tú preguntaras / preguntases;Era bello che tu chiedessi;chiedere congiuntivo_imperfetto tu
+02168;Fue bueno que él/ella preguntara / preguntase;Era bello che lui/lei chiedesse;chiedere congiuntivo_imperfetto lui_lei
+02169;Fue bueno que nosotros preguntáramos / preguntásemos;Era bello che noi chied<i><b>e</b></i>ssimo;chiedere congiuntivo_imperfetto noi
+02170;Fue bueno que vosotros preguntarais / preguntaseis;Era bello che voi chiedeste;chiedere congiuntivo_imperfetto voi
+02171;Fue bueno que ellos preguntaran / preguntasen;Era bello che loro chied<i><b>e</b></i>ssero;chiedere congiuntivo_imperfetto loro
 02172;¡Pregunta!;Chiedi!;chiedere imperativo tu
 02173;¡Pregunte!;Chieda!;chiedere imperativo lui_lei
 02174;¡Preguntemos!;Chiediamo!;chiedere imperativo noi
@@ -2401,12 +2401,12 @@
 02214;Parece divertido que nosotros conozcamos;Sembra divertente che noi conosciamo;congiuntivo_presente conoscere noi
 02215;Parece divertido que vosotros conozcáis;Sembra divertente che voi conosciate;congiuntivo_presente conoscere voi
 02216;Parece divertido que ellos conozcan;Sembra divertente che loro con<i><b>o</b></i>scano;congiuntivo_presente conoscere loro
-02217;Fue bueno que yo conociera / conociese;Era bello che io conoscessi;congiuntivo_passato conoscere io
-02218;Fue bueno que tú conocieras / conocieses;Era bello che tu conoscessi;congiuntivo_passato conoscere tu
-02219;Fue bueno que él/ella conociera / conociese;Era bello che lui/lei conoscesse;congiuntivo_passato conoscere lui_lei
-02220;Fue bueno que nosotros conociéramos / conociésemos;Era bello che noi conosc<i><b>e</b></i>ssimo;congiuntivo_passato conoscere noi
-02221;Fue bueno que vosotros conocierais / conocieseis;Era bello che voi conosceste;congiuntivo_passato conoscere voi
-02222;Fue bueno que ellos conocieran / conociesen;Era bello che loro conosc<i><b>e</b></i>ssero;congiuntivo_passato conoscere loro
+02217;Fue bueno que yo conociera / conociese;Era bello che io conoscessi;congiuntivo_imperfetto conoscere io
+02218;Fue bueno que tú conocieras / conocieses;Era bello che tu conoscessi;congiuntivo_imperfetto conoscere tu
+02219;Fue bueno que él/ella conociera / conociese;Era bello che lui/lei conoscesse;congiuntivo_imperfetto conoscere lui_lei
+02220;Fue bueno que nosotros conociéramos / conociésemos;Era bello che noi conosc<i><b>e</b></i>ssimo;congiuntivo_imperfetto conoscere noi
+02221;Fue bueno que vosotros conocierais / conocieseis;Era bello che voi conosceste;congiuntivo_imperfetto conoscere voi
+02222;Fue bueno que ellos conocieran / conociesen;Era bello che loro conosc<i><b>e</b></i>ssero;congiuntivo_imperfetto conoscere loro
 02223;¡Conoce!;Conosci!;conoscere imperativo tu
 02224;¡Conozca!;Conosca!;conoscere imperativo lui_lei
 02225;¡Conozcamos!;Conosciamo!;conoscere imperativo noi
@@ -2455,12 +2455,12 @@
 02265;Parece divertido que nosotros perdamos;Sembra divertente che noi perdiamo;congiuntivo_presente noi perdere
 02266;Parece divertido que vosotros perdáis;Sembra divertente che voi perdiate;congiuntivo_presente perdere voi
 02267;Parece divertido que ellos pierdan;Sembra divertente che loro p<i><b>e</b></i>rdano;congiuntivo_presente loro perdere
-02268;Fue bueno que yo perdiera / perdiese;Era bello che io perdessi;congiuntivo_passato io perdere
-02269;Fue bueno que tú perdieras / perdieses;Era bello che tu perdessi;congiuntivo_passato perdere tu
-02270;Fue bueno que él/ella perdiera / perdiese;Era bello che lui/lei perdesse;congiuntivo_passato lui_lei perdere
-02271;Fue bueno que nosotros perdiéramos / perdiésemos;Era bello che noi perd<i><b>e</b></i>ssimo;congiuntivo_passato noi perdere
-02272;Fue bueno que vosotros perdierais / perdieseis;Era bello che voi perdeste;congiuntivo_passato perdere voi
-02273;Fue bueno que ellos perdieran / pierdesen;Era bello che loro perd<i><b>e</b></i>ssero;congiuntivo_passato loro perdere
+02268;Fue bueno que yo perdiera / perdiese;Era bello che io perdessi;congiuntivo_imperfetto io perdere
+02269;Fue bueno que tú perdieras / perdieses;Era bello che tu perdessi;congiuntivo_imperfetto perdere tu
+02270;Fue bueno que él/ella perdiera / perdiese;Era bello che lui/lei perdesse;congiuntivo_imperfetto lui_lei perdere
+02271;Fue bueno que nosotros perdiéramos / perdiésemos;Era bello che noi perd<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi perdere
+02272;Fue bueno que vosotros perdierais / perdieseis;Era bello che voi perdeste;congiuntivo_imperfetto perdere voi
+02273;Fue bueno que ellos perdieran / pierdesen;Era bello che loro perd<i><b>e</b></i>ssero;congiuntivo_imperfetto loro perdere
 02274;¡Pierde!;Perdi!;imperativo perdere tu
 02275;¡Pierda!;Perda!;imperativo lui_lei perdere
 02276;¡Perdamos!;Perdiamo!;imperativo noi perdere
@@ -2509,12 +2509,12 @@
 02316;Parece divertido que nosotros respondamos;Sembra divertente che noi rispondiamo;congiuntivo_presente noi rispondere
 02317;Parece divertido que vosotros respondáis;Sembra divertente che voi rispondiate;congiuntivo_presente rispondere voi
 02318;Parece divertido que ellos respondan;Sembra divertente che loro risp<i><b>o</b></i>ndano;congiuntivo_presente loro rispondere
-02319;Fue bueno que yo respondiera / respondiese;Era bello che io rispondessi;congiuntivo_passato io rispondere
-02320;Fue bueno que tú respondieras / respondieses;Era bello che tu rispondessi;congiuntivo_passato rispondere tu
-02321;Fue bueno que él/ella respondiera / respondiese;Era bello che lui/lei rispondesse;congiuntivo_passato lui_lei rispondere
-02322;Fue bueno que nosotros respondiéramos / respondiésemos;Era bello che noi rispond<i><b>e</b></i>ssimo;congiuntivo_passato noi rispondere
-02323;Fue bueno que vosotros respondierais / respondieseis;Era bello che voi rispondeste;congiuntivo_passato rispondere voi
-02324;Fue bueno que ellos respondieran / respondiesen;Era bello che loro rispond<i><b>e</b></i>ssero;congiuntivo_passato loro rispondere
+02319;Fue bueno que yo respondiera / respondiese;Era bello che io rispondessi;congiuntivo_imperfetto io rispondere
+02320;Fue bueno que tú respondieras / respondieses;Era bello che tu rispondessi;congiuntivo_imperfetto rispondere tu
+02321;Fue bueno que él/ella respondiera / respondiese;Era bello che lui/lei rispondesse;congiuntivo_imperfetto lui_lei rispondere
+02322;Fue bueno que nosotros respondiéramos / respondiésemos;Era bello che noi rispond<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rispondere
+02323;Fue bueno que vosotros respondierais / respondieseis;Era bello che voi rispondeste;congiuntivo_imperfetto rispondere voi
+02324;Fue bueno que ellos respondieran / respondiesen;Era bello che loro rispond<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rispondere
 02325;¡Responde!;Rispondi!;imperativo rispondere tu
 02326;¡Responda!;Risponda!;imperativo lui_lei rispondere
 02327;¡Respondamos!;Rispondiamo!;imperativo noi rispondere
@@ -2563,12 +2563,12 @@
 02367;Parece divertido que nosotros escribamos;Sembra divertente che noi scriviamo;congiuntivo_presente noi scrivere
 02368;Parece divertido que vosotros escribáis;Sembra divertente che voi scriviate;congiuntivo_presente scrivere voi
 02369;Parece divertido que ellos escriban;Sembra divertente che loro scr<i><b>i</b></i>vano;congiuntivo_presente loro scrivere
-02370;Fue bueno que yo escribiera / escribiese;Era bello che io scrivessi;congiuntivo_passato io scrivere
-02371;Fue bueno que tú escribieras / escribieses;Era bello che tu scrivessi;congiuntivo_passato scrivere tu
-02372;Fue bueno que él/ella escribiera / escribiese;Era bello che lui/lei scrivesse;congiuntivo_passato lui_lei scrivere
-02373;Fue bueno que nosotros escribiéramos / escribiésemos;Era bello che noi scriv<i><b>e</b></i>ssimo;congiuntivo_passato noi scrivere
-02374;Fue bueno que vosotros escribierais / escribieseis;Era bello che voi scriveste;congiuntivo_passato scrivere voi
-02375;Fue bueno que ellos escribieran / escribiesen;Era bello che loro scriv<i><b>e</b></i>ssero;congiuntivo_passato loro scrivere
+02370;Fue bueno que yo escribiera / escribiese;Era bello che io scrivessi;congiuntivo_imperfetto io scrivere
+02371;Fue bueno que tú escribieras / escribieses;Era bello che tu scrivessi;congiuntivo_imperfetto scrivere tu
+02372;Fue bueno que él/ella escribiera / escribiese;Era bello che lui/lei scrivesse;congiuntivo_imperfetto lui_lei scrivere
+02373;Fue bueno que nosotros escribiéramos / escribiésemos;Era bello che noi scriv<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi scrivere
+02374;Fue bueno que vosotros escribierais / escribieseis;Era bello che voi scriveste;congiuntivo_imperfetto scrivere voi
+02375;Fue bueno que ellos escribieran / escribiesen;Era bello che loro scriv<i><b>e</b></i>ssero;congiuntivo_imperfetto loro scrivere
 02376;¡Escribe!;Scrivi!;imperativo scrivere tu
 02377;¡Escriba!;Scriva!;imperativo lui_lei scrivere
 02378;¡Escribamos!;Scriviamo!;imperativo noi scrivere
@@ -2617,12 +2617,12 @@
 02418;Parece divertido que nosotros gastemos;Sembra divertente che noi spendiamo;congiuntivo_presente noi spendere
 02419;Parece divertido que vosotros gastéis;Sembra divertente che voi spendiate;congiuntivo_presente spendere voi
 02420;Parece divertido que ellos gasten;Sembra divertente che loro sp<i><b>e</b></i>ndano;congiuntivo_presente loro spendere
-02421;Fue bueno que yo gastara / gastase;Era bello che io spendessi;congiuntivo_passato io spendere
-02422;Fue bueno que tú gastaras / gastases;Era bello che tu spendessi;congiuntivo_passato spendere tu
-02423;Fue bueno que él/ella gastara / gastase;Era bello che lui/lei spendesse;congiuntivo_passato lui_lei spendere
-02424;Fue bueno que nosotros gastáramos / gastásemos;Era bello che noi spend<i><b>e</b></i>ssimo;congiuntivo_passato noi spendere
-02425;Fue bueno que vosotros gastarais / gastaseis;Era bello che voi spendeste;congiuntivo_passato spendere voi
-02426;Fue bueno que ellos gastaran / gastasen;Era bello che loro spend<i><b>e</b></i>ssero;congiuntivo_passato loro spendere
+02421;Fue bueno que yo gastara / gastase;Era bello che io spendessi;congiuntivo_imperfetto io spendere
+02422;Fue bueno que tú gastaras / gastases;Era bello che tu spendessi;congiuntivo_imperfetto spendere tu
+02423;Fue bueno que él/ella gastara / gastase;Era bello che lui/lei spendesse;congiuntivo_imperfetto lui_lei spendere
+02424;Fue bueno que nosotros gastáramos / gastásemos;Era bello che noi spend<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi spendere
+02425;Fue bueno que vosotros gastarais / gastaseis;Era bello che voi spendeste;congiuntivo_imperfetto spendere voi
+02426;Fue bueno que ellos gastaran / gastasen;Era bello che loro spend<i><b>e</b></i>ssero;congiuntivo_imperfetto loro spendere
 02427;¡Gasta!;Spendi!;imperativo spendere tu
 02428;¡Gaste!;Spenda!;imperativo lui_lei spendere
 02429;¡Gastemos!;Spendiamo!;imperativo noi spendere
@@ -2671,12 +2671,12 @@
 02469;Parece divertido que nosotros vivamos;Sembra divertente che noi viviamo;congiuntivo_presente noi vivere
 02470;Parece divertido que vosotros viváis;Sembra divertente che voi viviate;congiuntivo_presente vivere voi
 02471;Parece divertido que ellos vivan;Sembra divertente che loro v<i><b>i</b></i>vano;congiuntivo_presente loro vivere
-02472;Fue bueno que yo viviera / viviese;Era bello che io vivessi;congiuntivo_passato io vivere
-02473;Fue bueno que tú vivieras / vivieses;Era bello che tu vivessi;congiuntivo_passato tu vivere
-02474;Fue bueno que él/ella viviera / viviese;Era bello che lui/lei vivesse;congiuntivo_passato lui_lei vivere
-02475;Fue bueno que nosotros viviéramos / viviésemos;Era bello che noi viv<i><b>e</b></i>ssimo;congiuntivo_passato noi vivere
-02476;Fue bueno que vosotros vivierais / vivieseis;Era bello che voi viveste;congiuntivo_passato vivere voi
-02477;Fue bueno que ellos vivieran / viviesen;Era bello che loro viv<i><b>e</b></i>ssero;congiuntivo_passato loro vivere
+02472;Fue bueno que yo viviera / viviese;Era bello che io vivessi;congiuntivo_imperfetto io vivere
+02473;Fue bueno que tú vivieras / vivieses;Era bello che tu vivessi;congiuntivo_imperfetto tu vivere
+02474;Fue bueno que él/ella viviera / viviese;Era bello che lui/lei vivesse;congiuntivo_imperfetto lui_lei vivere
+02475;Fue bueno que nosotros viviéramos / viviésemos;Era bello che noi viv<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vivere
+02476;Fue bueno que vosotros vivierais / vivieseis;Era bello che voi viveste;congiuntivo_imperfetto vivere voi
+02477;Fue bueno que ellos vivieran / viviesen;Era bello che loro viv<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vivere
 02478;¡Vive!;Vivi!;imperativo tu vivere
 02479;¡Viva!;Viva!;imperativo lui_lei vivere
 02480;¡Vivamos!;Viviamo!;imperativo noi vivere
@@ -2725,12 +2725,12 @@
 02520;Parece divertido que nosotros rompamos;Sembra divertente che noi rompiamo;congiuntivo_presente noi rompere
 02521;Parece divertido que vosotros rompáis;Sembra divertente che voi rompiate;congiuntivo_presente rompere voi
 02522;Parece divertido que ellos rompan;Sembra divertente che loro r<i><b>o</b></i>mpano;congiuntivo_presente loro rompere
-02523;Fue bueno que yo rompiera / rompiese;Era bello che io rompessi;congiuntivo_passato io rompere
-02524;Fue bueno que tú rompieras / rompieses;Era bello che tu rompessi;congiuntivo_passato rompere tu
-02525;Fue bueno que él/ella rompiera / rompiese;Era bello che lui/lei rompesse;congiuntivo_passato lui_lei rompere
-02526;Fue bueno que nosotros rompiéramos / rompiésemos;Era bello che noi romp<i><b>e</b></i>ssimo;congiuntivo_passato noi rompere
-02527;Fue bueno que vosotros rompierais / rompieseis;Era bello che voi rompeste;congiuntivo_passato rompere voi
-02528;Fue bueno que ellos rompieran / rompiesen;Era bello che loro romp<i><b>e</b></i>ssero;congiuntivo_passato loro rompere
+02523;Fue bueno que yo rompiera / rompiese;Era bello che io rompessi;congiuntivo_imperfetto io rompere
+02524;Fue bueno que tú rompieras / rompieses;Era bello che tu rompessi;congiuntivo_imperfetto rompere tu
+02525;Fue bueno que él/ella rompiera / rompiese;Era bello che lui/lei rompesse;congiuntivo_imperfetto lui_lei rompere
+02526;Fue bueno que nosotros rompiéramos / rompiésemos;Era bello che noi romp<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi rompere
+02527;Fue bueno que vosotros rompierais / rompieseis;Era bello che voi rompeste;congiuntivo_imperfetto rompere voi
+02528;Fue bueno que ellos rompieran / rompiesen;Era bello che loro romp<i><b>e</b></i>ssero;congiuntivo_imperfetto loro rompere
 02529;¡Rompe!;Rompi!;imperativo rompere tu
 02530;¡Rompa!;Rompa!;imperativo lui_lei rompere
 02531;¡Rompamos!;Rompiamo!;imperativo noi rompere
@@ -2779,12 +2779,12 @@
 02571;Parece divertido que nosotros corramos;Sembra divertente che noi corriamo;congiuntivo_presente correre noi
 02572;Parece divertido que vosotros corráis;Sembra divertente che voi corriate;congiuntivo_presente correre voi
 02573;Parece divertido que ellos corran;Sembra divertente che loro c<i><b>o</b></i>rrano;congiuntivo_presente correre loro
-02574;Fue bueno que yo corriera / corriese;Era bello che io corressi;congiuntivo_passato correre io
-02575;Fue bueno que tú corrieras / corrieses;Era bello che tu corressi;congiuntivo_passato correre tu
-02576;Fue bueno que él/ella corriera / corriese;Era bello che lui/lei corresse;congiuntivo_passato correre lui_lei
-02577;Fue bueno que nosotros corriéramos / corriésemos;Era bello che noi corr<i><b>e</b></i>ssimo;congiuntivo_passato correre noi
-02578;Fue bueno que vosotros corrierais / corrieseis;Era bello che voi correste;congiuntivo_passato correre voi
-02579;Fue bueno que ellos corrieran / corriesen;Era bello che loro corr<i><b>e</b></i>ssero;congiuntivo_passato correre loro
+02574;Fue bueno que yo corriera / corriese;Era bello che io corressi;congiuntivo_imperfetto correre io
+02575;Fue bueno que tú corrieras / corrieses;Era bello che tu corressi;congiuntivo_imperfetto correre tu
+02576;Fue bueno que él/ella corriera / corriese;Era bello che lui/lei corresse;congiuntivo_imperfetto correre lui_lei
+02577;Fue bueno que nosotros corriéramos / corriésemos;Era bello che noi corr<i><b>e</b></i>ssimo;congiuntivo_imperfetto correre noi
+02578;Fue bueno que vosotros corrierais / corrieseis;Era bello che voi correste;congiuntivo_imperfetto correre voi
+02579;Fue bueno que ellos corrieran / corriesen;Era bello che loro corr<i><b>e</b></i>ssero;congiuntivo_imperfetto correre loro
 02580;¡Corre!;Corri!;correre imperativo tu
 02581;¡Corra!;Corra!;correre imperativo lui_lei
 02582;¡Corramos!;Corriamo!;correre imperativo noi
@@ -2833,12 +2833,12 @@
 02622;Parece divertido que nosotros aprendamos;Sembra divertente che noi impariamo;congiuntivo_presente imparare noi
 02623;Parece divertido que vosotros aprendáis;Sembra divertente che voi impariate;congiuntivo_presente imparare voi
 02624;Parece divertido que ellos aprendan;Sembra divertente che loro imp<i><b>a</b></i>rino;congiuntivo_presente imparare loro
-02625;Fue bueno que yo aprendiera / aprendiese;Era bello che io imparassi;congiuntivo_passato imparare io
-02626;Fue bueno que tú aprendieras / aprendieses;Era bello che tu imparassi;congiuntivo_passato imparare tu
-02627;Fue bueno que él/ella aprendiera / aprendiese;Era bello che lui/lei imparasse;congiuntivo_passato imparare lui_lei
-02628;Fue bueno que nosotros aprendiéramos / aprendiésemos;Era bello che noi impar<i><b>a</b></i>ssimo;congiuntivo_passato imparare noi
-02629;Fue bueno que vosotros aprendierais / aprendieseis;Era bello che voi imparaste;congiuntivo_passato imparare voi
-02630;Fue bueno que ellos aprendieran / aprendiesen;Era bello che loro impar<i><b>a</b></i>ssero;congiuntivo_passato imparare loro
+02625;Fue bueno que yo aprendiera / aprendiese;Era bello che io imparassi;congiuntivo_imperfetto imparare io
+02626;Fue bueno que tú aprendieras / aprendieses;Era bello che tu imparassi;congiuntivo_imperfetto imparare tu
+02627;Fue bueno que él/ella aprendiera / aprendiese;Era bello che lui/lei imparasse;congiuntivo_imperfetto imparare lui_lei
+02628;Fue bueno que nosotros aprendiéramos / aprendiésemos;Era bello che noi impar<i><b>a</b></i>ssimo;congiuntivo_imperfetto imparare noi
+02629;Fue bueno que vosotros aprendierais / aprendieseis;Era bello che voi imparaste;congiuntivo_imperfetto imparare voi
+02630;Fue bueno que ellos aprendieran / aprendiesen;Era bello che loro impar<i><b>a</b></i>ssero;congiuntivo_imperfetto imparare loro
 02631;¡Aprende!;Impara!;imparare imperativo tu
 02632;¡Aprenda!;Impari!;imparare imperativo lui_lei
 02633;¡Aprendamos!;Impariamo!;imparare imperativo noi
@@ -2887,12 +2887,12 @@
 02673;Parece divertido que nosotros quitemos;Sembra divertente che noi togliamo;congiuntivo_presente noi togliere
 02674;Parece divertido que vosotros quitéis;Sembra divertente che voi togliate;congiuntivo_presente togliere voi
 02675;Parece divertido que ellos quiten;Sembra divertente che loro t<i><b>o</b></i>lgano;congiuntivo_presente loro togliere
-02676;Fue bueno que yo quitara / quitase;Era bello che io togliessi;congiuntivo_passato io togliere
-02677;Fue bueno que tú quitaras / quitases;Era bello che tu togliessi;congiuntivo_passato togliere tu
-02678;Fue bueno que él/ella quitara / quitase;Era bello che lui/lei togliesse;congiuntivo_passato lui_lei togliere
-02679;Fue bueno que nosotros quitáramos / quitásemos;Era bello che noi togli<i><b>e</b></i>ssimo;congiuntivo_passato noi togliere
-02680;Fue bueno que vosotros quitarais / quitaseis;Era bello che voi toglieste;congiuntivo_passato togliere voi
-02681;Fue bueno que ellos quitaran / quitasen;Era bello che loro togli<i><b>e</b></i>ssero;congiuntivo_passato loro togliere
+02676;Fue bueno que yo quitara / quitase;Era bello che io togliessi;congiuntivo_imperfetto io togliere
+02677;Fue bueno que tú quitaras / quitases;Era bello che tu togliessi;congiuntivo_imperfetto togliere tu
+02678;Fue bueno que él/ella quitara / quitase;Era bello che lui/lei togliesse;congiuntivo_imperfetto lui_lei togliere
+02679;Fue bueno que nosotros quitáramos / quitásemos;Era bello che noi togli<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi togliere
+02680;Fue bueno que vosotros quitarais / quitaseis;Era bello che voi toglieste;congiuntivo_imperfetto togliere voi
+02681;Fue bueno que ellos quitaran / quitasen;Era bello che loro togli<i><b>e</b></i>ssero;congiuntivo_imperfetto loro togliere
 02682;¡Quita!;Togli!;imperativo togliere tu
 02683;¡Quite!;Tolga!;imperativo lui_lei togliere
 02684;¡Quitemos!;Togliamo!;imperativo noi togliere
@@ -2941,12 +2941,12 @@
 02724;Parece divertido que nosotros asumamos;Sembra divertente che noi assumiamo;assumere congiuntivo_presente noi
 02725;Parece divertido que vosotros asumáis;Sembra divertente che voi assumiate;assumere congiuntivo_presente voi
 02726;Parece divertido que ellos asuman;Sembra divertente che loro ass<i><b>u</b></i>mano;assumere congiuntivo_presente loro
-02727;Fue bueno que yo asumiera / asumiese;Era bello che io assumessi;assumere congiuntivo_passato io
-02728;Fue bueno que tú asumieras / asumieses;Era bello che tu assumessi;assumere congiuntivo_passato tu
-02729;Fue bueno que él/ella asumiera / asumiese;Era bello che lui/lei assumesse;assumere congiuntivo_passato lui_lei
-02730;Fue bueno que nosotros asumiéramos / asumiésemos;Era bello che noi assum<i><b>e</b></i>ssimo;assumere congiuntivo_passato noi
-02731;Fue bueno que vosotros asumierais / asumieseis;Era bello che voi assumeste;assumere congiuntivo_passato voi
-02732;Fue bueno que ellos asumieran / asumiesen;Era bello che loro assum<i><b>e</b></i>ssero;assumere congiuntivo_passato loro
+02727;Fue bueno que yo asumiera / asumiese;Era bello che io assumessi;assumere congiuntivo_imperfetto io
+02728;Fue bueno que tú asumieras / asumieses;Era bello che tu assumessi;assumere congiuntivo_imperfetto tu
+02729;Fue bueno que él/ella asumiera / asumiese;Era bello che lui/lei assumesse;assumere congiuntivo_imperfetto lui_lei
+02730;Fue bueno que nosotros asumiéramos / asumiésemos;Era bello che noi assum<i><b>e</b></i>ssimo;assumere congiuntivo_imperfetto noi
+02731;Fue bueno que vosotros asumierais / asumieseis;Era bello che voi assumeste;assumere congiuntivo_imperfetto voi
+02732;Fue bueno que ellos asumieran / asumiesen;Era bello che loro assum<i><b>e</b></i>ssero;assumere congiuntivo_imperfetto loro
 02733;¡Asume!;Assumi!;assumere imperativo tu
 02734;¡Asuma!;Assuma!;assumere imperativo lui_lei
 02735;¡Asumamos!;Assumiamo!;assumere imperativo noi
@@ -2995,12 +2995,12 @@
 02775;Parece divertido que nosotros caigamos;Sembra divertente che noi cadiamo;cadere congiuntivo_presente noi
 02776;Parece divertido que vosotros caigáis;Sembra divertente che voi cadiate;cadere congiuntivo_presente voi
 02777;Parece divertido que ellos caigan;Sembra divertente che loro c<i><b>a</b></i>dano;cadere congiuntivo_presente loro
-02778;Fue bueno que yo cayera / cayese;Era bello che io cadessi;cadere congiuntivo_passato io
-02779;Fue bueno que tú cayeras / cayeses;Era bello che tu cadessi;cadere congiuntivo_passato tu
-02780;Fue bueno que él/ella cayera / cayese;Era bello che lui/lei cadesse;cadere congiuntivo_passato lui_lei
-02781;Fue bueno que nosotros cayéramos / cayésemos;Era bello che noi cad<i><b>e</b></i>ssimo;cadere congiuntivo_passato noi
-02782;Fue bueno que vosotros cayerais / cayeseis;Era bello che voi cadeste;cadere congiuntivo_passato voi
-02783;Fue bueno que ellos cayeran / cayesen;Era bello che loro cad<i><b>e</b></i>ssero;cadere congiuntivo_passato loro
+02778;Fue bueno que yo cayera / cayese;Era bello che io cadessi;cadere congiuntivo_imperfetto io
+02779;Fue bueno que tú cayeras / cayeses;Era bello che tu cadessi;cadere congiuntivo_imperfetto tu
+02780;Fue bueno que él/ella cayera / cayese;Era bello che lui/lei cadesse;cadere congiuntivo_imperfetto lui_lei
+02781;Fue bueno que nosotros cayéramos / cayésemos;Era bello che noi cad<i><b>e</b></i>ssimo;cadere congiuntivo_imperfetto noi
+02782;Fue bueno que vosotros cayerais / cayeseis;Era bello che voi cadeste;cadere congiuntivo_imperfetto voi
+02783;Fue bueno que ellos cayeran / cayesen;Era bello che loro cad<i><b>e</b></i>ssero;cadere congiuntivo_imperfetto loro
 02784;¡Cae!;Cadi!;cadere imperativo tu
 02785;¡Caiga!;Cada!;cadere imperativo lui_lei
 02786;¡Caigamos!;Cadiamo!;cadere imperativo noi
@@ -3049,12 +3049,12 @@
 02826;Parece divertido que nosotros dolamos;Sembra divertente che noi doliamo / dogliamo;congiuntivo_presente dolere noi
 02827;Parece divertido que vosotros doláis;Sembra divertente che voi doliate / dogliate;congiuntivo_presente dolere voi
 02828;Parece divertido que ellos duelan;Sembra divertente che loro d<i><b>o</b></i>lgano;congiuntivo_presente dolere loro
-02829;Fue bueno que yo doliera / doliese;Era bello che io dolessi;congiuntivo_passato dolere io
-02830;Fue bueno que tú dolieras / dolieses;Era bello che tu dolessi;congiuntivo_passato dolere tu
-02831;Fue bueno que él/ella doliera / doliese;Era bello che lui/lei dolesse;congiuntivo_passato dolere lui_lei
-02832;Fue bueno que nosotros doliéramos / doliésemos;Era bello che noi dol<i><b>e</b></i>ssimo;congiuntivo_passato dolere noi
-02833;Fue bueno que vosotros dolierais / dolieseis;Era bello che voi doleste;congiuntivo_passato dolere voi
-02834;Fue bueno que ellos dolieran / doliesen;Era bello che loro dol<i><b>e</b></i>ssero;congiuntivo_passato dolere loro
+02829;Fue bueno que yo doliera / doliese;Era bello che io dolessi;congiuntivo_imperfetto dolere io
+02830;Fue bueno que tú dolieras / dolieses;Era bello che tu dolessi;congiuntivo_imperfetto dolere tu
+02831;Fue bueno que él/ella doliera / doliese;Era bello che lui/lei dolesse;congiuntivo_imperfetto dolere lui_lei
+02832;Fue bueno que nosotros doliéramos / doliésemos;Era bello che noi dol<i><b>e</b></i>ssimo;congiuntivo_imperfetto dolere noi
+02833;Fue bueno que vosotros dolierais / dolieseis;Era bello che voi doleste;congiuntivo_imperfetto dolere voi
+02834;Fue bueno que ellos dolieran / doliesen;Era bello che loro dol<i><b>e</b></i>ssero;congiuntivo_imperfetto dolere loro
 02835;¡Duele!;Duoli!;dolere imperativo tu
 02836;¡Duela!;Dolga!;dolere imperativo lui_lei
 02837;¡Dolamos!;Doliamo! / Dogliamo!;dolere imperativo noi
@@ -3103,12 +3103,12 @@
 02877;Parece divertido que nosotros venzamos;Sembra divertente che noi vinciamo;congiuntivo_presente noi vincere
 02878;Parece divertido que vosotros venzáis;Sembra divertente che voi vinciate;congiuntivo_presente vincere voi
 02879;Parece divertido que ellos venzan;Sembra divertente che loro v<i><b>i</b></i>ncano;congiuntivo_presente loro vincere
-02880;Fue bueno que yo venciera / venciese;Era bello che io vincessi;congiuntivo_passato io vincere
-02881;Fue bueno que tú vencieras / vencieses;Era bello che tu vincessi;congiuntivo_passato tu vincere
-02882;Fue bueno que él/ella venciera / venciese;Era bello che lui/lei vincesse;congiuntivo_passato lui_lei vincere
-02883;Fue bueno que nosotros venciéramos / venciésemos;Era bello che noi vinc<i><b>e</b></i>ssimo;congiuntivo_passato noi vincere
-02884;Fue bueno que vosotros vencierais / vencieseis;Era bello che voi vinceste;congiuntivo_passato vincere voi
-02885;Fue bueno que ellos vencieran / venciesen;Era bello che loro vinc<i><b>e</b></i>ssero;congiuntivo_passato loro vincere
+02880;Fue bueno que yo venciera / venciese;Era bello che io vincessi;congiuntivo_imperfetto io vincere
+02881;Fue bueno que tú vencieras / vencieses;Era bello che tu vincessi;congiuntivo_imperfetto tu vincere
+02882;Fue bueno que él/ella venciera / venciese;Era bello che lui/lei vincesse;congiuntivo_imperfetto lui_lei vincere
+02883;Fue bueno que nosotros venciéramos / venciésemos;Era bello che noi vinc<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi vincere
+02884;Fue bueno que vosotros vencierais / vencieseis;Era bello che voi vinceste;congiuntivo_imperfetto vincere voi
+02885;Fue bueno que ellos vencieran / venciesen;Era bello che loro vinc<i><b>e</b></i>ssero;congiuntivo_imperfetto loro vincere
 02886;¡Vence!;Vinci!;imperativo tu vincere
 02887;¡Venza!;Vinca!;imperativo lui_lei vincere
 02888;¡Venzamos!;Vinciamo!;imperativo noi vincere
@@ -3157,12 +3157,12 @@
 02928;Parece divertido que nosotros riamos;Sembra divertente che noi ridiamo;congiuntivo_presente noi ridere
 02929;Parece divertido que vosotros riáis;Sembra divertente che voi ridiate;congiuntivo_presente ridere voi
 02930;Parece divertido que ellos rían;Sembra divertente che loro r<i><b>i</b></i>dano;congiuntivo_presente loro ridere
-02931;Fue bueno que yo riera / riese;Era bello che io ridessi;congiuntivo_passato io ridere
-02932;Fue bueno que tú rieras / rieses;Era bello che tu ridessi;congiuntivo_passato ridere tu
-02933;Fue bueno que él/ella riera / riese;Era bello che lui/lei ridesse;congiuntivo_passato lui_lei ridere
-02934;Fue bueno que nosotros riéramos / riésemos;Era bello che noi rid<i><b>e</b></i>ssimo;congiuntivo_passato noi ridere
-02935;Fue bueno que vosotros rierais / rieseis;Era bello che voi rideste;congiuntivo_passato ridere voi
-02936;Fue bueno que ellos rieran / riesen;Era bello che loro rid<i><b>e</b></i>ssero;congiuntivo_passato loro ridere
+02931;Fue bueno que yo riera / riese;Era bello che io ridessi;congiuntivo_imperfetto io ridere
+02932;Fue bueno que tú rieras / rieses;Era bello che tu ridessi;congiuntivo_imperfetto ridere tu
+02933;Fue bueno que él/ella riera / riese;Era bello che lui/lei ridesse;congiuntivo_imperfetto lui_lei ridere
+02934;Fue bueno que nosotros riéramos / riésemos;Era bello che noi rid<i><b>e</b></i>ssimo;congiuntivo_imperfetto noi ridere
+02935;Fue bueno que vosotros rierais / rieseis;Era bello che voi rideste;congiuntivo_imperfetto ridere voi
+02936;Fue bueno que ellos rieran / riesen;Era bello che loro rid<i><b>e</b></i>ssero;congiuntivo_imperfetto loro ridere
 02937;¡Ríe!;Ridi!;imperativo ridere tu
 02938;¡Ría!;Rida!;imperativo lui_lei ridere
 02939;¡Riamos!;Ridiamo!;imperativo noi ridere
@@ -3211,12 +3211,12 @@
 02979;Parece divertido que nosotros consigamos;Sembra divertente che noi riusciamo;congiuntivo_presente noi riuscire
 02980;Parece divertido que vosotros consigáis;Sembra divertente che voi riusciate;congiuntivo_presente riuscire voi
 02981;Parece divertido que ellos consigan;Sembra divertente che loro ri<i><b>e</b></i>scano;congiuntivo_presente loro riuscire
-02982;Fue bueno que yo consiguiera / consiguiese;Era bello che io riuscissi;congiuntivo_passato io riuscire
-02983;Fue bueno que tú consiguieras / consiguieses;Era bello che tu riuscissi;congiuntivo_passato riuscire tu
-02984;Fue bueno que él/ella consiguiera / consiguiese;Era bello che lui/lei riuscisse;congiuntivo_passato lui_lei riuscire
-02985;Fue bueno que nosotros consiguiéramos / consiguiésemos;Era bello che noi riusc<i><b>i</b></i>ssimo;congiuntivo_passato noi riuscire
-02986;Fue bueno que vosotros consiguierais / consiguieseis;Era bello che voi riusciste;congiuntivo_passato riuscire voi
-02987;Fue bueno que ellos consiguieran / consiguiesen;Era bello che loro riusc<i><b>i</b></i>ssero;congiuntivo_passato loro riuscire
+02982;Fue bueno que yo consiguiera / consiguiese;Era bello che io riuscissi;congiuntivo_imperfetto io riuscire
+02983;Fue bueno que tú consiguieras / consiguieses;Era bello che tu riuscissi;congiuntivo_imperfetto riuscire tu
+02984;Fue bueno que él/ella consiguiera / consiguiese;Era bello che lui/lei riuscisse;congiuntivo_imperfetto lui_lei riuscire
+02985;Fue bueno que nosotros consiguiéramos / consiguiésemos;Era bello che noi riusc<i><b>i</b></i>ssimo;congiuntivo_imperfetto noi riuscire
+02986;Fue bueno que vosotros consiguierais / consiguieseis;Era bello che voi riusciste;congiuntivo_imperfetto riuscire voi
+02987;Fue bueno que ellos consiguieran / consiguiesen;Era bello che loro riusc<i><b>i</b></i>ssero;congiuntivo_imperfetto loro riuscire
 02988;¡Consigue!;Riesci!;imperativo riuscire tu
 02989;¡Consiga!;Riesca!;imperativo lui_lei riuscire
 02990;¡Consigamos!;Riusciamo!;imperativo noi riuscire
@@ -3265,12 +3265,12 @@
 03030;Parece divertido que nosotros crezcamos;Sembra divertente che noi cresciamo;congiuntivo_presente crescere noi
 03031;Parece divertido que vosotros crezcáis;Sembra divertente che voi cresciate;congiuntivo_presente crescere voi
 03032;Parece divertido que ellos crezcan;Sembra divertente che loro cr<i><b>e</b></i>scano;congiuntivo_presente crescere loro
-03033;Fue bueno que yo creciera / creciese;Era bello che io crescessi;congiuntivo_passato crescere io
-03034;Fue bueno que tú crecieras / crecieses;Era bello che tu crescessi;congiuntivo_passato crescere tu
-03035;Fue bueno que él/ella creciera / creciese;Era bello che lui/lei crescesse;congiuntivo_passato crescere lui_lei
-03036;Fue bueno que nosotros creciéramos / creciésemos;Era bello che noi cresc<i><b>e</b></i>ssimo;congiuntivo_passato crescere noi
-03037;Fue bueno que vosotros crecierais / crecieseis;Era bello che voi cresceste;congiuntivo_passato crescere voi
-03038;Fue bueno que ellos crecieran / creciesen;Era bello che loro cresc<i><b>e</b></i>ssero;congiuntivo_passato crescere loro
+03033;Fue bueno que yo creciera / creciese;Era bello che io crescessi;congiuntivo_imperfetto crescere io
+03034;Fue bueno que tú crecieras / crecieses;Era bello che tu crescessi;congiuntivo_imperfetto crescere tu
+03035;Fue bueno que él/ella creciera / creciese;Era bello che lui/lei crescesse;congiuntivo_imperfetto crescere lui_lei
+03036;Fue bueno que nosotros creciéramos / creciésemos;Era bello che noi cresc<i><b>e</b></i>ssimo;congiuntivo_imperfetto crescere noi
+03037;Fue bueno que vosotros crecierais / crecieseis;Era bello che voi cresceste;congiuntivo_imperfetto crescere voi
+03038;Fue bueno que ellos crecieran / creciesen;Era bello che loro cresc<i><b>e</b></i>ssero;congiuntivo_imperfetto crescere loro
 03039;¡Crece!;Cresci!;crescere imperativo tu
 03040;¡Crezca!;Cresca!;crescere imperativo lui_lei
 03041;¡Crezcamos!;Cresciamo!;crescere imperativo noi

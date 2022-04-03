@@ -16,9 +16,9 @@ http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
 ┌─────────────┐
 │ Description │
 └─────────────┘
-É MUITO RECOMENDADO ler o manual para uma descrição deetalhada do seu uso ou para versões em outras línguas http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+É MUITO RECOMENDADO ler o manual para uma descrição detalhada do seu uso ou para versões em outras línguas http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
 
-Este baralho foi adaptado e traduzido para português por Eva Medeiros a partir do Ultimate Italian Conjugation: https://ankiweb.net/shared/info/1891639832.
+Este baralho foi adaptado e traduzido para português por Eva Medeiros a partir do Ultimate Italian Conjugation.
 
 É aconselhado usar este baralho mesmo na fase inicial de aprender italiano porque muitos destes verbos são bastante comuns. Este baralho está organizado por verbo em vez de por tempo porque, como já sabemos da língua portuguesa, não dá para fazer quase nada com só o presente do indicativo e quase todo o material que lemos usa vários tempos e modos verbais. É mais fácil reconhecer que um verbo está no futuro do indicativo e pesquisar o significado do verbo em si do que saber o significado de um verbo e ter de navegar uma tabela enorme para perceber em que tempo está a ser usado.
 Felizmente para nós, a conjugação de verbos em italiano é bastante semelhante a português e a maioria dos tempos verbais tem equivalente na nossa língua.
@@ -40,5 +40,11 @@ Este baralho tem 3043 cartas para 60 verbos. Para cada verbo há o seguinte núm
 Recomenda-se mudar o número de novas cartas por dia para 0 e escolher manualmente o número de cartas a estudar. Evite quebrar um tempo verbal a meio. Para verbos de 51 cartas isto significa estudar novas cartas em grupos de 4 (infinitivo, gerúndio, e particípios), 6, 6, 6, 6, 6, 6, 6, e 5 (imperativo). Veja o número de cartas que o próximo verbo tem porque alguns não têm o particípio presente e/ou o imperativo.
 
 
-Visite o GitHub para quaisquer pedidos ou correcções que queira recomendar: https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
+Este extenso baralho é fruto de um longo projecto e actualizado regularmente. Para beneficiar o mais possível dele é necessário ler o manual: 
+http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
 
+Visite o GitHub para quaisquer pedidos ou correcções que queira recomendar: 
+https://github.com/boolbag/Anki-Goodies/tree/master/Decks/Italian
+
+Baralho original inglês-italiano: 
+https://ankiweb.net/shared/info/1891639832

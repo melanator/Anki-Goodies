@@ -1,0 +1,82 @@
+Baseado no baralho Ultimate Italian Conjugation; para uma descrição mais detalhada ou para versões em outras línguas, visite http://www.asiteaboutnothing.net/w_italian-conjugation-flashcards.html
+
+É aconselhado usar este baralho mesmo na fase inicial de aprender italiano porque muitos destes verbos são bastante comuns. Este baralho está organizado por verbo em vez de por tempo porque, como já sabemos da língua portuguesa, não dá para fazer quase nada com só o presente do indicativo e quase todo o material que lemos usa vários tempos e modos verbais. É mais fácil reconhecer que um verbo está no futuro do indicativo e pesquisar o significado do verbo em si do que saber o significado de um verbo e ter de navegar uma tabela enorme para perceber em que tempo está a ser usado.
+Felizmente para nós, a conjugação de verbos em italiano é bastante semelhante a português e a maioria dos tempos verbais tem equivalente na nossa língua.
+
+Este baralho tem 3043 cartas para 60 verbos. Para cada verbo há o seguinte número de cartas:
++1 infinitivo/infinito
++1 gerúndio/gerundio
++1 particípio passado/participio passato
++1 particípio presente/participio presente (não existe em português)
++6 presente do indicativo/presente dell’indicativo
++6 pretérito imperfeito do indicativo/imperfetto dell’indicativo
++6 pretérito perfeito do indicativo/passato remoto dell’indicativo
++6 futuro do indicativo/futuro semplice dell’indicativo
++6 condicional/condizionale presente
++6 presente do conjuntivo/congiuntivo presente
++6 pretérito imperfeito do conjuntivo/congiuntivo imperfetto
++5 imperativo
+
+Recomenda-se mudar o número de novas cartas por dia para 0 e escolher manualmente o número de cartas a estudar. Evite quebrar um tempo verbal a meio. Para verbos de 51 cartas isto significa estudar novas cartas em grupos de 4 (infinitivo, gerúndio, e particípios), 6, 6, 6, 6, 6, 6, 6, e 5 (imperativo). Veja o número de cartas que o próximo verbo tem porque alguns não têm o particípio presente e/ou o imperativo.
+
+A lista ordenada de verbos deste baralho é:
+01. Ter (Avere): 51 cartas
+02. Ser (Essere): 51 cartas
+03. Amar (Amare): 51 cartas
+04. Crer (Credere): 51 cartas
+05. Partir (Partire): 51 cartas
+06. Ver (Vedere): 51 cartas
+07. Querer (Volere): 51 cartas
+08. Fazer (Fare): 51 cartas
+09. Poder (Potere): 46 cartas
+10. Saber (Sapere): 50 cartas
+11. Dever (Dovere): 45 cartas
+12. Ir (Andare): 51 cartas
+13. Estar (Stare): 51 cartas
+14. Dizer (Dire): 51 cartas
+15. Dar (Dare): 51 cartas
+16. Ouvir (Udire): 51 cartas
+17. Falar (Parlare): 51 cartas
+18. Agradar (Piacere): 51 cartas
+19. Vir (Venire): 51 cartas
+20. Segurar (Tenere): 51 cartas
+21. Acabar (Finire): 51 cartas
+22. Sair (Uscire): 51 cartas
+23. Pegar (Prendere): 51 cartas
+24. Escolher (Scegliere): 51 cartas
+25. Atrair (Attrarre): 51 cartas
+26. Pôr (Porre): 51 cartas
+27. Conduzir (Condurre): 51 cartas
+28. Ler (Leggere): 51 cartas
+29. Parecer (Parere): 46 cartas
+30. Beber (Bere): 51 cartas
+31. Sentar (Sedere): 51 cartas
+32. Valer (Valere): 51 cartas
+33. Ficar (Rimanere): 51 cartas
+34. Aparecer (Apparire): 51 cartas
+35. Morrer (Morire): 51 cartas
+36. Subir (Salire): 51 cartas
+37. Cozer (Cuocere): 51 cartas
+38. Desligar (Spegnere): 51 cartas
+39. Meter (Mettere): 51 cartas
+40. Comer (Mangiare): 51 cartas
+41. Compreender (Capire): 51 cartas
+42. Abrir (Aprire): 51 cartas
+43. Perguntar (Chiedere): 51 cartas
+44. Conhecer (Conoscere): 51 cartas
+45. Perder (Perdere): 51 cartas
+46. Responder (Rispondere): 51 cartas
+47. Escrever (Scrivere): 51 cartas
+48. Gastar (Spendere): 51 cartas
+49. Viver (Vivere): 51 cartas
+50. Quebrar (Rompere): 51 cartas
+51. Correr (Correre): 51 cartas
+52. Aprender (Imparare): 51 cartas
+53. Remover (Togliere): 51 cartas
+54. Assumir (Assumere): 51 cartas
+55. Cair (Cadere): 51 cartas
+56. Magoar (Dolere): 51 cartas
+57. Vencer (Vincere): 51 cartas
+58. Rir (Ridere): 51 cartas
+59. Conseguir (Riuscire): 51 cartas
+60. Crescer (Crescere): 51 cartas 

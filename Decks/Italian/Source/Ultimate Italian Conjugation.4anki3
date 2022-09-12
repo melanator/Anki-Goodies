@@ -170,7 +170,7 @@
 00036;It seems funny that you <i><b>(tu)</b></i> should have;Sembra divertente che tu <i><b>a</b></i>bbia;avere congiuntivo_presente tu
 00037;It seems funny that he/she should have;Sembra divertente che lui/lei <i><b>a</b></i>bbia;avere congiuntivo_presente lui_lei
 00038;It seems funny that we should have;Sembra divertente che noi abbiamo;avere congiuntivo_presente noi
-00039;It seems funny that y'all should have;Sembra divertente che voi abbiate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;avere congiuntivo_presente voi
+00039;It seems funny that y'all should have;Sembra divertente che voi abbiate;avere congiuntivo_presente voi
 00040;It seems funny that they should have;Sembra divertente che loro <i><b>a</b></i>bbiano;avere congiuntivo_presente loro
 
 00041;It <i><b>was</b></i> good that I should have;Era bello che io avessi;avere congiuntivo_imperfetto io
@@ -183,7 +183,7 @@
 00047;Have! <i><b>(tu)</b></i>;Abbi!;avere imperativo tu
 00048;May he/she have!;<i><b>A</b></i>bbia!;avere imperativo lui_lei
 00049;Let's have!;Abbiamo!;avere imperativo noi
-00050;Have! <i><b>(voi)</b></i>;Abbiate!;avere imperativo voi
+00050;Have! <i><b>(voi)</b></i>;Abbiate!<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;avere imperativo voi
 00051;May they have!;<i><b>A</b></i>bbiano!;avere imperativo loro
 
 
@@ -237,7 +237,7 @@
 00087;It seems funny that you <i><b>(tu)</b></i> should be;Sembra divertente che tu sia;congiuntivo_presente essere tu
 00088;It seems funny that he/she should be;Sembra divertente che lui/lei sia;congiuntivo_presente essere lui_lei
 00089;It seems funny that we should be;Sembra divertente che noi siamo;congiuntivo_presente essere noi
-00090;It seems funny that y'all should be;Sembra divertente che voi siate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente essere voi
+00090;It seems funny that y'all should be;Sembra divertente che voi siate;congiuntivo_presente essere voi
 00091;It seems funny that they should be;Sembra divertente che loro s<i><b>i</b></i>ano;congiuntivo_presente essere loro
 
 00092;It <i><b>was</b></i> good that I should be;Era bello che io fossi;congiuntivo_imperfetto essere io
@@ -250,7 +250,7 @@
 00098;Be! <i><b>(tu)</b></i>;Sii!;essere imperativo tu
 00099;May he/she be!;Sia!;essere imperativo lui_lei
 00100;Let's be!;Siamo!;essere imperativo noi
-00101;Be! <i><b>(voi)</b></i>;Siate!;essere imperativo voi
+00101;Be! <i><b>(voi)</b></i>;Siate!<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;essere imperativo voi
 00102;May they be!;S<i><b>i</b></i>ano!;essere imperativo loro
 
 
@@ -572,7 +572,7 @@
 00342;It seems funny that you <i><b>(tu)</b></i> should want;Sembra divertente che tu v<i><b>o</b></i>glia;congiuntivo_presente tu volere
 00343;It seems funny that he/she should want;Sembra divertente che lui/lei v<i><b>o</b></i>glia;congiuntivo_presente lui_lei volere
 00344;It seems funny that we should want;Sembra divertente che noi vogliamo;congiuntivo_presente noi volere
-00345;It seems funny that y'all should want;Sembra divertente che voi vogliate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente voi volere
+00345;It seems funny that y'all should want;Sembra divertente che voi vogliate;congiuntivo_presente voi volere
 00346;It seems funny that they should want;Sembra divertente che loro v<i><b>o</b></i>gliano;congiuntivo_presente loro volere
 
 00347;It <i><b>was</b></i> good that I should want;Era bello che io volessi;congiuntivo_imperfetto io volere
@@ -585,7 +585,7 @@
 00353;Want! <i><b>(tu)</b></i>;Vuoi! / Vogli!;imperativo tu volere
 00354;May he/she want!;V<i><b>o</b></i>glia!;imperativo lui_lei volere
 00355;Let's want!;Vogliamo!;imperativo noi volere
-00356;Want! <i><b>(voi)</b></i>;Vogliate!;imperativo voi volere
+00356;Want! <i><b>(voi)</b></i>;Vogliate!<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;imperativo voi volere
 00357;May they want!;V<i><b>o</b></i>gliano!;imperativo loro volere
 
 
@@ -769,7 +769,7 @@
 00489;It seems funny that you <i><b>(tu)</b></i> should know;Sembra divertente che tu s<i><b>a</b></i>ppia;congiuntivo_presente sapere tu
 00490;It seems funny that he/she should know;Sembra divertente che lui/lei s<i><b>a</b></i>ppia;congiuntivo_presente lui_lei sapere
 00491;It seems funny that we should know;Sembra divertente che noi sappiamo;congiuntivo_presente noi sapere
-00492;It seems funny that y'all should know;Sembra divertente che voi sappiate<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;congiuntivo_presente sapere voi
+00492;It seems funny that y'all should know;Sembra divertente che voi sappiate;congiuntivo_presente sapere voi
 00493;It seems funny that they should know;Sembra divertente che loro s<i><b>a</b></i>ppiano;congiuntivo_presente loro sapere
 
 00494;It <i><b>was</b></i> good that I should know;Era bello che io sapessi;congiuntivo_imperfetto io sapere
@@ -782,7 +782,7 @@
 00500;Know! <i><b>(tu)</b></i>;Sappi!;imperativo sapere tu
 00501;May he/she know!;S<i><b>a</b></i>ppia!;imperativo lui_lei sapere
 00502;Let's know!;Sappiamo!;imperativo noi sapere
-00503;Know! <i><b>(voi)</b></i>;Sappiate!;imperativo sapere voi
+00503;Know! <i><b>(voi)</b></i>;Sappiate!<br><br>four exceptions: <i>siate, abbiate, sappiate, vogliate</i>;imperativo sapere voi
 00504;May they know!;S<i><b>a</b></i>ppiano!;imperativo loro sapere
 
 

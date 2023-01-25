@@ -1,4 +1,21 @@
-### Ultimate Spanish Conjugation
+## Ultimate Spanish Conjugation
+
+## This fork adds audio for each card
+
+Added new field added to generate MP3 audio by AwesomeTTS addin within Anki application
+
+<b>How to:</b>
+* Add field in card default card template
+![Fields](./screenshots/fields.PNG)
+* Import new file and select fields
+![Importt](./screenshots/import.PNG)
+* In "Browse" select all deck cards and click AwesomeTTS
+* Select <b>SpanishDict</b> and <b>Spanish</b> voice
+* Select new field as <b>source</b> and <b>destination fields</b>, click <b>Overwrite destination field w/ Media Filename</b>
+![awesoome](./screenshots/awesome.PNG)
+* Wait until MP3 are generated
+<i>Note: to decrese stop between generating, go to Awesome options and decreasing Throttling option</i>
+* ![awesoome](./screenshots/awesome config.PNG)
 
 ## TL;DR: this is an AWESOME deck, but ONLY if you [READ THE MANUAL](http://www.asiteaboutnothing.net/w_ultimate_spanish_conjugation.html)
 

@@ -1,6 +1,7 @@
 ## Ultimate Spanish Conjugation
+## This fork adds audio for each card <br>Download deck with audio or follow instructions below to add 
 
-## This fork adds audio for each card
+
 ![Audio](./screenshots/card_wth_audio.PNG)
 
 Added new field added to generate MP3 audio by AwesomeTTS addin within Anki application
